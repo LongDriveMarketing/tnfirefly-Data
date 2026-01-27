@@ -1,0 +1,437 @@
+District Name,District Number,Staff Type,American Indian or Alaska Native,Asian,Black or African American,Hispanic or Latino,Native Hawaiian or Pacific Islander,Multiple Races/Ethnicities,White,Unknown Race/Ethnicity
+State of Tennessee,0,Administrators,0.1%,0.2%,20.6%,1.0%,0.1%,0.5%,72.8%,4.8%
+State of Tennessee,0,All Educators,0.1%,0.4%,11.3%,1.8%,0.0%,0.7%,77.0%,8.8%
+State of Tennessee,0,Teachers,0.1%,0.5%,10.2%,1.9%,0.0%,0.7%,77.5%,9.1%
+Anderson County,10,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,87.5%,12.5%
+Anderson County,10,All Educators,0.2%,0.2%,0.4%,0.6%,0.0%,0.4%,86.9%,11.4%
+Anderson County,10,Teachers,0.2%,0.2%,0.2%,0.7%,0.0%,0.5%,86.5%,11.5%
+Clinton,11,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Clinton,11,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,76.8%,23.2%
+Clinton,11,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,72.9%,27.1%
+Oak Ridge,12,Administrators,0.0%,0.0%,5.3%,0.0%,0.0%,0.0%,94.7%,0.0%
+Oak Ridge,12,All Educators,0.2%,0.5%,4.9%,2.7%,0.0%,0.7%,89.2%,1.7%
+Oak Ridge,12,Teachers,0.3%,0.6%,5.0%,2.8%,0.0%,0.9%,88.3%,1.9%
+Bedford County,20,Administrators,0.0%,0.0%,9.1%,3.0%,0.0%,0.0%,87.9%,0.0%
+Bedford County,20,All Educators,0.2%,0.0%,2.7%,2.1%,0.0%,0.5%,85.3%,9.2%
+Bedford County,20,Teachers,0.2%,0.0%,2.3%,2.3%,0.0%,0.6%,85.8%,8.8%
+Benton County,30,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Benton County,30,All Educators,0.0%,0.0%,0.6%,0.0%,0.0%,0.0%,93.3%,6.1%
+Benton County,30,Teachers,0.0%,0.0%,0.7%,0.0%,0.0%,0.0%,93.1%,6.2%
+Bledsoe County,40,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Bledsoe County,40,All Educators,0.0%,0.0%,0.0%,0.8%,0.0%,0.0%,91.3%,7.9%
+Bledsoe County,40,Teachers,0.0%,0.0%,0.0%,1.0%,0.0%,0.0%,91.0%,8.0%
+Blount County,50,Administrators,0.0%,0.0%,2.7%,2.7%,0.0%,2.7%,91.9%,0.0%
+Blount County,50,All Educators,0.1%,0.0%,1.0%,1.6%,0.0%,0.2%,85.6%,11.5%
+Blount County,50,Teachers,0.2%,0.0%,0.9%,1.2%,0.0%,0.2%,84.8%,12.7%
+Alcoa,51,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,88.9%,11.1%
+Alcoa,51,All Educators,0.0%,0.0%,6.1%,3.0%,0.0%,0.6%,77.6%,12.7%
+Alcoa,51,Teachers,0.0%,0.0%,6.7%,3.7%,0.0%,0.7%,74.6%,14.2%
+Maryville,52,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,90.5%,9.5%
+Maryville,52,All Educators,0.0%,0.7%,1.4%,1.2%,0.0%,0.0%,86.7%,9.9%
+Maryville,52,Teachers,0.0%,0.9%,1.9%,1.5%,0.0%,0.0%,85.8%,9.9%
+Bradley County,60,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Bradley County,60,All Educators,0.1%,0.4%,1.0%,0.7%,0.1%,0.0%,87.9%,9.7%
+Bradley County,60,Teachers,0.2%,0.5%,1.2%,0.9%,0.2%,0.0%,86.4%,10.6%
+Cleveland,61,Administrators,0.0%,0.0%,15.0%,0.0%,10.0%,0.0%,70.0%,5.0%
+Cleveland,61,All Educators,0.0%,0.0%,3.1%,3.1%,0.4%,0.4%,85.2%,7.6%
+Cleveland,61,Teachers,0.0%,0.0%,2.9%,3.5%,0.0%,0.3%,85.3%,7.9%
+Campbell County,70,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,91.3%,8.7%
+Campbell County,70,All Educators,0.3%,0.3%,0.0%,0.0%,0.3%,0.3%,89.3%,9.6%
+Campbell County,70,Teachers,0.4%,0.0%,0.0%,0.0%,0.4%,0.4%,89.4%,9.5%
+Cannon County,80,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,90.0%,10.0%
+Cannon County,80,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,1.4%,91.6%,7.0%
+Cannon County,80,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,1.9%,91.5%,6.6%
+Carroll County,90,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Carroll County,90,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,88.9%,11.1%
+Carroll County,90,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,87.5%,12.5%
+Hollow Rock - Bruceton,92,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Hollow Rock - Bruceton,92,All Educators,0.0%,1.9%,3.8%,0.0%,0.0%,0.0%,84.9%,9.4%
+Hollow Rock - Bruceton,92,Teachers,0.0%,2.3%,4.7%,0.0%,0.0%,0.0%,81.4%,11.6%
+Huntingdon,93,Administrators,0.0%,0.0%,16.7%,0.0%,0.0%,0.0%,83.3%,0.0%
+Huntingdon,93,All Educators,0.0%,0.0%,2.7%,0.0%,0.0%,0.0%,91.1%,6.2%
+Huntingdon,93,Teachers,0.0%,0.0%,2.2%,0.0%,0.0%,0.0%,91.2%,6.6%
+McKenzie,94,Administrators,0.0%,0.0%,16.7%,0.0%,0.0%,0.0%,83.3%,0.0%
+McKenzie,94,All Educators,0.0%,0.0%,3.1%,2.1%,0.0%,0.0%,89.7%,5.2%
+McKenzie,94,Teachers,0.0%,0.0%,2.7%,2.7%,0.0%,0.0%,87.8%,6.8%
+South Carroll,95,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+South Carroll,95,All Educators,0.0%,0.0%,0.0%,4.2%,0.0%,0.0%,95.8%,0.0%
+South Carroll,95,Teachers,0.0%,0.0%,0.0%,5.0%,0.0%,0.0%,95.0%,0.0%
+West Carroll Sp Dist,97,Administrators,0.0%,0.0%,25.0%,0.0%,0.0%,0.0%,50.0%,25.0%
+West Carroll Sp Dist,97,All Educators,0.0%,0.0%,5.2%,0.0%,0.0%,0.0%,87.0%,7.8%
+West Carroll Sp Dist,97,Teachers,0.0%,0.0%,3.1%,0.0%,0.0%,0.0%,90.6%,6.2%
+Carter County,100,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Carter County,100,All Educators,0.0%,0.0%,0.0%,0.2%,0.0%,0.0%,89.6%,10.1%
+Carter County,100,Teachers,0.0%,0.0%,0.0%,0.3%,0.0%,0.0%,89.6%,10.1%
+Elizabethton,101,Administrators,0.0%,0.0%,0.0%,7.7%,0.0%,0.0%,92.3%,0.0%
+Elizabethton,101,All Educators,0.0%,0.4%,0.4%,1.3%,0.4%,0.9%,88.0%,8.5%
+Elizabethton,101,Teachers,0.0%,0.5%,0.5%,1.1%,0.5%,1.1%,86.9%,9.3%
+Cheatham County,110,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Cheatham County,110,All Educators,0.0%,0.2%,0.5%,0.9%,0.0%,0.5%,87.3%,10.6%
+Cheatham County,110,Teachers,0.0%,0.3%,0.6%,1.2%,0.0%,0.6%,85.6%,11.6%
+Chester County,120,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Chester County,120,All Educators,0.5%,0.0%,1.5%,0.0%,0.0%,1.0%,91.6%,5.4%
+Chester County,120,Teachers,0.6%,0.0%,1.2%,0.0%,0.0%,1.2%,90.7%,6.2%
+Claiborne County,130,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Claiborne County,130,All Educators,0.0%,0.0%,0.6%,0.6%,0.0%,0.0%,88.0%,10.8%
+Claiborne County,130,Teachers,0.0%,0.0%,0.4%,0.8%,0.0%,0.0%,86.1%,12.7%
+Clay County,140,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Clay County,140,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,87.7%,12.3%
+Clay County,140,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,89.7%,10.3%
+Cocke County,150,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,78.6%,21.4%
+Cocke County,150,All Educators,0.0%,0.0%,0.9%,0.6%,0.0%,0.9%,86.8%,10.7%
+Cocke County,150,Teachers,0.0%,0.0%,1.1%,0.4%,0.0%,0.8%,86.6%,11.1%
+Newport,151,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,84.2%,15.8%
+Newport,151,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,86.7%,13.3%
+Coffee County,160,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,92.0%,8.0%
+Coffee County,160,All Educators,0.0%,0.0%,0.3%,0.3%,0.0%,0.6%,90.6%,8.3%
+Coffee County,160,Teachers,0.0%,0.0%,0.4%,0.4%,0.0%,0.8%,90.0%,8.5%
+Manchester,161,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,85.7%,14.3%
+Manchester,161,All Educators,0.0%,0.8%,0.8%,0.0%,0.0%,0.8%,86.8%,10.9%
+Manchester,161,Teachers,0.0%,1.0%,1.0%,0.0%,0.0%,1.0%,85.4%,11.7%
+Tullahoma,162,Administrators,0.0%,0.0%,7.7%,0.0%,0.0%,0.0%,84.6%,7.7%
+Tullahoma,162,All Educators,0.7%,0.0%,2.6%,0.7%,0.0%,0.7%,88.3%,6.9%
+Tullahoma,162,Teachers,1.0%,0.0%,2.4%,1.0%,0.0%,0.0%,87.1%,8.6%
+Crockett County,170,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Crockett County,170,All Educators,0.0%,0.7%,4.0%,0.7%,0.0%,0.0%,89.3%,5.4%
+Crockett County,170,Teachers,0.0%,0.0%,5.2%,0.9%,0.0%,0.0%,88.7%,5.2%
+Alamo,171,Administrators,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+Alamo,171,All Educators,0.0%,0.0%,2.6%,2.6%,0.0%,0.0%,89.7%,5.1%
+Alamo,171,Teachers,0.0%,0.0%,0.0%,2.8%,0.0%,0.0%,91.7%,5.6%
+Bells,172,All Educators,0.0%,0.0%,3.2%,0.0%,0.0%,0.0%,80.6%,16.1%
+Bells,172,Teachers,0.0%,0.0%,3.8%,0.0%,0.0%,0.0%,76.9%,19.2%
+Cumberland County,180,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,96.0%,4.0%
+Cumberland County,180,All Educators,0.0%,0.2%,0.2%,1.0%,0.0%,0.2%,88.9%,9.5%
+Cumberland County,180,Teachers,0.0%,0.2%,0.2%,1.0%,0.0%,0.2%,88.6%,9.7%
+Davidson County,190,Administrators,0.3%,0.6%,46.5%,2.9%,0.0%,1.4%,42.5%,5.8%
+Davidson County,190,All Educators,0.2%,1.0%,24.1%,3.4%,0.0%,1.3%,60.3%,9.7%
+Davidson County,190,Teachers,0.2%,1.0%,20.9%,4.0%,0.0%,1.5%,62.6%,9.8%
+Decatur County,200,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,90.0%,10.0%
+Decatur County,200,All Educators,0.0%,0.0%,1.6%,1.6%,0.0%,0.0%,88.2%,8.7%
+Decatur County,200,Teachers,0.0%,0.0%,2.1%,0.0%,0.0%,0.0%,89.7%,8.2%
+DeKalb County,210,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+DeKalb County,210,All Educators,0.0%,0.4%,0.0%,0.4%,0.0%,0.0%,89.6%,9.6%
+DeKalb County,210,Teachers,0.0%,0.6%,0.0%,0.6%,0.0%,0.0%,89.9%,8.9%
+Dickson County,220,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,93.8%,6.2%
+Dickson County,220,All Educators,0.0%,0.0%,1.7%,1.2%,0.0%,0.8%,88.9%,7.5%
+Dickson County,220,Teachers,0.0%,0.0%,1.3%,1.7%,0.0%,0.8%,90.1%,6.1%
+Dyer County,230,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,92.9%,7.1%
+Dyer County,230,All Educators,0.4%,0.0%,0.4%,1.1%,0.0%,0.0%,90.4%,7.7%
+Dyer County,230,Teachers,0.4%,0.0%,0.4%,1.3%,0.0%,0.0%,90.0%,7.9%
+Dyersburg,231,Administrators,0.0%,0.0%,30.0%,0.0%,0.0%,0.0%,70.0%,0.0%
+Dyersburg,231,All Educators,0.0%,0.0%,7.8%,1.5%,0.0%,1.5%,81.9%,7.4%
+Dyersburg,231,Teachers,0.0%,0.0%,7.2%,1.8%,0.0%,1.2%,81.4%,8.4%
+Fayette County,240,Administrators,0.0%,0.0%,73.3%,0.0%,0.0%,0.0%,26.7%,0.0%
+Fayette County,240,All Educators,0.0%,0.0%,35.9%,1.3%,0.0%,0.4%,54.7%,7.7%
+Fayette County,240,Teachers,0.0%,0.0%,29.4%,1.7%,0.0%,0.6%,58.3%,10.0%
+Fentress County,250,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,88.9%,11.1%
+Fentress County,250,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.6%,85.9%,13.5%
+Fentress County,250,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.8%,86.4%,12.8%
+Franklin County,260,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Franklin County,260,All Educators,0.3%,0.0%,2.0%,0.5%,0.3%,1.0%,84.4%,11.5%
+Franklin County,260,Teachers,0.3%,0.0%,2.6%,0.7%,0.3%,1.3%,80.8%,13.9%
+Humboldt,271,Administrators,0.0%,0.0%,60.0%,0.0%,0.0%,0.0%,40.0%,0.0%
+Humboldt,271,All Educators,0.0%,0.0%,42.9%,1.1%,0.0%,1.1%,48.4%,6.6%
+Humboldt,271,Teachers,0.0%,0.0%,38.9%,1.4%,0.0%,1.4%,50.0%,8.3%
+Milan,272,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Milan,272,All Educators,0.0%,0.0%,4.9%,0.6%,0.0%,1.2%,92.1%,1.2%
+Milan,272,Teachers,0.0%,0.0%,4.0%,0.0%,0.0%,1.6%,92.8%,1.6%
+Trenton,273,Administrators,0.0%,0.0%,16.7%,0.0%,0.0%,0.0%,83.3%,0.0%
+Trenton,273,All Educators,0.0%,0.0%,3.9%,0.0%,0.0%,0.0%,84.5%,11.7%
+Trenton,273,Teachers,0.0%,0.0%,3.7%,0.0%,0.0%,0.0%,85.4%,11.0%
+Bradford,274,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Bradford,274,All Educators,0.0%,0.0%,2.0%,0.0%,0.0%,0.0%,90.2%,7.8%
+Bradford,274,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,89.7%,10.3%
+Gibson Co Sp Dist,275,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,94.1%,5.9%
+Gibson Co Sp Dist,275,All Educators,0.0%,0.0%,0.8%,0.0%,0.0%,0.4%,90.6%,8.3%
+Gibson Co Sp Dist,275,Teachers,0.0%,0.0%,0.9%,0.0%,0.0%,0.5%,90.9%,7.7%
+Giles County,280,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,93.8%,6.2%
+Giles County,280,All Educators,0.7%,0.0%,1.4%,0.7%,0.0%,0.0%,90.2%,7.0%
+Giles County,280,Teachers,0.5%,0.0%,1.8%,0.9%,0.0%,0.0%,91.3%,5.5%
+Grainger County,290,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,92.3%,7.7%
+Grainger County,290,All Educators,0.0%,0.0%,0.0%,0.8%,0.0%,0.0%,89.6%,9.6%
+Grainger County,290,Teachers,0.0%,0.0%,0.0%,1.0%,0.0%,0.0%,87.8%,11.2%
+Greene County,300,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,96.2%,3.8%
+Greene County,300,All Educators,0.2%,0.0%,0.4%,0.2%,0.0%,0.2%,90.9%,8.0%
+Greene County,300,Teachers,0.3%,0.0%,0.5%,0.3%,0.0%,0.3%,90.6%,8.0%
+Greeneville,301,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Greeneville,301,All Educators,0.0%,0.0%,1.7%,0.8%,0.0%,0.0%,89.4%,8.1%
+Greeneville,301,Teachers,0.0%,0.0%,1.6%,1.1%,0.0%,0.0%,88.8%,8.5%
+Grundy County,310,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,85.7%,14.3%
+Grundy County,310,All Educators,0.0%,0.0%,0.0%,0.8%,0.0%,0.0%,91.7%,7.6%
+Grundy County,310,Teachers,0.0%,0.0%,0.0%,1.0%,0.0%,0.0%,90.9%,8.1%
+Hamblen County,320,Administrators,0.0%,0.0%,2.9%,0.0%,0.0%,0.0%,94.3%,2.9%
+Hamblen County,320,All Educators,0.0%,0.1%,1.3%,1.1%,0.1%,0.9%,87.2%,9.2%
+Hamblen County,320,Teachers,0.0%,0.2%,1.1%,1.3%,0.2%,1.0%,86.6%,9.7%
+Hamilton County,330,Administrators,1.0%,1.0%,22.5%,1.5%,0.0%,1.0%,69.5%,3.5%
+Hamilton County,330,All Educators,0.1%,0.7%,8.9%,2.5%,0.1%,0.9%,79.1%,7.8%
+Hamilton County,330,Teachers,0.0%,0.7%,7.1%,2.7%,0.0%,1.0%,79.8%,8.7%
+Hancock County,340,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Hancock County,340,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,93.2%,6.8%
+Hancock County,340,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,92.6%,7.4%
+Hardeman County,350,Administrators,0.0%,0.0%,46.7%,0.0%,0.0%,0.0%,53.3%,0.0%
+Hardeman County,350,All Educators,0.0%,0.4%,19.6%,1.1%,0.0%,0.0%,77.7%,1.1%
+Hardeman County,350,Teachers,0.0%,0.5%,16.9%,1.4%,0.0%,0.0%,79.8%,1.4%
+Hardin County,360,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Hardin County,360,All Educators,0.0%,0.0%,0.4%,1.1%,0.0%,0.7%,91.5%,6.3%
+Hardin County,360,Teachers,0.0%,0.0%,0.5%,1.5%,0.0%,1.0%,90.9%,6.1%
+Hawkins County,370,Administrators,0.0%,0.0%,4.0%,0.0%,0.0%,0.0%,88.0%,8.0%
+Hawkins County,370,All Educators,0.2%,0.2%,0.4%,0.4%,0.0%,0.0%,91.1%,7.8%
+Hawkins County,370,Teachers,0.0%,0.0%,0.0%,0.5%,0.0%,0.0%,91.4%,8.1%
+Rogersville,371,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Rogersville,371,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,92.2%,7.8%
+Rogersville,371,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,97.4%,2.6%
+Haywood County,380,Administrators,0.0%,0.0%,22.2%,0.0%,0.0%,0.0%,77.8%,0.0%
+Haywood County,380,All Educators,0.0%,0.0%,23.0%,1.8%,0.0%,0.5%,69.1%,5.5%
+Haywood County,380,Teachers,0.0%,0.0%,21.8%,2.4%,0.0%,0.6%,68.8%,6.5%
+Henderson County,390,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,92.9%,7.1%
+Henderson County,390,All Educators,0.3%,0.0%,2.3%,0.3%,0.0%,0.3%,91.6%,5.0%
+Henderson County,390,Teachers,0.4%,0.0%,1.7%,0.4%,0.0%,0.4%,92.1%,5.0%
+Lexington,391,Administrators,0.0%,0.0%,33.3%,0.0%,0.0%,0.0%,66.7%,0.0%
+Lexington,391,All Educators,0.0%,0.0%,4.3%,1.4%,0.0%,0.0%,84.3%,10.0%
+Lexington,391,Teachers,0.0%,0.0%,3.7%,1.9%,0.0%,0.0%,87.0%,7.4%
+Henry County,400,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,91.7%,8.3%
+Henry County,400,All Educators,0.0%,0.4%,2.2%,0.0%,0.4%,0.4%,90.4%,6.1%
+Henry County,400,Teachers,0.0%,0.5%,2.7%,0.0%,0.5%,0.5%,89.6%,6.0%
+Paris,401,Administrators,0.0%,0.0%,14.3%,0.0%,0.0%,0.0%,85.7%,0.0%
+Paris,401,All Educators,0.0%,0.0%,2.3%,0.0%,0.0%,0.8%,93.0%,3.9%
+Paris,401,Teachers,0.0%,0.0%,1.1%,0.0%,0.0%,1.1%,93.7%,4.2%
+Hickman County,410,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,93.8%,6.2%
+Hickman County,410,All Educators,0.7%,0.4%,0.7%,0.7%,0.0%,0.4%,87.4%,9.7%
+Hickman County,410,Teachers,1.0%,0.0%,0.5%,1.0%,0.0%,0.5%,88.0%,9.0%
+Houston County,420,Administrators,16.7%,0.0%,16.7%,0.0%,0.0%,0.0%,66.7%,0.0%
+Houston County,420,All Educators,1.0%,0.0%,1.0%,1.0%,0.0%,0.0%,86.7%,10.2%
+Houston County,420,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,87.8%,12.2%
+Humphreys County,430,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,92.9%,7.1%
+Humphreys County,430,All Educators,0.0%,0.0%,1.5%,1.0%,0.0%,0.0%,87.6%,9.9%
+Humphreys County,430,Teachers,0.0%,0.0%,1.3%,0.6%,0.0%,0.0%,89.7%,8.4%
+Jackson County,440,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Jackson County,440,All Educators,0.0%,0.0%,0.0%,0.8%,0.0%,0.0%,88.2%,10.9%
+Jackson County,440,Teachers,0.0%,0.0%,0.0%,1.1%,0.0%,0.0%,90.0%,8.9%
+Jefferson County,450,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,95.8%,4.2%
+Jefferson County,450,All Educators,0.0%,0.2%,0.8%,1.0%,0.2%,0.6%,86.8%,10.5%
+Jefferson County,450,Teachers,0.0%,0.2%,0.7%,1.0%,0.2%,0.7%,86.0%,11.0%
+Johnson County,460,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Johnson County,460,All Educators,0.0%,0.0%,0.0%,0.6%,0.0%,0.6%,93.1%,5.6%
+Johnson County,460,Teachers,0.0%,0.0%,0.0%,0.8%,0.0%,0.8%,92.7%,5.7%
+Knox County,470,Administrators,0.0%,0.0%,14.6%,1.0%,0.0%,0.0%,78.6%,5.8%
+Knox County,470,All Educators,0.1%,0.5%,3.1%,1.8%,0.0%,0.8%,82.6%,11.2%
+Knox County,470,Teachers,0.1%,0.5%,2.8%,1.9%,0.0%,0.9%,82.5%,11.3%
+Lauderdale County,490,Administrators,0.0%,0.0%,33.3%,0.0%,0.0%,0.0%,61.1%,5.6%
+Lauderdale County,490,All Educators,0.0%,0.4%,14.5%,0.7%,0.0%,0.7%,78.9%,4.7%
+Lauderdale County,490,Teachers,0.0%,0.5%,13.1%,0.9%,0.0%,0.9%,80.5%,4.1%
+Lawrence County,500,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Lawrence County,500,All Educators,0.0%,0.0%,0.2%,0.2%,0.0%,0.0%,93.0%,6.6%
+Lawrence County,500,Teachers,0.0%,0.0%,0.2%,0.2%,0.0%,0.0%,92.7%,6.8%
+Lewis County,510,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Lewis County,510,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.7%,93.7%,5.6%
+Lewis County,510,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,94.7%,5.3%
+Lincoln County,520,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Lincoln County,520,All Educators,0.4%,0.7%,2.8%,0.7%,0.4%,0.0%,86.0%,9.1%
+Lincoln County,520,Teachers,0.4%,0.9%,2.2%,0.4%,0.4%,0.0%,85.3%,10.3%
+Fayetteville,521,Administrators,0.0%,0.0%,28.6%,0.0%,0.0%,0.0%,71.4%,0.0%
+Fayetteville,521,All Educators,1.0%,0.0%,7.3%,1.0%,0.0%,0.0%,77.1%,13.5%
+Fayetteville,521,Teachers,1.4%,0.0%,4.3%,1.4%,0.0%,0.0%,79.7%,13.0%
+Loudon County,530,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,94.7%,5.3%
+Loudon County,530,All Educators,0.0%,0.3%,0.8%,0.8%,0.0%,0.8%,87.1%,10.3%
+Loudon County,530,Teachers,0.0%,0.3%,0.7%,0.7%,0.0%,1.0%,86.4%,10.8%
+Lenoir City,531,Administrators,0.0%,0.0%,0.0%,11.1%,0.0%,0.0%,66.7%,22.2%
+Lenoir City,531,All Educators,0.0%,0.6%,0.0%,2.9%,0.0%,0.6%,83.9%,12.1%
+Lenoir City,531,Teachers,0.0%,0.8%,0.0%,3.0%,0.0%,0.0%,84.8%,11.4%
+McMinn County,540,Administrators,0.0%,0.0%,5.3%,0.0%,0.0%,0.0%,94.7%,0.0%
+McMinn County,540,All Educators,0.0%,0.3%,1.8%,0.8%,0.0%,0.3%,91.7%,5.2%
+McMinn County,540,Teachers,0.0%,0.3%,1.3%,1.0%,0.0%,0.3%,90.7%,6.3%
+Athens,541,Administrators,0.0%,0.0%,20.0%,0.0%,0.0%,0.0%,80.0%,0.0%
+Athens,541,All Educators,0.0%,0.0%,4.6%,1.5%,0.0%,0.0%,86.9%,6.9%
+Athens,541,Teachers,0.0%,0.0%,3.2%,1.1%,0.0%,0.0%,89.5%,6.3%
+Etowah,542,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Etowah,542,All Educators,0.0%,4.0%,0.0%,0.0%,0.0%,4.0%,80.0%,12.0%
+Etowah,542,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,5.6%,77.8%,16.7%
+McNairy County,550,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,88.2%,11.8%
+McNairy County,550,All Educators,0.3%,0.0%,1.5%,0.3%,0.0%,0.3%,86.9%,10.7%
+McNairy County,550,Teachers,0.4%,0.0%,1.1%,0.4%,0.0%,0.4%,86.6%,11.2%
+Macon County,560,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Macon County,560,All Educators,0.0%,0.0%,0.0%,0.7%,0.0%,0.3%,87.8%,11.2%
+Macon County,560,Teachers,0.0%,0.0%,0.0%,0.8%,0.0%,0.4%,86.8%,11.9%
+Madison County,570,Administrators,0.0%,0.0%,50.8%,0.0%,0.0%,0.0%,47.7%,1.5%
+Madison County,570,All Educators,0.1%,0.2%,30.1%,1.2%,0.0%,0.9%,64.2%,3.4%
+Madison County,570,Teachers,0.1%,0.3%,27.8%,1.4%,0.0%,0.9%,66.1%,3.4%
+Marion County,580,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,5.9%,88.2%,5.9%
+Marion County,580,All Educators,0.0%,0.0%,1.8%,0.0%,0.0%,0.7%,84.2%,13.3%
+Marion County,580,Teachers,0.0%,0.0%,1.8%,0.0%,0.0%,0.0%,83.6%,14.6%
+Richard City,581,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Richard City,581,All Educators,11.8%,0.0%,0.0%,0.0%,0.0%,0.0%,76.5%,11.8%
+Richard City,581,Teachers,14.3%,0.0%,0.0%,0.0%,0.0%,0.0%,71.4%,14.3%
+Marshall County,590,Administrators,0.0%,0.0%,9.1%,0.0%,0.0%,0.0%,86.4%,4.5%
+Marshall County,590,All Educators,0.0%,0.0%,4.0%,1.1%,0.0%,0.3%,86.5%,8.1%
+Marshall County,590,Teachers,0.0%,0.0%,3.4%,1.4%,0.0%,0.3%,85.2%,9.6%
+Maury County,600,Administrators,0.0%,0.0%,15.4%,0.0%,0.0%,0.0%,73.1%,11.5%
+Maury County,600,All Educators,0.2%,0.6%,5.2%,1.8%,0.0%,0.3%,82.3%,9.5%
+Maury County,600,Teachers,0.3%,0.8%,4.9%,2.1%,0.0%,0.3%,82.4%,9.3%
+Meigs County,610,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Meigs County,610,All Educators,0.0%,0.0%,0.7%,1.4%,0.0%,0.7%,85.7%,11.4%
+Meigs County,610,Teachers,0.0%,0.0%,0.0%,1.8%,0.0%,0.0%,84.2%,14.0%
+Monroe County,620,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,87.5%,12.5%
+Monroe County,620,All Educators,0.0%,0.0%,0.6%,0.6%,0.0%,0.6%,86.9%,11.4%
+Monroe County,620,Teachers,0.0%,0.0%,0.7%,0.7%,0.0%,0.7%,87.6%,10.3%
+Sweetwater,621,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Sweetwater,621,All Educators,0.0%,0.0%,2.9%,0.0%,0.0%,0.0%,89.5%,7.6%
+Sweetwater,621,Teachers,0.0%,0.0%,3.7%,0.0%,0.0%,0.0%,89.0%,7.3%
+Montgomery County,630,Administrators,0.0%,1.6%,12.5%,3.9%,0.0%,0.8%,78.9%,2.3%
+Montgomery County,630,All Educators,0.2%,0.7%,9.9%,4.8%,0.1%,1.6%,80.0%,2.7%
+Montgomery County,630,Teachers,0.1%,0.6%,9.4%,5.3%,0.1%,1.5%,80.1%,2.8%
+Moore County,640,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Moore County,640,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,1.3%,89.9%,8.9%
+Moore County,640,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,1.6%,87.5%,10.9%
+Morgan County,650,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,86.7%,13.3%
+Morgan County,650,All Educators,0.0%,0.5%,0.0%,0.5%,0.0%,0.0%,86.6%,12.4%
+Morgan County,650,Teachers,0.0%,0.6%,0.0%,0.6%,0.0%,0.0%,85.3%,13.5%
+Obion County,660,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,93.3%,6.7%
+Obion County,660,All Educators,0.0%,0.0%,0.4%,2.2%,0.0%,0.0%,91.3%,6.2%
+Obion County,660,Teachers,0.0%,0.0%,0.5%,2.8%,0.0%,0.0%,90.7%,6.0%
+Union City,661,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,57.1%,42.9%
+Union City,661,All Educators,0.0%,0.0%,5.2%,0.9%,0.0%,0.9%,83.5%,9.6%
+Union City,661,Teachers,0.0%,0.0%,5.5%,1.1%,0.0%,1.1%,85.7%,6.6%
+Overton County,670,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,93.3%,6.7%
+Overton County,670,All Educators,0.0%,0.0%,0.4%,0.4%,0.0%,0.4%,88.9%,9.7%
+Overton County,670,Teachers,0.0%,0.0%,0.0%,0.6%,0.0%,0.6%,89.0%,9.8%
+Perry County,680,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,87.5%,12.5%
+Perry County,680,All Educators,0.0%,0.0%,0.0%,0.0%,1.0%,0.0%,92.0%,7.0%
+Perry County,680,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,94.7%,5.3%
+Pickett County,690,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Pickett County,690,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,85.2%,14.8%
+Pickett County,690,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,84.1%,15.9%
+Polk County,700,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,88.9%,11.1%
+Polk County,700,All Educators,0.6%,0.0%,0.0%,0.6%,0.0%,0.0%,87.4%,11.5%
+Polk County,700,Teachers,0.7%,0.0%,0.0%,0.7%,0.0%,0.0%,86.9%,11.7%
+Putnam County,710,Administrators,0.0%,2.0%,0.0%,2.0%,0.0%,0.0%,94.0%,2.0%
+Putnam County,710,All Educators,0.1%,0.2%,0.6%,1.8%,0.1%,0.0%,87.2%,9.9%
+Putnam County,710,Teachers,0.1%,0.1%,0.6%,2.2%,0.1%,0.0%,85.7%,11.0%
+Rhea County,720,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,83.3%,16.7%
+Rhea County,720,All Educators,0.3%,0.3%,0.9%,2.8%,0.0%,0.3%,84.2%,11.2%
+Rhea County,720,Teachers,0.4%,0.4%,0.8%,3.2%,0.0%,0.4%,84.3%,10.5%
+Dayton,721,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Dayton,721,All Educators,0.0%,0.0%,1.5%,0.0%,0.0%,0.0%,92.4%,6.1%
+Dayton,721,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,94.4%,5.6%
+Roane County,730,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Roane County,730,All Educators,0.2%,0.4%,0.6%,0.6%,0.0%,0.6%,89.9%,7.6%
+Roane County,730,Teachers,0.3%,0.5%,0.0%,0.8%,0.0%,0.5%,89.3%,8.7%
+Robertson County,740,Administrators,0.0%,0.0%,10.0%,0.0%,0.0%,0.0%,86.0%,4.0%
+Robertson County,740,All Educators,0.1%,0.2%,3.2%,1.8%,0.0%,0.6%,85.4%,8.7%
+Robertson County,740,Teachers,0.1%,0.1%,2.4%,2.2%,0.0%,0.7%,85.3%,9.0%
+Rutherford County,750,Administrators,0.0%,0.0%,13.5%,1.8%,0.0%,0.6%,80.6%,3.5%
+Rutherford County,750,All Educators,0.2%,0.7%,7.0%,2.2%,0.0%,0.9%,81.7%,7.3%
+Rutherford County,750,Teachers,0.2%,0.8%,6.1%,2.4%,0.0%,1.0%,82.2%,7.4%
+Murfreesboro,751,Administrators,0.0%,0.0%,28.6%,3.6%,0.0%,3.6%,64.3%,0.0%
+Murfreesboro,751,All Educators,0.0%,0.9%,9.4%,2.2%,0.1%,0.5%,76.9%,9.9%
+Murfreesboro,751,Teachers,0.0%,1.0%,8.7%,2.4%,0.0%,0.5%,78.2%,9.2%
+Scott County,760,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Scott County,760,All Educators,0.0%,0.5%,0.0%,0.0%,0.0%,0.0%,89.1%,10.4%
+Scott County,760,Teachers,0.0%,0.6%,0.0%,0.0%,0.0%,0.0%,88.5%,10.9%
+Oneida,761,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,80.0%,20.0%
+Oneida,761,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,79.8%,20.2%
+Oneida,761,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,77.8%,22.2%
+Sequatchie County,770,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Sequatchie County,770,All Educators,0.0%,0.0%,0.0%,1.2%,0.0%,0.6%,85.3%,12.9%
+Sequatchie County,770,Teachers,0.0%,0.0%,0.0%,1.6%,0.0%,0.0%,84.7%,13.7%
+Sevier County,780,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,95.0%,5.0%
+Sevier County,780,All Educators,0.0%,0.2%,0.5%,1.2%,0.0%,0.2%,84.6%,13.3%
+Sevier County,780,Teachers,0.0%,0.2%,0.6%,1.3%,0.0%,0.2%,83.7%,13.9%
+Memphis-Shelby County Schools,792,Administrators,0.0%,0.0%,77.4%,0.7%,0.0%,0.5%,14.6%,6.8%
+Memphis-Shelby County Schools,792,All Educators,0.1%,0.8%,60.8%,2.3%,0.0%,0.9%,26.3%,8.9%
+Memphis-Shelby County Schools,792,Teachers,0.1%,1.0%,58.0%,2.7%,0.0%,0.9%,28.2%,9.1%
+Arlington,793,Administrators,0.0%,0.0%,26.7%,0.0%,0.0%,6.7%,66.7%,0.0%
+Arlington,793,All Educators,0.6%,0.0%,11.8%,1.2%,0.0%,0.6%,83.9%,1.9%
+Arlington,793,Teachers,0.8%,0.0%,10.8%,1.5%,0.0%,0.4%,84.6%,1.9%
+Bartlett,794,Administrators,0.0%,0.0%,25.0%,0.0%,0.0%,0.0%,75.0%,0.0%
+Bartlett,794,All Educators,0.0%,0.2%,13.9%,1.8%,0.0%,1.1%,74.6%,8.5%
+Bartlett,794,Teachers,0.0%,0.2%,12.7%,1.6%,0.0%,1.4%,74.7%,9.3%
+Collierville,795,Administrators,0.0%,0.0%,21.6%,8.1%,0.0%,0.0%,70.3%,0.0%
+Collierville,795,All Educators,0.0%,1.0%,13.1%,1.5%,0.0%,1.0%,77.8%,5.6%
+Collierville,795,Teachers,0.0%,1.1%,12.1%,1.3%,0.0%,0.9%,78.0%,6.5%
+Germantown,796,Administrators,0.0%,0.0%,13.0%,0.0%,0.0%,4.3%,82.6%,0.0%
+Germantown,796,All Educators,0.0%,0.9%,5.8%,1.8%,0.0%,0.4%,81.3%,9.8%
+Germantown,796,Teachers,0.0%,1.2%,5.0%,2.3%,0.0%,0.3%,81.3%,9.9%
+Lakeland,797,Administrators,0.0%,0.0%,22.2%,0.0%,0.0%,0.0%,66.7%,11.1%
+Lakeland,797,All Educators,0.0%,0.0%,5.7%,2.5%,0.0%,0.6%,82.4%,8.8%
+Lakeland,797,Teachers,0.0%,0.0%,3.9%,3.1%,0.0%,0.8%,82.7%,9.4%
+Millington,798,Administrators,0.0%,0.0%,18.2%,0.0%,0.0%,0.0%,81.8%,0.0%
+Millington,798,All Educators,0.5%,0.0%,20.4%,3.7%,0.0%,0.5%,66.0%,8.9%
+Millington,798,Teachers,0.7%,0.0%,19.6%,3.9%,0.0%,0.7%,65.4%,9.8%
+Smith County,800,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,88.9%,11.1%
+Smith County,800,All Educators,0.0%,0.0%,0.4%,0.0%,0.0%,0.0%,86.8%,12.8%
+Smith County,800,Teachers,0.0%,0.0%,0.5%,0.0%,0.0%,0.0%,85.6%,13.9%
+Stewart County,810,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Stewart County,810,All Educators,0.0%,0.0%,0.0%,0.0%,0.0%,0.7%,90.1%,9.2%
+Stewart County,810,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.9%,88.8%,10.3%
+Sullivan County,820,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,90.9%,9.1%
+Sullivan County,820,All Educators,0.2%,0.0%,0.2%,0.3%,0.0%,0.3%,87.3%,11.7%
+Sullivan County,820,Teachers,0.2%,0.0%,0.2%,0.4%,0.0%,0.4%,86.4%,12.4%
+Bristol,821,Administrators,0.0%,0.0%,6.7%,0.0%,0.0%,0.0%,93.3%,0.0%
+Bristol,821,All Educators,0.6%,0.3%,0.9%,0.0%,0.0%,0.9%,88.9%,8.4%
+Bristol,821,Teachers,0.8%,0.4%,0.8%,0.0%,0.0%,0.4%,87.8%,9.8%
+Kingsport,822,Administrators,0.0%,0.0%,3.6%,0.0%,0.0%,0.0%,96.4%,0.0%
+Kingsport,822,All Educators,0.0%,0.8%,1.4%,0.8%,0.2%,0.8%,87.3%,8.7%
+Kingsport,822,Teachers,0.0%,1.1%,0.4%,0.9%,0.2%,0.4%,87.6%,9.4%
+Sumner County,830,Administrators,0.0%,1.0%,5.8%,0.0%,0.0%,0.0%,90.4%,2.9%
+Sumner County,830,All Educators,0.1%,0.2%,1.8%,1.8%,0.1%,0.5%,87.4%,8.2%
+Sumner County,830,Teachers,0.2%,0.2%,1.4%,1.9%,0.1%,0.5%,86.9%,8.7%
+Tipton County,840,Administrators,0.0%,0.0%,28.9%,0.0%,0.0%,0.0%,65.8%,5.3%
+Tipton County,840,All Educators,0.0%,0.2%,8.7%,1.4%,0.0%,0.3%,81.1%,8.3%
+Tipton County,840,Teachers,0.0%,0.0%,6.2%,1.6%,0.0%,0.0%,84.3%,8.0%
+Trousdale County,850,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,83.3%,16.7%
+Trousdale County,850,All Educators,0.0%,1.0%,2.0%,0.0%,0.0%,0.0%,89.0%,8.0%
+Trousdale County,850,Teachers,0.0%,1.2%,1.2%,0.0%,0.0%,0.0%,90.4%,7.2%
+Unicoi County,860,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,83.3%,16.7%
+Unicoi County,860,All Educators,0.0%,0.0%,0.0%,0.6%,0.0%,0.0%,89.2%,10.2%
+Unicoi County,860,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,90.4%,9.6%
+Union County,870,Administrators,0.0%,0.0%,4.5%,0.0%,0.0%,0.0%,81.8%,13.6%
+Union County,870,All Educators,0.0%,0.0%,2.6%,0.7%,0.0%,0.9%,84.5%,11.4%
+Union County,870,Teachers,0.0%,0.0%,2.2%,0.8%,0.0%,1.1%,84.6%,11.2%
+Van Buren County,880,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Van Buren County,880,All Educators,0.0%,0.0%,0.0%,1.5%,0.0%,0.0%,89.4%,9.1%
+Van Buren County,880,Teachers,0.0%,0.0%,0.0%,2.0%,0.0%,0.0%,89.8%,8.2%
+Warren County,890,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Warren County,890,All Educators,0.0%,0.2%,0.2%,0.4%,0.0%,0.2%,90.1%,8.9%
+Warren County,890,Teachers,0.0%,0.3%,0.3%,0.3%,0.0%,0.3%,88.9%,10.0%
+Washington County,900,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,93.5%,6.5%
+Washington County,900,All Educators,0.0%,0.5%,0.3%,1.0%,0.0%,0.5%,88.5%,9.3%
+Washington County,900,Teachers,0.0%,0.6%,0.4%,1.3%,0.0%,0.4%,88.1%,9.2%
+Johnson City,901,Administrators,0.0%,0.0%,7.4%,3.7%,0.0%,3.7%,85.2%,0.0%
+Johnson City,901,All Educators,0.2%,0.5%,3.1%,2.1%,0.0%,1.7%,85.0%,7.4%
+Johnson City,901,Teachers,0.2%,0.6%,2.7%,1.9%,0.0%,1.1%,85.1%,8.4%
+Wayne County,910,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,92.3%,7.7%
+Wayne County,910,All Educators,0.0%,0.0%,0.0%,0.5%,0.0%,0.5%,94.9%,4.0%
+Wayne County,910,Teachers,0.0%,0.0%,0.0%,0.7%,0.0%,0.7%,95.3%,3.4%
+Weakley County,920,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Weakley County,920,All Educators,0.3%,0.0%,1.8%,1.2%,0.0%,0.3%,90.3%,6.1%
+Weakley County,920,Teachers,0.4%,0.0%,2.4%,1.6%,0.0%,0.4%,88.5%,6.7%
+White County,930,Administrators,0.0%,0.0%,6.7%,0.0%,0.0%,0.0%,93.3%,0.0%
+White County,930,All Educators,0.0%,0.3%,0.7%,0.7%,0.0%,0.0%,93.8%,4.5%
+White County,930,Teachers,0.0%,0.4%,0.4%,0.4%,0.0%,0.0%,93.6%,5.2%
+Williamson County,940,Administrators,0.0%,0.0%,7.8%,1.4%,0.0%,0.7%,83.7%,6.4%
+Williamson County,940,All Educators,0.1%,0.5%,2.0%,2.1%,0.0%,0.4%,84.6%,10.2%
+Williamson County,940,Teachers,0.1%,0.5%,1.1%,2.1%,0.0%,0.4%,85.3%,10.4%
+Franklin SSD,941,Administrators,0.0%,0.0%,17.6%,0.0%,0.0%,0.0%,82.4%,0.0%
+Franklin SSD,941,All Educators,0.0%,0.0%,5.1%,1.7%,0.3%,0.6%,84.2%,8.2%
+Franklin SSD,941,Teachers,0.0%,0.0%,4.3%,2.0%,0.4%,0.8%,83.8%,8.7%
+Wilson County,950,Administrators,0.0%,0.0%,6.2%,0.0%,0.0%,0.0%,81.2%,12.5%
+Wilson County,950,All Educators,0.0%,0.4%,1.9%,1.4%,0.0%,0.6%,84.6%,11.2%
+Wilson County,950,Teachers,0.0%,0.5%,1.6%,1.4%,0.0%,0.7%,85.2%,10.7%
+Lebanon,951,Administrators,0.0%,0.0%,6.2%,0.0%,0.0%,0.0%,93.8%,0.0%
+Lebanon,951,All Educators,0.0%,0.3%,3.8%,0.6%,0.0%,0.0%,86.7%,8.5%
+Lebanon,951,Teachers,0.0%,0.4%,3.3%,0.4%,0.0%,0.0%,86.5%,9.4%
+West Tenn School For Deaf,960,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+West Tenn School For Deaf,960,All Educators,0.0%,0.0%,6.2%,0.0%,0.0%,0.0%,87.5%,6.2%
+West Tenn School For Deaf,960,Teachers,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,88.9%,11.1%
+Tenn School For Blind,963,Administrators,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+Tenn School For Blind,963,All Educators,0.0%,2.0%,14.0%,2.0%,0.0%,2.0%,74.0%,6.0%
+Tenn School For Blind,963,Teachers,0.0%,0.0%,10.7%,3.6%,0.0%,3.6%,78.6%,3.6%
+Tenn Sch For Deaf,964,Administrators,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%,0.0%
+Tenn Sch For Deaf,964,All Educators,1.9%,0.0%,1.9%,0.0%,1.9%,0.0%,87.0%,7.4%
+Tenn Sch For Deaf,964,Teachers,3.6%,0.0%,3.6%,0.0%,0.0%,0.0%,82.1%,10.7%
+Achievement School District,985,Administrators,0.0%,0.0%,73.3%,0.0%,0.0%,6.7%,13.3%,6.7%
+Achievement School District,985,All Educators,0.4%,0.8%,59.5%,2.9%,0.0%,1.2%,28.1%,7.0%
+Achievement School District,985,Teachers,0.5%,1.0%,59.4%,2.6%,0.0%,1.0%,28.1%,7.3%
+Tenn. Public Charter School Commission,987,Administrators,0.0%,0.0%,100.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+Tenn. Public Charter School Commission,987,All Educators,0.0%,0.5%,47.0%,5.6%,0.0%,2.5%,39.4%,5.1%
+Tenn. Public Charter School Commission,987,Teachers,0.0%,0.0%,42.6%,5.6%,0.0%,3.1%,43.2%,5.6%
