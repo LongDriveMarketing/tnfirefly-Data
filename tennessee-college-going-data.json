@@ -1,0 +1,5120 @@
+{
+  "state": {
+    "cgr_rate": 54.8,
+    "schools_count": 373,
+    "counties_count": 95,
+    "year": "Class of 2023"
+  },
+  "schools": [
+    {
+      "county": "Anderson",
+      "district": "Anderson County",
+      "school": "Anderson County High School",
+      "act_code": "431155",
+      "cgr_years": {
+        "2019": 65.8,
+        "2020": 57.1,
+        "2021": 52.7,
+        "2022": 55.9,
+        "2023": 64.2
+      },
+      "cgr_rate": 64.2
+    },
+    {
+      "county": "Anderson",
+      "district": "Anderson County",
+      "school": "Clinton High School",
+      "act_code": "430390",
+      "cgr_years": {
+        "2019": 54.1,
+        "2020": 53.3,
+        "2021": 46.4,
+        "2022": 53.7,
+        "2023": 57.5
+      },
+      "cgr_rate": 57.5
+    },
+    {
+      "county": "Anderson",
+      "district": "Oak Ridge",
+      "school": "Oak Ridge High School",
+      "act_code": "431800",
+      "cgr_years": {
+        "2019": 77.7,
+        "2020": 73.5,
+        "2021": 67.4,
+        "2022": 66.3,
+        "2023": 69.3
+      },
+      "cgr_rate": 69.3
+    },
+    {
+      "county": "Bedford",
+      "district": "Bedford County",
+      "school": "Cascade High School",
+      "act_code": "432375",
+      "cgr_years": {
+        "2019": 65.5,
+        "2020": 51.8,
+        "2021": 50.7,
+        "2022": 46.7,
+        "2023": 53.1
+      },
+      "cgr_rate": 53.1
+    },
+    {
+      "county": "Bedford",
+      "district": "Bedford County",
+      "school": "Community High School",
+      "act_code": "432345",
+      "cgr_years": {
+        "2019": 45.0,
+        "2020": 36.4,
+        "2021": 50.0,
+        "2022": 59.2,
+        "2023": 47.5
+      },
+      "cgr_rate": 47.5
+    },
+    {
+      "county": "Bedford",
+      "district": "Bedford County",
+      "school": "Shelbyville Central High School",
+      "act_code": "432120",
+      "cgr_years": {
+        "2019": 44.2,
+        "2020": 49.2,
+        "2021": 40.3,
+        "2022": 36.3,
+        "2023": 40.0
+      },
+      "cgr_rate": 40.0
+    },
+    {
+      "county": "Benton",
+      "district": "Benton County",
+      "school": "Big Sandy School",
+      "act_code": "430125",
+      "cgr_years": {
+        "2019": 60.0,
+        "2020": 64.7,
+        "2022": 80.0
+      },
+      "cgr_rate": 80.0
+    },
+    {
+      "county": "Benton",
+      "district": "Benton County",
+      "school": "Camden Central High School",
+      "act_code": "430225",
+      "cgr_years": {
+        "2019": 57.6,
+        "2020": 49.3,
+        "2021": 46.0,
+        "2022": 57.0,
+        "2023": 60.2
+      },
+      "cgr_rate": 60.2
+    },
+    {
+      "county": "Bledsoe",
+      "district": "Bledsoe County",
+      "school": "Bledsoe County High School",
+      "act_code": "431870",
+      "cgr_years": {
+        "2019": 58.0,
+        "2020": 41.7,
+        "2021": 35.2,
+        "2022": 38.4,
+        "2023": 43.6
+      },
+      "cgr_rate": 43.6
+    },
+    {
+      "county": "Blount",
+      "district": "Alcoa",
+      "school": "Alcoa High School",
+      "act_code": "430012",
+      "cgr_years": {
+        "2019": 64.2,
+        "2020": 63.6,
+        "2021": 56.9,
+        "2022": 61.4,
+        "2023": 65.1
+      },
+      "cgr_rate": 65.1
+    },
+    {
+      "county": "Blount",
+      "district": "Blount County",
+      "school": "Heritage High School",
+      "act_code": "431290",
+      "cgr_years": {
+        "2019": 52.4,
+        "2020": 48.4,
+        "2021": 42.6,
+        "2022": 44.7,
+        "2023": 42.6
+      },
+      "cgr_rate": 42.6
+    },
+    {
+      "county": "Blount",
+      "district": "Blount County",
+      "school": "Samuel Everett School Of Innovation",
+      "act_code": "430043",
+      "cgr_years": {
+        "2022": 38.7,
+        "2023": 66.7
+      },
+      "cgr_rate": 66.7
+    },
+    {
+      "county": "Blount",
+      "district": "Blount County",
+      "school": "William Blount High School",
+      "act_code": "431306",
+      "cgr_years": {
+        "2019": 54.7,
+        "2020": 48.3,
+        "2021": 49.7,
+        "2022": 55.3,
+        "2023": 51.7
+      },
+      "cgr_rate": 51.7
+    },
+    {
+      "county": "Blount",
+      "district": "Maryville",
+      "school": "Maryville High School",
+      "act_code": "431300",
+      "cgr_years": {
+        "2019": 75.3,
+        "2020": 75.4,
+        "2021": 68.0,
+        "2022": 67.6,
+        "2023": 71.5
+      },
+      "cgr_rate": 71.5
+    },
+    {
+      "county": "Bradley",
+      "district": "Bradley County",
+      "school": "Bradley Central High School",
+      "act_code": "430370",
+      "cgr_years": {
+        "2019": 56.8,
+        "2020": 56.0,
+        "2021": 55.8,
+        "2022": 55.2,
+        "2023": 53.4
+      },
+      "cgr_rate": 53.4
+    },
+    {
+      "county": "Bradley",
+      "district": "Bradley County",
+      "school": "Bradley County Virtual School",
+      "act_code": "430377",
+      "cgr_years": {
+        "2020": 54.5,
+        "2021": 34.5,
+        "2022": 31.7
+      },
+      "cgr_rate": 31.7
+    },
+    {
+      "county": "Bradley",
+      "district": "Bradley County",
+      "school": "North Cleveland Goal Academy",
+      "act_code": "430380",
+      "cgr_years": {
+        "2019": 26.3
+      },
+      "cgr_rate": 26.3
+    },
+    {
+      "county": "Bradley",
+      "district": "Bradley County",
+      "school": "Walker Valley High School",
+      "act_code": "430384",
+      "cgr_years": {
+        "2019": 77.1,
+        "2020": 78.7,
+        "2021": 71.2,
+        "2022": 68.3,
+        "2023": 66.6
+      },
+      "cgr_rate": 66.6
+    },
+    {
+      "county": "Bradley",
+      "district": "Cleveland",
+      "school": "Cleveland High School",
+      "act_code": "430373",
+      "cgr_years": {
+        "2019": 67.1,
+        "2020": 60.4,
+        "2021": 55.7,
+        "2022": 50.8,
+        "2023": 54.0
+      },
+      "cgr_rate": 54.0
+    },
+    {
+      "county": "Campbell",
+      "district": "Campbell County",
+      "school": "Campbell County Comprehensive High School",
+      "act_code": "431150",
+      "cgr_years": {
+        "2019": 59.7,
+        "2020": 48.8,
+        "2021": 50.9,
+        "2022": 55.7,
+        "2023": 55.7
+      },
+      "cgr_rate": 55.7
+    },
+    {
+      "county": "Campbell",
+      "district": "Campbell County",
+      "school": "Jellico High School",
+      "act_code": "430990",
+      "cgr_years": {
+        "2019": 45.1,
+        "2020": 40.0,
+        "2021": 26.4,
+        "2022": 36.8,
+        "2023": 30.9
+      },
+      "cgr_rate": 30.9
+    },
+    {
+      "county": "Cannon",
+      "district": "Cannon County",
+      "school": "Cannon County High School",
+      "act_code": "432475",
+      "cgr_years": {
+        "2019": 59.5,
+        "2020": 45.7,
+        "2021": 42.0,
+        "2022": 42.0,
+        "2023": 43.9
+      },
+      "cgr_rate": 43.9
+    },
+    {
+      "county": "Carroll",
+      "district": "Hollow Rock - Bruceton",
+      "school": "Central High School",
+      "act_code": "430195",
+      "cgr_years": {
+        "2019": 51.2,
+        "2020": 71.8,
+        "2021": 50.0,
+        "2022": 47.6,
+        "2023": 54.8
+      },
+      "cgr_rate": 54.8
+    },
+    {
+      "county": "Carroll",
+      "district": "Huntingdon Special School District",
+      "school": "Huntingdon High School",
+      "act_code": "430935",
+      "cgr_years": {
+        "2019": 69.2,
+        "2020": 72.8,
+        "2021": 45.9,
+        "2022": 57.7,
+        "2023": 73.5
+      },
+      "cgr_rate": 73.5
+    },
+    {
+      "county": "Carroll",
+      "district": "Mckenzie",
+      "school": "Mckenzie High School",
+      "act_code": "431330",
+      "cgr_years": {
+        "2019": 70.6,
+        "2020": 71.4,
+        "2021": 59.0,
+        "2022": 65.2,
+        "2023": 65.5
+      },
+      "cgr_rate": 65.5
+    },
+    {
+      "county": "Carroll",
+      "district": "South Carroll",
+      "school": "Clarksburg School",
+      "act_code": "430350",
+      "cgr_years": {
+        "2019": 58.8,
+        "2020": 56.5,
+        "2021": 72.0,
+        "2022": 69.0,
+        "2023": 65.0
+      },
+      "cgr_rate": 65.0
+    },
+    {
+      "county": "Carroll",
+      "district": "West Carroll Sp Dist",
+      "school": "West Carroll Junior/Senior High School",
+      "act_code": "431337",
+      "cgr_years": {
+        "2019": 55.4,
+        "2020": 68.4,
+        "2021": 38.2,
+        "2022": 38.5,
+        "2023": 41.3
+      },
+      "cgr_rate": 41.3
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Cloudland High School",
+      "act_code": "431990",
+      "cgr_years": {
+        "2019": 65.9,
+        "2020": 48.3,
+        "2021": 59.3,
+        "2022": 34.0,
+        "2023": 46.3
+      },
+      "cgr_rate": 46.3
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Hampton High School",
+      "act_code": "430850",
+      "cgr_years": {
+        "2019": 53.1,
+        "2020": 51.7,
+        "2021": 47.0,
+        "2022": 45.9,
+        "2023": 53.3
+      },
+      "cgr_rate": 53.3
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Happy Valley High School",
+      "act_code": "431002",
+      "cgr_years": {
+        "2019": 61.4,
+        "2020": 43.6,
+        "2021": 53.5,
+        "2022": 43.2,
+        "2023": 53.8
+      },
+      "cgr_rate": 53.8
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Unaka High School",
+      "act_code": "430632",
+      "cgr_years": {
+        "2019": 42.2,
+        "2020": 44.3,
+        "2021": 37.5,
+        "2022": 47.1,
+        "2023": 30.9
+      },
+      "cgr_rate": 30.9
+    },
+    {
+      "county": "Carter",
+      "district": "Elizabethton",
+      "school": "Elizabethton High School",
+      "act_code": "430630",
+      "cgr_years": {
+        "2019": 73.9,
+        "2020": 77.5,
+        "2021": 59.9,
+        "2022": 62.6,
+        "2023": 65.6
+      },
+      "cgr_rate": 65.6
+    },
+    {
+      "county": "Cheatham",
+      "district": "Cheatham County",
+      "school": "Cheatham County Central High School",
+      "act_code": "430045",
+      "cgr_years": {
+        "2019": 50.7,
+        "2020": 47.7,
+        "2021": 39.3,
+        "2022": 43.8,
+        "2023": 45.7
+      },
+      "cgr_rate": 45.7
+    },
+    {
+      "county": "Cheatham",
+      "district": "Cheatham County",
+      "school": "Harpeth High School",
+      "act_code": "431077",
+      "cgr_years": {
+        "2019": 62.7,
+        "2020": 67.5,
+        "2021": 63.5,
+        "2022": 58.1,
+        "2023": 55.2
+      },
+      "cgr_rate": 55.2
+    },
+    {
+      "county": "Cheatham",
+      "district": "Cheatham County",
+      "school": "Sycamore High School",
+      "act_code": "431893",
+      "cgr_years": {
+        "2019": 61.6,
+        "2020": 56.6,
+        "2021": 41.0,
+        "2022": 47.8,
+        "2023": 55.4
+      },
+      "cgr_rate": 55.4
+    },
+    {
+      "county": "Chester",
+      "district": "Chester County",
+      "school": "Chester County High School",
+      "act_code": "430880",
+      "cgr_years": {
+        "2019": 60.8,
+        "2020": 59.0,
+        "2021": 51.7,
+        "2022": 54.3,
+        "2023": 54.4
+      },
+      "cgr_rate": 54.4
+    },
+    {
+      "county": "Claiborne",
+      "district": "Claiborne County",
+      "school": "Claiborne High School",
+      "act_code": "432245",
+      "cgr_years": {
+        "2019": 58.6,
+        "2020": 37.5,
+        "2021": 51.7,
+        "2022": 56.7,
+        "2023": 61.2
+      },
+      "cgr_rate": 61.2
+    },
+    {
+      "county": "Claiborne",
+      "district": "Claiborne County",
+      "school": "Cumberland Gap High School",
+      "act_code": "430494",
+      "cgr_years": {
+        "2019": 64.4,
+        "2020": 57.1,
+        "2021": 49.2,
+        "2022": 55.6,
+        "2023": 64.0
+      },
+      "cgr_rate": 64.0
+    },
+    {
+      "county": "Clay",
+      "district": "Clay County",
+      "school": "Clay County High School",
+      "act_code": "430245",
+      "cgr_years": {
+        "2019": 62.0,
+        "2020": 60.3,
+        "2021": 47.9,
+        "2022": 48.6,
+        "2023": 51.8
+      },
+      "cgr_rate": 51.8
+    },
+    {
+      "county": "Cocke",
+      "district": "Cocke County",
+      "school": "Cocke County High",
+      "act_code": "431775",
+      "cgr_years": {
+        "2019": 47.8,
+        "2020": 40.5,
+        "2021": 37.1,
+        "2022": 37.9,
+        "2023": 42.5
+      },
+      "cgr_rate": 42.5
+    },
+    {
+      "county": "Cocke",
+      "district": "Cocke County",
+      "school": "Cosby High School",
+      "act_code": "430470",
+      "cgr_years": {
+        "2019": 53.2,
+        "2020": 39.3,
+        "2021": 44.9,
+        "2022": 42.7,
+        "2023": 47.8
+      },
+      "cgr_rate": 47.8
+    },
+    {
+      "county": "Coffee",
+      "district": "Coffee County",
+      "school": "Coffee County Central High School",
+      "act_code": "431275",
+      "cgr_years": {
+        "2019": 53.2,
+        "2020": 46.1,
+        "2021": 47.9,
+        "2022": 49.5,
+        "2023": 53.6
+      },
+      "cgr_rate": 53.6
+    },
+    {
+      "county": "Coffee",
+      "district": "Tullahoma",
+      "school": "Tullahoma High School",
+      "act_code": "432315",
+      "cgr_years": {
+        "2019": 63.3,
+        "2020": 61.5,
+        "2021": 50.7,
+        "2022": 49.4,
+        "2023": 59.5
+      },
+      "cgr_rate": 59.5
+    },
+    {
+      "county": "Crockett",
+      "district": "Crockett County",
+      "school": "Crockett County High School",
+      "act_code": "430005",
+      "cgr_years": {
+        "2019": 64.0,
+        "2020": 56.8,
+        "2021": 44.0,
+        "2022": 53.1,
+        "2023": 64.0
+      },
+      "cgr_rate": 64.0
+    },
+    {
+      "county": "Cumberland",
+      "district": "Cumberland County",
+      "school": "Cumberland County High School",
+      "act_code": "430500",
+      "cgr_years": {
+        "2019": 53.3,
+        "2020": 51.0,
+        "2021": 45.5,
+        "2022": 50.2,
+        "2023": 52.2
+      },
+      "cgr_rate": 52.2
+    },
+    {
+      "county": "Cumberland",
+      "district": "Cumberland County",
+      "school": "Stone Memorial High School",
+      "act_code": "430506",
+      "cgr_years": {
+        "2019": 58.1,
+        "2020": 53.1,
+        "2021": 42.8,
+        "2022": 46.2,
+        "2023": 65.7
+      },
+      "cgr_rate": 65.7
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Antioch High School",
+      "act_code": "430030",
+      "cgr_years": {
+        "2019": 55.0,
+        "2020": 42.0,
+        "2021": 37.3,
+        "2022": 40.2,
+        "2023": 43.6
+      },
+      "cgr_rate": 43.6
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Cane Ridge High School",
+      "act_code": "431656",
+      "cgr_years": {
+        "2019": 51.1,
+        "2020": 48.7,
+        "2021": 42.0,
+        "2022": 42.9,
+        "2023": 39.1
+      },
+      "cgr_rate": 39.1
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "East Nashville Magnet High School",
+      "act_code": "431660",
+      "cgr_years": {
+        "2019": 79.3,
+        "2020": 69.7,
+        "2021": 57.6,
+        "2022": 65.1,
+        "2023": 62.3
+      },
+      "cgr_rate": 62.3
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Glencliff Comprehensive High School",
+      "act_code": "431667",
+      "cgr_years": {
+        "2019": 42.5,
+        "2020": 33.5,
+        "2021": 28.3,
+        "2022": 29.2,
+        "2023": 21.7
+      },
+      "cgr_rate": 21.7
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Hillsboro Comprehensive High School",
+      "act_code": "431680",
+      "cgr_years": {
+        "2019": 72.2,
+        "2020": 73.6,
+        "2021": 67.7,
+        "2022": 65.0,
+        "2023": 66.1
+      },
+      "cgr_rate": 66.1
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Hillwood Comprehensive High School",
+      "act_code": "431683",
+      "cgr_years": {
+        "2019": 61.2,
+        "2020": 52.3,
+        "2021": 45.0,
+        "2022": 46.4,
+        "2023": 50.0
+      },
+      "cgr_rate": 50.0
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Hume-Fogg Magnet High School",
+      "act_code": "431690",
+      "cgr_years": {
+        "2019": 88.9,
+        "2020": 86.4,
+        "2021": 85.4,
+        "2022": 82.6,
+        "2023": 88.2
+      },
+      "cgr_rate": 88.2
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Hunters Lane Comprehensive High School",
+      "act_code": "431256",
+      "cgr_years": {
+        "2019": 38.2,
+        "2020": 35.6,
+        "2021": 28.2,
+        "2022": 32.8,
+        "2023": 29.1
+      },
+      "cgr_rate": 29.1
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Intrepid College Preparatory Charter School",
+      "act_code": "430026",
+      "cgr_years": {
+        "2021": 81.8,
+        "2022": 51.1,
+        "2023": 68.1
+      },
+      "cgr_rate": 68.1
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "John Overton Comprehensive High School",
+      "act_code": "431706",
+      "cgr_years": {
+        "2019": 56.6,
+        "2020": 48.3,
+        "2021": 48.0,
+        "2022": 46.0,
+        "2023": 47.8
+      },
+      "cgr_rate": 47.8
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Ka @ The Crossings",
+      "act_code": "A00004",
+      "cgr_years": {
+        "2023": 60.7
+      },
+      "cgr_rate": 60.7
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Kipp Nashville Collegiate High School",
+      "act_code": "431692",
+      "cgr_years": {
+        "2019": 53.2,
+        "2020": 64.9,
+        "2021": 52.4,
+        "2022": 56.4,
+        "2023": 66.7
+      },
+      "cgr_rate": 66.7
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Knowledge Academies High School",
+      "act_code": "430033",
+      "cgr_years": {
+        "2019": 66.2,
+        "2020": 45.5
+      },
+      "cgr_rate": 45.5
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Lead Academy High School",
+      "act_code": "431701",
+      "cgr_years": {
+        "2019": 71.1,
+        "2020": 68.6,
+        "2021": 56.8,
+        "2022": 40.2,
+        "2023": 40.5
+      },
+      "cgr_rate": 40.5
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Lead Prep Southeast",
+      "act_code": "430050",
+      "cgr_years": {
+        "2021": 52.0,
+        "2022": 55.9,
+        "2023": 61.6
+      },
+      "cgr_rate": 61.6
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Maplewood Comprehensive High School",
+      "act_code": "431707",
+      "cgr_years": {
+        "2019": 34.3,
+        "2020": 32.1,
+        "2021": 29.5,
+        "2022": 24.2,
+        "2023": 25.4
+      },
+      "cgr_rate": 25.4
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Martin Luther King Magnet Junior/Senior High School",
+      "act_code": "431711",
+      "cgr_years": {
+        "2019": 93.6,
+        "2020": 90.9,
+        "2021": 83.9,
+        "2022": 87.1,
+        "2023": 87.7
+      },
+      "cgr_rate": 87.7
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Mcgavock Comprehensive High School",
+      "act_code": "431709",
+      "cgr_years": {
+        "2019": 58.0,
+        "2020": 52.0,
+        "2021": 38.6,
+        "2022": 50.8,
+        "2023": 50.4
+      },
+      "cgr_rate": 50.4
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Mnps Early College High School",
+      "act_code": "431712",
+      "cgr_years": {
+        "2019": 86.4,
+        "2020": 80.4,
+        "2022": 77.1,
+        "2023": 72.4
+      },
+      "cgr_rate": 72.4
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Mnps Virtual School",
+      "act_code": "431673",
+      "cgr_years": {
+        "2021": 45.8,
+        "2022": 42.9,
+        "2023": 53.8
+      },
+      "cgr_rate": 53.8
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Nashville Big Picture High School",
+      "act_code": "431699",
+      "cgr_years": {
+        "2019": 80.8,
+        "2020": 66.7,
+        "2021": 69.4,
+        "2022": 70.4,
+        "2023": 79.3
+      },
+      "cgr_rate": 79.3
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Nashville School Of The Arts",
+      "act_code": "431718",
+      "cgr_years": {
+        "2019": 66.7,
+        "2020": 69.8,
+        "2021": 65.2,
+        "2022": 68.1,
+        "2023": 70.6
+      },
+      "cgr_rate": 70.6
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Pearl-Cohn Comprehensive Magnet High School",
+      "act_code": "431650",
+      "cgr_years": {
+        "2019": 43.7,
+        "2020": 33.6,
+        "2021": 30.6,
+        "2022": 25.2,
+        "2023": 31.2
+      },
+      "cgr_rate": 31.2
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Republic High School",
+      "act_code": "431645",
+      "cgr_years": {
+        "2019": 81.0,
+        "2020": 67.7,
+        "2021": 50.0,
+        "2022": 44.5,
+        "2023": 44.4
+      },
+      "cgr_rate": 44.4
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Stem Prep High School",
+      "act_code": "430037",
+      "cgr_years": {
+        "2019": 75.5,
+        "2020": 76.8,
+        "2021": 51.5,
+        "2022": 61.0,
+        "2023": 63.1
+      },
+      "cgr_rate": 63.1
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Stratford Stem Magnet School",
+      "act_code": "431743",
+      "cgr_years": {
+        "2019": 47.4,
+        "2020": 44.2,
+        "2021": 30.6,
+        "2022": 41.4,
+        "2023": 37.4
+      },
+      "cgr_rate": 37.4
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "The Academy At Hickory Hollow",
+      "act_code": "430032",
+      "cgr_years": {
+        "2019": 19.1,
+        "2020": 11.9,
+        "2021": 32.6,
+        "2022": 24.4,
+        "2023": 29.3
+      },
+      "cgr_rate": 29.3
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "The Academy At Old Cockrill",
+      "act_code": "431696",
+      "cgr_years": {
+        "2019": 22.6,
+        "2020": 12.8,
+        "2022": 25.4,
+        "2023": 20.8
+      },
+      "cgr_rate": 20.8
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "The Academy At Opry Mills",
+      "act_code": "431702",
+      "cgr_years": {
+        "2019": 21.7,
+        "2020": 26.3,
+        "2022": 40.4,
+        "2023": 30.6
+      },
+      "cgr_rate": 30.6
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Valor Flagship Academy",
+      "act_code": "439976",
+      "cgr_years": {
+        "2022": 72.7,
+        "2023": 84.4
+      },
+      "cgr_rate": 84.4
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Whites Creek Comprehensive High School",
+      "act_code": "432421",
+      "cgr_years": {
+        "2019": 43.2,
+        "2020": 30.4,
+        "2021": 33.0,
+        "2022": 26.7,
+        "2023": 41.7
+      },
+      "cgr_rate": 41.7
+    },
+    {
+      "county": "Davidson",
+      "district": "Department Of Children'S Services Education Division",
+      "school": "Dcs Affiliated Schools",
+      "act_code": "A22993",
+      "cgr_years": {
+        "2019": 31.2,
+        "2021": 18.5,
+        "2022": 21.6
+      },
+      "cgr_rate": 21.6
+    },
+    {
+      "county": "Decatur",
+      "district": "Decatur County",
+      "school": "Riverside High School",
+      "act_code": "431855",
+      "cgr_years": {
+        "2019": 78.9,
+        "2020": 71.6,
+        "2021": 76.1,
+        "2022": 58.2,
+        "2023": 68.1
+      },
+      "cgr_rate": 68.1
+    },
+    {
+      "county": "Dekalb",
+      "district": "Dekalb County",
+      "school": "Dekalb County High School",
+      "act_code": "432125",
+      "cgr_years": {
+        "2019": 53.2,
+        "2020": 50.3,
+        "2021": 52.2,
+        "2022": 54.0,
+        "2023": 51.5
+      },
+      "cgr_rate": 51.5
+    },
+    {
+      "county": "Dickson",
+      "district": "Dickson County",
+      "school": "Creek Wood High School",
+      "act_code": "430268",
+      "cgr_years": {
+        "2019": 57.0,
+        "2020": 53.6,
+        "2021": 51.2,
+        "2022": 45.1,
+        "2023": 45.8
+      },
+      "cgr_rate": 45.8
+    },
+    {
+      "county": "Dickson",
+      "district": "Dickson County",
+      "school": "Dickson County High School",
+      "act_code": "430560",
+      "cgr_years": {
+        "2019": 57.7,
+        "2020": 60.6,
+        "2021": 52.3,
+        "2022": 50.8,
+        "2023": 51.5
+      },
+      "cgr_rate": 51.5
+    },
+    {
+      "county": "Dyer",
+      "district": "Dyer County",
+      "school": "Dyer County High School",
+      "act_code": "431765",
+      "cgr_years": {
+        "2019": 65.8,
+        "2020": 66.5,
+        "2021": 55.7,
+        "2022": 66.9,
+        "2023": 70.4
+      },
+      "cgr_rate": 70.4
+    },
+    {
+      "county": "Dyer",
+      "district": "Dyersburg",
+      "school": "Dyersburg High School",
+      "act_code": "430610",
+      "cgr_years": {
+        "2019": 71.6,
+        "2020": 65.4,
+        "2021": 57.5,
+        "2022": 60.5,
+        "2023": 58.9
+      },
+      "cgr_rate": 58.9
+    },
+    {
+      "county": "Fayette",
+      "district": "Fayette County Public Schools",
+      "school": "Fayette-Ware High School",
+      "act_code": "432145",
+      "cgr_years": {
+        "2019": 55.4,
+        "2020": 45.7,
+        "2021": 32.6,
+        "2022": 43.7,
+        "2023": 47.2
+      },
+      "cgr_rate": 47.2
+    },
+    {
+      "county": "Fentress",
+      "district": "Alvin C York Institute",
+      "school": "Alvin C. York Institute",
+      "act_code": "430970",
+      "cgr_years": {
+        "2019": 57.3,
+        "2020": 47.3,
+        "2021": 43.1,
+        "2022": 44.3,
+        "2023": 59.6
+      },
+      "cgr_rate": 59.6
+    },
+    {
+      "county": "Fentress",
+      "district": "Fentress County",
+      "school": "Clarkrange High School",
+      "act_code": "430345",
+      "cgr_years": {
+        "2019": 53.5,
+        "2020": 61.3,
+        "2021": 60.0,
+        "2022": 50.7,
+        "2023": 50.0
+      },
+      "cgr_rate": 50.0
+    },
+    {
+      "county": "Franklin",
+      "district": "Franklin County",
+      "school": "Franklin County High School",
+      "act_code": "432465",
+      "cgr_years": {
+        "2019": 54.7,
+        "2020": 50.4,
+        "2021": 42.4,
+        "2022": 46.5,
+        "2023": 56.2
+      },
+      "cgr_rate": 56.2
+    },
+    {
+      "county": "Franklin",
+      "district": "Franklin County",
+      "school": "Huntland School",
+      "act_code": "430940",
+      "cgr_years": {
+        "2019": 67.1,
+        "2020": 74.7,
+        "2021": 56.1,
+        "2022": 64.8,
+        "2023": 56.7
+      },
+      "cgr_rate": 56.7
+    },
+    {
+      "county": "Gibson",
+      "district": "Bradford",
+      "school": "Bradford High School",
+      "act_code": "430160",
+      "cgr_years": {
+        "2019": 60.5,
+        "2020": 60.0,
+        "2021": 69.4,
+        "2022": 57.1,
+        "2023": 59.6
+      },
+      "cgr_rate": 59.6
+    },
+    {
+      "county": "Gibson",
+      "district": "Gibson Co Sp Dist",
+      "school": "Gibson County High School",
+      "act_code": "430600",
+      "cgr_years": {
+        "2019": 64.4,
+        "2020": 63.5,
+        "2021": 56.5,
+        "2022": 49.5,
+        "2023": 44.2
+      },
+      "cgr_rate": 44.2
+    },
+    {
+      "county": "Gibson",
+      "district": "Gibson Co Sp Dist",
+      "school": "South Gibson County High School",
+      "act_code": "431371",
+      "cgr_years": {
+        "2019": 78.5,
+        "2020": 66.5,
+        "2021": 60.2,
+        "2022": 70.5,
+        "2023": 67.7
+      },
+      "cgr_rate": 67.7
+    },
+    {
+      "county": "Gibson",
+      "district": "Humboldt City Schools",
+      "school": "Humboldt High School",
+      "act_code": "430925",
+      "cgr_years": {
+        "2019": 60.0,
+        "2020": 40.9,
+        "2021": 35.2,
+        "2022": 25.9,
+        "2023": 38.0
+      },
+      "cgr_rate": 38.0
+    },
+    {
+      "county": "Gibson",
+      "district": "Milan",
+      "school": "Milan High School",
+      "act_code": "431535",
+      "cgr_years": {
+        "2019": 55.2,
+        "2020": 50.0,
+        "2021": 52.7,
+        "2022": 51.6,
+        "2023": 63.6
+      },
+      "cgr_rate": 63.6
+    },
+    {
+      "county": "Gibson",
+      "district": "Trenton",
+      "school": "Peabody High School",
+      "act_code": "432280",
+      "cgr_years": {
+        "2019": 52.5,
+        "2020": 54.8,
+        "2021": 41.4,
+        "2022": 49.4,
+        "2023": 47.9
+      },
+      "cgr_rate": 47.9
+    },
+    {
+      "county": "Giles",
+      "district": "Giles County",
+      "school": "Giles County High School",
+      "act_code": "431935",
+      "cgr_years": {
+        "2019": 46.8,
+        "2020": 49.7,
+        "2021": 48.2,
+        "2022": 35.7,
+        "2023": 47.4
+      },
+      "cgr_rate": 47.4
+    },
+    {
+      "county": "Giles",
+      "district": "Giles County",
+      "school": "Richland Middle/High School",
+      "act_code": "431250",
+      "cgr_years": {
+        "2019": 51.2,
+        "2020": 46.4,
+        "2021": 39.0,
+        "2022": 47.4,
+        "2023": 46.5
+      },
+      "cgr_rate": 46.5
+    },
+    {
+      "county": "Grainger",
+      "district": "Grainger County",
+      "school": "Grainger High School",
+      "act_code": "432030",
+      "cgr_years": {
+        "2019": 59.3,
+        "2020": 56.3,
+        "2021": 41.4,
+        "2022": 47.3,
+        "2023": 52.1
+      },
+      "cgr_rate": 52.1
+    },
+    {
+      "county": "Grainger",
+      "district": "Grainger County",
+      "school": "Washburn School",
+      "act_code": "432380",
+      "cgr_years": {
+        "2019": 59.5,
+        "2020": 48.6,
+        "2021": 23.8,
+        "2022": 45.2,
+        "2023": 37.1
+      },
+      "cgr_rate": 37.1
+    },
+    {
+      "county": "Greene",
+      "district": "Greene County",
+      "school": "Chuckey Doak High School",
+      "act_code": "430003",
+      "cgr_years": {
+        "2019": 60.7,
+        "2020": 52.6,
+        "2021": 42.8,
+        "2022": 50.8,
+        "2023": 49.2
+      },
+      "cgr_rate": 49.2
+    },
+    {
+      "county": "Greene",
+      "district": "Greene County",
+      "school": "North Greene High School",
+      "act_code": "430820",
+      "cgr_years": {
+        "2019": 63.6,
+        "2020": 49.5,
+        "2021": 43.2,
+        "2022": 51.6,
+        "2023": 45.3
+      },
+      "cgr_rate": 45.3
+    },
+    {
+      "county": "Greene",
+      "district": "Greene County",
+      "school": "South Greene High School",
+      "act_code": "430825",
+      "cgr_years": {
+        "2019": 57.8,
+        "2020": 55.2,
+        "2021": 48.6,
+        "2022": 45.5,
+        "2023": 52.3
+      },
+      "cgr_rate": 52.3
+    },
+    {
+      "county": "Greene",
+      "district": "Greene County",
+      "school": "West Greene High School",
+      "act_code": "431590",
+      "cgr_years": {
+        "2019": 45.2,
+        "2020": 42.1,
+        "2021": 45.5,
+        "2022": 38.3,
+        "2023": 46.7
+      },
+      "cgr_rate": 46.7
+    },
+    {
+      "county": "Greene",
+      "district": "Greeneville",
+      "school": "Greeneville High School",
+      "act_code": "430815",
+      "cgr_years": {
+        "2019": 75.4,
+        "2020": 74.9,
+        "2021": 61.3,
+        "2022": 67.4,
+        "2023": 66.5
+      },
+      "cgr_rate": 66.5
+    },
+    {
+      "county": "Grundy",
+      "district": "Grundy County",
+      "school": "Grundy County High School",
+      "act_code": "432275",
+      "cgr_years": {
+        "2019": 54.5,
+        "2020": 56.7,
+        "2021": 45.0,
+        "2022": 52.5,
+        "2023": 55.2
+      },
+      "cgr_rate": 55.2
+    },
+    {
+      "county": "Hamblen",
+      "district": "Hamblen County",
+      "school": "Morristown East High",
+      "act_code": "431585",
+      "cgr_years": {
+        "2019": 62.8,
+        "2020": 48.6,
+        "2021": 51.7,
+        "2022": 45.2,
+        "2023": 47.9
+      },
+      "cgr_rate": 47.9
+    },
+    {
+      "county": "Hamblen",
+      "district": "Hamblen County",
+      "school": "Morristown West High",
+      "act_code": "431587",
+      "cgr_years": {
+        "2019": 65.6,
+        "2020": 55.0,
+        "2021": 50.6,
+        "2022": 53.3,
+        "2023": 56.2
+      },
+      "cgr_rate": 56.2
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Brainerd High School",
+      "act_code": "430283",
+      "cgr_years": {
+        "2019": 55.5,
+        "2020": 30.2,
+        "2021": 42.2,
+        "2022": 28.0,
+        "2023": 32.6
+      },
+      "cgr_rate": 32.6
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Central High School",
+      "act_code": "430285",
+      "cgr_years": {
+        "2019": 70.2,
+        "2020": 60.3,
+        "2021": 47.1,
+        "2022": 55.6,
+        "2023": 51.9
+      },
+      "cgr_rate": 51.9
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Chattanooga Girls Leadership Academy",
+      "act_code": "430289",
+      "cgr_years": {
+        "2019": 74.1,
+        "2020": 50.0,
+        "2021": 56.8,
+        "2022": 68.4,
+        "2023": 62.2
+      },
+      "cgr_rate": 62.2
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Chattanooga High School Center For Creative Arts",
+      "act_code": "430290",
+      "cgr_years": {
+        "2019": 87.7,
+        "2020": 88.3,
+        "2021": 83.3,
+        "2022": 83.8,
+        "2023": 85.7
+      },
+      "cgr_rate": 85.7
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Chattanooga High School For The Arts And Sciences",
+      "act_code": "430292",
+      "cgr_years": {
+        "2019": 97.2,
+        "2020": 90.5,
+        "2021": 90.3,
+        "2022": 85.5,
+        "2023": 70.0
+      },
+      "cgr_rate": 70.0
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "East Hamilton School",
+      "act_code": "430044",
+      "cgr_years": {
+        "2019": 79.5,
+        "2020": 66.4,
+        "2021": 64.3,
+        "2022": 65.8,
+        "2023": 69.7
+      },
+      "cgr_rate": 69.7
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "East Ridge High School",
+      "act_code": "430295",
+      "cgr_years": {
+        "2019": 51.6,
+        "2020": 47.3,
+        "2021": 42.9,
+        "2022": 42.9,
+        "2023": 35.6
+      },
+      "cgr_rate": 35.6
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Hamilton County Collegiate High At Chattanooga State",
+      "act_code": "430304",
+      "cgr_years": {
+        "2019": 68.6,
+        "2020": 68.4,
+        "2021": 62.5,
+        "2022": 60.8,
+        "2023": 79.5
+      },
+      "cgr_rate": 79.5
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Hamilton County High School",
+      "act_code": "431829",
+      "cgr_years": {
+        "2019": 25.9
+      },
+      "cgr_rate": 25.9
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Hamilton County Virtual School",
+      "act_code": "430332",
+      "cgr_years": {
+        "2022": 16.9,
+        "2023": 25.4
+      },
+      "cgr_rate": 25.4
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Hixson High School",
+      "act_code": "430900",
+      "cgr_years": {
+        "2019": 62.7,
+        "2020": 59.9,
+        "2021": 45.0,
+        "2022": 53.0,
+        "2023": 62.0
+      },
+      "cgr_rate": 62.0
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Ivy Academy",
+      "act_code": "432142",
+      "cgr_years": {
+        "2019": 76.2,
+        "2020": 58.8,
+        "2021": 55.0,
+        "2022": 63.2,
+        "2023": 55.1
+      },
+      "cgr_rate": 55.1
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Lookout Valley High School",
+      "act_code": "430312",
+      "cgr_years": {
+        "2019": 69.2,
+        "2020": 60.0,
+        "2021": 48.6,
+        "2022": 49.0,
+        "2023": 50.0
+      },
+      "cgr_rate": 50.0
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Ooltewah High School",
+      "act_code": "431830",
+      "cgr_years": {
+        "2019": 66.6,
+        "2020": 63.2,
+        "2021": 53.1,
+        "2022": 55.7,
+        "2023": 62.9
+      },
+      "cgr_rate": 62.9
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Red Bank High School",
+      "act_code": "430325",
+      "cgr_years": {
+        "2019": 50.3,
+        "2020": 47.5,
+        "2021": 40.6,
+        "2022": 44.9,
+        "2023": 58.8
+      },
+      "cgr_rate": 58.8
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Sale Creek High School",
+      "act_code": "432040",
+      "cgr_years": {
+        "2019": 63.0,
+        "2020": 71.2,
+        "2021": 71.0,
+        "2022": 58.2,
+        "2023": 56.0
+      },
+      "cgr_rate": 56.0
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Sequoyah High School",
+      "act_code": "432141",
+      "cgr_years": {
+        "2019": 32.5,
+        "2020": 22.9,
+        "2021": 22.6,
+        "2022": 17.5
+      },
+      "cgr_rate": 17.5
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Signal Mountain High School",
+      "act_code": "432109",
+      "cgr_years": {
+        "2019": 82.9,
+        "2020": 89.7,
+        "2021": 85.2,
+        "2022": 80.9,
+        "2023": 84.8
+      },
+      "cgr_rate": 84.8
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Soddy Daisy High School",
+      "act_code": "432140",
+      "cgr_years": {
+        "2019": 65.2,
+        "2020": 67.1,
+        "2021": 69.9,
+        "2022": 69.0,
+        "2023": 59.9
+      },
+      "cgr_rate": 59.9
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Stem School Chattanooga",
+      "act_code": "430297",
+      "cgr_years": {
+        "2019": 77.6,
+        "2020": 89.1,
+        "2021": 80.3,
+        "2022": 79.3,
+        "2023": 80.3
+      },
+      "cgr_rate": 80.3
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "The Howard School",
+      "act_code": "430305",
+      "cgr_years": {
+        "2019": 24.6,
+        "2020": 20.6,
+        "2021": 17.9,
+        "2022": 19.8,
+        "2023": 23.0
+      },
+      "cgr_rate": 23.0
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Tyner Academy",
+      "act_code": "432325",
+      "cgr_years": {
+        "2019": 61.9,
+        "2020": 60.7,
+        "2021": 50.0,
+        "2022": 67.9,
+        "2023": 50.5
+      },
+      "cgr_rate": 50.5
+    },
+    {
+      "county": "Hancock",
+      "district": "Hancock County",
+      "school": "Hancock County Middle/High School",
+      "act_code": "432135",
+      "cgr_years": {
+        "2019": 47.3,
+        "2020": 53.6,
+        "2021": 43.8,
+        "2022": 52.3,
+        "2023": 46.3
+      },
+      "cgr_rate": 46.3
+    },
+    {
+      "county": "Hardeman",
+      "district": "Hardeman County Schools",
+      "school": "Central High School",
+      "act_code": "430155",
+      "cgr_years": {
+        "2019": 57.5,
+        "2020": 49.7,
+        "2021": 45.3,
+        "2022": 51.4,
+        "2023": 49.6
+      },
+      "cgr_rate": 49.6
+    },
+    {
+      "county": "Hardeman",
+      "district": "Hardeman County Schools",
+      "school": "Middleton High School",
+      "act_code": "431525",
+      "cgr_years": {
+        "2019": 48.3,
+        "2020": 40.3,
+        "2021": 41.1,
+        "2022": 33.8,
+        "2023": 40.5
+      },
+      "cgr_rate": 40.5
+    },
+    {
+      "county": "Hardin",
+      "district": "Hardin County",
+      "school": "Hardin County High School",
+      "act_code": "432060",
+      "cgr_years": {
+        "2019": 51.0,
+        "2020": 51.9,
+        "2021": 51.3,
+        "2022": 61.5,
+        "2023": 62.8
+      },
+      "cgr_rate": 62.8
+    },
+    {
+      "county": "Hawkins",
+      "district": "Hawkins County",
+      "school": "Cherokee High School",
+      "act_code": "432016",
+      "cgr_years": {
+        "2019": 56.0,
+        "2020": 48.3,
+        "2021": 43.0,
+        "2022": 44.8,
+        "2023": 50.0
+      },
+      "cgr_rate": 50.0
+    },
+    {
+      "county": "Hawkins",
+      "district": "Hawkins County",
+      "school": "Volunteer High School",
+      "act_code": "430341",
+      "cgr_years": {
+        "2019": 63.7,
+        "2020": 54.2,
+        "2021": 52.4,
+        "2022": 52.2,
+        "2023": 63.9
+      },
+      "cgr_rate": 63.9
+    },
+    {
+      "county": "Haywood",
+      "district": "Haywood County",
+      "school": "Haywood High School",
+      "act_code": "430190",
+      "cgr_years": {
+        "2019": 63.7,
+        "2020": 51.4,
+        "2021": 41.6,
+        "2022": 45.9,
+        "2023": 49.7
+      },
+      "cgr_rate": 49.7
+    },
+    {
+      "county": "Henderson",
+      "district": "Henderson County",
+      "school": "Lexington High School",
+      "act_code": "431207",
+      "cgr_years": {
+        "2019": 67.4,
+        "2020": 64.2,
+        "2021": 61.5,
+        "2022": 65.9,
+        "2023": 57.8
+      },
+      "cgr_rate": 57.8
+    },
+    {
+      "county": "Henderson",
+      "district": "Henderson County",
+      "school": "Scotts Hill High School",
+      "act_code": "432070",
+      "cgr_years": {
+        "2019": 71.3,
+        "2020": 66.4,
+        "2021": 64.7,
+        "2022": 66.4,
+        "2023": 75.6
+      },
+      "cgr_rate": 75.6
+    },
+    {
+      "county": "Henry",
+      "district": "Henry County",
+      "school": "Henry County High School",
+      "act_code": "431845",
+      "cgr_years": {
+        "2019": 68.9,
+        "2020": 52.0,
+        "2021": 48.7,
+        "2022": 54.2,
+        "2023": 54.0
+      },
+      "cgr_rate": 54.0
+    },
+    {
+      "county": "Hickman",
+      "district": "Hickman County",
+      "school": "East Hickman High School",
+      "act_code": "431251",
+      "cgr_years": {
+        "2019": 70.2,
+        "2020": 44.9,
+        "2021": 48.7,
+        "2022": 50.0,
+        "2023": 54.0
+      },
+      "cgr_rate": 54.0
+    },
+    {
+      "county": "Hickman",
+      "district": "Hickman County",
+      "school": "Hickman County High School",
+      "act_code": "430250",
+      "cgr_years": {
+        "2019": 67.2,
+        "2020": 71.8,
+        "2021": 51.9,
+        "2022": 54.8,
+        "2023": 47.6
+      },
+      "cgr_rate": 47.6
+    },
+    {
+      "county": "Houston",
+      "district": "Houston County",
+      "school": "Houston County High School",
+      "act_code": "430645",
+      "cgr_years": {
+        "2019": 44.1,
+        "2020": 40.7,
+        "2021": 51.7,
+        "2022": 50.0,
+        "2023": 42.4
+      },
+      "cgr_rate": 42.4
+    },
+    {
+      "county": "Humphreys",
+      "district": "Humphreys County",
+      "school": "Mc Ewen High School",
+      "act_code": "431325",
+      "cgr_years": {
+        "2019": 56.2,
+        "2020": 48.6,
+        "2021": 48.6,
+        "2022": 50.0,
+        "2023": 41.0
+      },
+      "cgr_rate": 41.0
+    },
+    {
+      "county": "Humphreys",
+      "district": "Humphreys County",
+      "school": "Waverly Central High School",
+      "act_code": "432400",
+      "cgr_years": {
+        "2019": 67.9,
+        "2020": 59.8,
+        "2021": 52.8,
+        "2022": 53.7,
+        "2023": 53.7
+      },
+      "cgr_rate": 53.7
+    },
+    {
+      "county": "Jackson",
+      "district": "Jackson County",
+      "school": "Jackson County High School",
+      "act_code": "430740",
+      "cgr_years": {
+        "2019": 50.0,
+        "2020": 45.6,
+        "2021": 44.3,
+        "2022": 39.8,
+        "2023": 46.6
+      },
+      "cgr_rate": 46.6
+    },
+    {
+      "county": "Jefferson",
+      "district": "Jefferson County",
+      "school": "Jefferson County High School",
+      "act_code": "430525",
+      "cgr_years": {
+        "2019": 52.6,
+        "2020": 44.6,
+        "2021": 46.6,
+        "2022": 50.3,
+        "2023": 53.4
+      },
+      "cgr_rate": 53.4
+    },
+    {
+      "county": "Johnson",
+      "district": "Johnson County",
+      "school": "Johnson County High School",
+      "act_code": "431595",
+      "cgr_years": {
+        "2019": 48.4,
+        "2020": 58.5,
+        "2021": 53.4,
+        "2022": 43.7,
+        "2023": 46.6
+      },
+      "cgr_rate": 46.6
+    },
+    {
+      "county": "Johnson",
+      "district": "Johnson County",
+      "school": "Tennessee Connections Academy Johnson County 9-12",
+      "act_code": "439979",
+      "cgr_years": {
+        "2022": 31.5,
+        "2023": 38.3
+      },
+      "cgr_rate": 38.3
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Austin-East High School",
+      "act_code": "431100",
+      "cgr_years": {
+        "2019": 44.5,
+        "2020": 38.1,
+        "2021": 37.4,
+        "2022": 42.3,
+        "2023": 39.2
+      },
+      "cgr_rate": 39.2
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Bearden High School",
+      "act_code": "431090",
+      "cgr_years": {
+        "2019": 72.9,
+        "2020": 79.6,
+        "2021": 76.4,
+        "2022": 76.9,
+        "2023": 78.0
+      },
+      "cgr_rate": 78.0
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Career Magnet Academy",
+      "act_code": "431122",
+      "cgr_years": {
+        "2019": 67.2,
+        "2020": 71.9,
+        "2021": 61.1,
+        "2022": 63.2,
+        "2023": 66.7
+      },
+      "cgr_rate": 66.7
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Carter High School",
+      "act_code": "432210",
+      "cgr_years": {
+        "2019": 53.6,
+        "2020": 46.4,
+        "2021": 51.1,
+        "2022": 46.0,
+        "2023": 57.6
+      },
+      "cgr_rate": 57.6
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Central High School",
+      "act_code": "430680",
+      "cgr_years": {
+        "2019": 54.2,
+        "2020": 65.7,
+        "2021": 59.2,
+        "2022": 58.6,
+        "2023": 60.7
+      },
+      "cgr_rate": 60.7
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Dr. Paul L. Kelley Volunteer Academy",
+      "act_code": "991053",
+      "cgr_years": {
+        "2019": 10.4,
+        "2020": 13.3,
+        "2021": 11.2,
+        "2022": 14.2,
+        "2023": 21.3
+      },
+      "cgr_rate": 21.3
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Farragut High School",
+      "act_code": "430435",
+      "cgr_years": {
+        "2019": 88.0,
+        "2020": 82.6,
+        "2021": 73.1,
+        "2022": 86.3,
+        "2023": 85.3
+      },
+      "cgr_rate": 85.3
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Fulton High School",
+      "act_code": "431105",
+      "cgr_years": {
+        "2019": 51.4,
+        "2020": 45.3,
+        "2021": 39.5,
+        "2022": 51.8,
+        "2023": 41.9
+      },
+      "cgr_rate": 41.9
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Gibbs High School",
+      "act_code": "430465",
+      "cgr_years": {
+        "2019": 42.8,
+        "2020": 45.2,
+        "2021": 50.2,
+        "2022": 60.7,
+        "2023": 53.7
+      },
+      "cgr_rate": 53.7
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Halls High School",
+      "act_code": "430685",
+      "cgr_years": {
+        "2019": 59.7,
+        "2020": 63.3,
+        "2021": 59.4,
+        "2022": 64.3,
+        "2023": 59.3
+      },
+      "cgr_rate": 59.3
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Hardin Valley Academy",
+      "act_code": "431102",
+      "cgr_years": {
+        "2019": 69.0,
+        "2020": 75.2,
+        "2021": 62.4,
+        "2022": 77.2,
+        "2023": 75.4
+      },
+      "cgr_rate": 75.4
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Karns High School",
+      "act_code": "431108",
+      "cgr_years": {
+        "2019": 49.1,
+        "2020": 59.4,
+        "2021": 56.8,
+        "2022": 61.9,
+        "2023": 61.9
+      },
+      "cgr_rate": 61.9
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Kcs Virtual High School",
+      "act_code": "430109",
+      "cgr_years": {
+        "2022": 41.4,
+        "2023": 61.5
+      },
+      "cgr_rate": 61.5
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "L And N Stem Academy",
+      "act_code": "431118",
+      "cgr_years": {
+        "2019": 90.0,
+        "2020": 93.6,
+        "2021": 76.7,
+        "2022": 87.0,
+        "2023": 85.1
+      },
+      "cgr_rate": 85.1
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Powell High School",
+      "act_code": "431900",
+      "cgr_years": {
+        "2019": 52.5,
+        "2020": 45.9,
+        "2021": 60.9,
+        "2022": 57.9,
+        "2023": 56.4
+      },
+      "cgr_rate": 56.4
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "South-Doyle High School",
+      "act_code": "431098",
+      "cgr_years": {
+        "2019": 55.1,
+        "2020": 52.9,
+        "2021": 52.5,
+        "2022": 46.1,
+        "2023": 50.0
+      },
+      "cgr_rate": 50.0
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "West High School",
+      "act_code": "431130",
+      "cgr_years": {
+        "2019": 69.7,
+        "2020": 73.9,
+        "2021": 65.1,
+        "2022": 69.3,
+        "2023": 67.9
+      },
+      "cgr_rate": 67.9
+    },
+    {
+      "county": "Lake",
+      "district": "Lake County",
+      "school": "Lake County High School",
+      "act_code": "432267",
+      "cgr_years": {
+        "2019": 62.8,
+        "2020": 48.8,
+        "2021": 72.5,
+        "2022": 62.8,
+        "2023": 39.5
+      },
+      "cgr_rate": 39.5
+    },
+    {
+      "county": "Lauderdale",
+      "district": "Lauderdale County",
+      "school": "Halls High School",
+      "act_code": "430840",
+      "cgr_years": {
+        "2019": 74.0,
+        "2020": 70.3,
+        "2021": 56.2,
+        "2022": 53.8,
+        "2023": 57.6
+      },
+      "cgr_rate": 57.6
+    },
+    {
+      "county": "Lauderdale",
+      "district": "Lauderdale County",
+      "school": "Ripley High School",
+      "act_code": "431980",
+      "cgr_years": {
+        "2019": 55.3,
+        "2020": 35.7,
+        "2021": 42.9,
+        "2022": 43.2,
+        "2023": 46.2
+      },
+      "cgr_rate": 46.2
+    },
+    {
+      "county": "Lawrence",
+      "district": "Lawrence County",
+      "school": "Lawrence County High School",
+      "act_code": "431165",
+      "cgr_years": {
+        "2019": 70.6,
+        "2020": 58.0,
+        "2021": 53.6,
+        "2022": 50.8,
+        "2023": 53.2
+      },
+      "cgr_rate": 53.2
+    },
+    {
+      "county": "Lawrence",
+      "district": "Lawrence County",
+      "school": "Loretto High School",
+      "act_code": "431235",
+      "cgr_years": {
+        "2019": 64.9,
+        "2020": 60.7,
+        "2021": 62.3,
+        "2022": 64.3,
+        "2023": 46.6
+      },
+      "cgr_rate": 46.6
+    },
+    {
+      "county": "Lawrence",
+      "district": "Lawrence County",
+      "school": "Summertown Junior/Senior High School",
+      "act_code": "432215",
+      "cgr_years": {
+        "2019": 59.8,
+        "2020": 61.1,
+        "2021": 47.7,
+        "2022": 65.4,
+        "2023": 59.0
+      },
+      "cgr_rate": 59.0
+    },
+    {
+      "county": "Lewis",
+      "district": "Lewis County",
+      "school": "Lewis County High School",
+      "act_code": "430905",
+      "cgr_years": {
+        "2019": 57.8,
+        "2020": 49.5,
+        "2021": 45.5,
+        "2022": 61.8,
+        "2023": 70.8
+      },
+      "cgr_rate": 70.8
+    },
+    {
+      "county": "Lincoln",
+      "district": "Fayetteville",
+      "school": "Fayetteville High School",
+      "act_code": "430666",
+      "cgr_years": {
+        "2019": 73.7,
+        "2020": 66.3,
+        "2021": 51.8,
+        "2022": 56.8,
+        "2023": 63.0
+      },
+      "cgr_rate": 63.0
+    },
+    {
+      "county": "Lincoln",
+      "district": "Lincoln County",
+      "school": "Lincoln County Senior High School",
+      "act_code": "430665",
+      "cgr_years": {
+        "2019": 63.1,
+        "2020": 57.9,
+        "2021": 57.8,
+        "2022": 58.3,
+        "2023": 57.1
+      },
+      "cgr_rate": 57.1
+    },
+    {
+      "county": "Loudon",
+      "district": "Lenoir City",
+      "school": "Lenoir City High School",
+      "act_code": "431190",
+      "cgr_years": {
+        "2019": 54.2,
+        "2020": 57.5,
+        "2021": 45.9,
+        "2022": 41.5,
+        "2023": 55.4
+      },
+      "cgr_rate": 55.4
+    },
+    {
+      "county": "Loudon",
+      "district": "Loudon County",
+      "school": "Greenback Public School",
+      "act_code": "430790",
+      "cgr_years": {
+        "2019": 57.6,
+        "2020": 46.6,
+        "2021": 43.1,
+        "2022": 57.7,
+        "2023": 42.5
+      },
+      "cgr_rate": 42.5
+    },
+    {
+      "county": "Loudon",
+      "district": "Loudon County",
+      "school": "Loudon High School",
+      "act_code": "431240",
+      "cgr_years": {
+        "2019": 48.4,
+        "2020": 50.3,
+        "2021": 40.4,
+        "2022": 45.6,
+        "2023": 43.3
+      },
+      "cgr_rate": 43.3
+    },
+    {
+      "county": "Macon",
+      "district": "Macon County",
+      "school": "Macon County High School",
+      "act_code": "431140",
+      "cgr_years": {
+        "2019": 55.9,
+        "2020": 51.8,
+        "2021": 49.7,
+        "2022": 42.6,
+        "2023": 45.3
+      },
+      "cgr_rate": 45.3
+    },
+    {
+      "county": "Macon",
+      "district": "Macon County",
+      "school": "Red Boiling Springs Junior/Senior High School",
+      "act_code": "431960",
+      "cgr_years": {
+        "2019": 61.8,
+        "2020": 47.9,
+        "2021": 51.3,
+        "2022": 50.0,
+        "2023": 44.0
+      },
+      "cgr_rate": 44.0
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "Jackson Central-Merry High School",
+      "act_code": "430955",
+      "cgr_years": {
+        "2019": 61.2,
+        "2020": 79.4,
+        "2021": 65.2,
+        "2022": 61.0,
+        "2023": 54.6
+      },
+      "cgr_rate": 54.6
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "Liberty Technology Magnet High School",
+      "act_code": "430961",
+      "cgr_years": {
+        "2019": 49.8,
+        "2020": 39.5,
+        "2021": 29.1,
+        "2022": 26.2,
+        "2023": 32.5
+      },
+      "cgr_rate": 32.5
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "Madison Academic Magnet High School",
+      "act_code": "430962",
+      "cgr_years": {
+        "2019": 96.5,
+        "2020": 85.3,
+        "2021": 80.6,
+        "2022": 78.5,
+        "2023": 87.1
+      },
+      "cgr_rate": 87.1
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "North Side High School",
+      "act_code": "430965",
+      "cgr_years": {
+        "2019": 58.0,
+        "2020": 52.3,
+        "2021": 38.4,
+        "2022": 32.1,
+        "2023": 38.7
+      },
+      "cgr_rate": 38.7
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "South Side High School",
+      "act_code": "430111",
+      "cgr_years": {
+        "2019": 54.1,
+        "2020": 47.9,
+        "2021": 37.7,
+        "2022": 48.3,
+        "2023": 43.9
+      },
+      "cgr_rate": 43.9
+    },
+    {
+      "county": "Marion",
+      "district": "Marion County",
+      "school": "Marion County High School",
+      "act_code": "430975",
+      "cgr_years": {
+        "2019": 50.4,
+        "2020": 47.7,
+        "2021": 41.9,
+        "2022": 52.7,
+        "2023": 56.5
+      },
+      "cgr_rate": 56.5
+    },
+    {
+      "county": "Marion",
+      "district": "Marion County",
+      "school": "South Pittsburg Junior/Senior High School",
+      "act_code": "432160",
+      "cgr_years": {
+        "2019": 52.8,
+        "2020": 54.8,
+        "2021": 51.6,
+        "2022": 46.0,
+        "2023": 55.7
+      },
+      "cgr_rate": 55.7
+    },
+    {
+      "county": "Marion",
+      "district": "Marion County",
+      "school": "Whitwell High School",
+      "act_code": "432460",
+      "cgr_years": {
+        "2019": 46.9,
+        "2020": 50.6,
+        "2021": 43.9,
+        "2022": 47.1,
+        "2023": 50.6
+      },
+      "cgr_rate": 50.6
+    },
+    {
+      "county": "Marion",
+      "district": "Richard City",
+      "school": "Richard Hardy Memorial School",
+      "act_code": "432159",
+      "cgr_years": {
+        "2019": 60.0,
+        "2020": 65.0,
+        "2021": 66.7,
+        "2022": 60.0
+      },
+      "cgr_rate": 60.0
+    },
+    {
+      "county": "Marshall",
+      "district": "Marshall County",
+      "school": "Cornersville Junior/Senior High School",
+      "act_code": "430460",
+      "cgr_years": {
+        "2019": 67.5,
+        "2020": 55.7,
+        "2021": 53.3,
+        "2022": 48.7,
+        "2023": 55.2
+      },
+      "cgr_rate": 55.2
+    },
+    {
+      "county": "Marshall",
+      "district": "Marshall County",
+      "school": "Forrest Middle/High School",
+      "act_code": "430260",
+      "cgr_years": {
+        "2019": 53.1,
+        "2020": 57.4,
+        "2021": 54.2,
+        "2022": 47.4,
+        "2023": 51.9
+      },
+      "cgr_rate": 51.9
+    },
+    {
+      "county": "Marshall",
+      "district": "Marshall County",
+      "school": "Marshall County High School",
+      "act_code": "431205",
+      "cgr_years": {
+        "2019": 52.3,
+        "2020": 44.1,
+        "2021": 46.1,
+        "2022": 43.7,
+        "2023": 49.2
+      },
+      "cgr_rate": 49.2
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Columbia Central High School",
+      "act_code": "430425",
+      "cgr_years": {
+        "2019": 59.4,
+        "2020": 47.5,
+        "2021": 43.0,
+        "2022": 50.5,
+        "2023": 52.9
+      },
+      "cgr_rate": 52.9
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Culleoka School",
+      "act_code": "430510",
+      "cgr_years": {
+        "2019": 63.9,
+        "2020": 48.5,
+        "2021": 41.7,
+        "2022": 47.4,
+        "2023": 54.2
+      },
+      "cgr_rate": 54.2
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Hampshire School",
+      "act_code": "430845",
+      "cgr_years": {
+        "2019": 66.7,
+        "2020": 65.2,
+        "2021": 62.1,
+        "2022": 61.3,
+        "2023": 40.0
+      },
+      "cgr_rate": 40.0
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Mount Pleasant Junior/Senior High School",
+      "act_code": "431610",
+      "cgr_years": {
+        "2019": 60.5,
+        "2020": 50.0,
+        "2021": 55.6,
+        "2022": 55.8,
+        "2023": 52.4
+      },
+      "cgr_rate": 52.4
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Santa Fe School",
+      "act_code": "432050",
+      "cgr_years": {
+        "2019": 52.3,
+        "2020": 65.9,
+        "2021": 28.6,
+        "2022": 48.6,
+        "2023": 72.7
+      },
+      "cgr_rate": 72.7
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Spring Hill High School",
+      "act_code": "432200",
+      "cgr_years": {
+        "2019": 65.6,
+        "2020": 54.0,
+        "2021": 53.9,
+        "2022": 50.2,
+        "2023": 55.7
+      },
+      "cgr_rate": 55.7
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Virtual Academy Of Maury County",
+      "act_code": "439997",
+      "cgr_years": {
+        "2023": 40.0
+      },
+      "cgr_rate": 40.0
+    },
+    {
+      "county": "Mcminn",
+      "district": "Mcminn County",
+      "school": "Central High School Of Mcminn County",
+      "act_code": "430640",
+      "cgr_years": {
+        "2019": 62.3,
+        "2020": 51.9,
+        "2021": 47.6,
+        "2022": 52.4,
+        "2023": 48.7
+      },
+      "cgr_rate": 48.7
+    },
+    {
+      "county": "Mcminn",
+      "district": "Mcminn County",
+      "school": "Mcminn County High School",
+      "act_code": "430055",
+      "cgr_years": {
+        "2019": 57.5,
+        "2020": 49.4,
+        "2021": 51.2,
+        "2022": 50.4,
+        "2023": 47.3
+      },
+      "cgr_rate": 47.3
+    },
+    {
+      "county": "Mcnairy",
+      "district": "Mcnairy County",
+      "school": "Adamsville Junior/Senior High School",
+      "act_code": "430000",
+      "cgr_years": {
+        "2019": 71.0,
+        "2020": 58.0,
+        "2021": 59.5,
+        "2022": 58.4,
+        "2023": 56.5
+      },
+      "cgr_rate": 56.5
+    },
+    {
+      "county": "Mcnairy",
+      "district": "Mcnairy County",
+      "school": "Mcnairy Central High School",
+      "act_code": "432080",
+      "cgr_years": {
+        "2019": 61.5,
+        "2020": 53.0,
+        "2021": 44.2,
+        "2022": 47.3,
+        "2023": 60.8
+      },
+      "cgr_rate": 60.8
+    },
+    {
+      "county": "Meigs",
+      "district": "Meigs County",
+      "school": "Meigs County High School",
+      "act_code": "430540",
+      "cgr_years": {
+        "2019": 50.0,
+        "2020": 47.7,
+        "2021": 55.9,
+        "2022": 48.3,
+        "2023": 39.4
+      },
+      "cgr_rate": 39.4
+    },
+    {
+      "county": "Monroe",
+      "district": "Monroe County",
+      "school": "Sequoyah High School",
+      "act_code": "431265",
+      "cgr_years": {
+        "2019": 50.2,
+        "2020": 44.0,
+        "2021": 50.6,
+        "2022": 49.2,
+        "2023": 39.0
+      },
+      "cgr_rate": 39.0
+    },
+    {
+      "county": "Monroe",
+      "district": "Monroe County",
+      "school": "Sweetwater High School",
+      "act_code": "432235",
+      "cgr_years": {
+        "2019": 40.7,
+        "2020": 37.1,
+        "2021": 33.8,
+        "2022": 36.4,
+        "2023": 47.2
+      },
+      "cgr_rate": 47.2
+    },
+    {
+      "county": "Monroe",
+      "district": "Monroe County",
+      "school": "Tellico Plains High School",
+      "act_code": "432250",
+      "cgr_years": {
+        "2019": 49.6,
+        "2020": 47.9,
+        "2021": 35.8,
+        "2022": 43.0,
+        "2023": 46.0
+      },
+      "cgr_rate": 46.0
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Clarksville High School",
+      "act_code": "430360",
+      "cgr_years": {
+        "2019": 53.6,
+        "2020": 60.6,
+        "2021": 55.8,
+        "2022": 57.0,
+        "2023": 62.7
+      },
+      "cgr_rate": 62.7
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Cmcss K-12 Virtual School",
+      "act_code": "430086",
+      "cgr_years": {
+        "2022": 29.2,
+        "2023": 37.0
+      },
+      "cgr_rate": 37.0
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Kenwood High School",
+      "act_code": "430364",
+      "cgr_years": {
+        "2019": 42.1,
+        "2020": 34.1,
+        "2021": 32.2,
+        "2022": 30.8,
+        "2023": 37.5
+      },
+      "cgr_rate": 37.5
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Montgomery Central High School",
+      "act_code": "430520",
+      "cgr_years": {
+        "2019": 56.2,
+        "2020": 53.2,
+        "2021": 40.8,
+        "2022": 48.5,
+        "2023": 53.5
+      },
+      "cgr_rate": 53.5
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Northeast High School",
+      "act_code": "430363",
+      "cgr_years": {
+        "2019": 48.2,
+        "2020": 44.0,
+        "2021": 38.8,
+        "2022": 44.4,
+        "2023": 49.1
+      },
+      "cgr_rate": 49.1
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Northwest High School",
+      "act_code": "430362",
+      "cgr_years": {
+        "2019": 49.5,
+        "2020": 41.8,
+        "2021": 36.4,
+        "2022": 49.8,
+        "2023": 49.6
+      },
+      "cgr_rate": 49.6
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Rossview High School",
+      "act_code": "430367",
+      "cgr_years": {
+        "2019": 65.3,
+        "2020": 62.3,
+        "2021": 54.3,
+        "2022": 60.7,
+        "2023": 59.5
+      },
+      "cgr_rate": 59.5
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "The Middle College At Austin Peay State University",
+      "act_code": "430359",
+      "cgr_years": {
+        "2019": 85.7,
+        "2020": 89.5,
+        "2021": 85.0,
+        "2022": 82.8,
+        "2023": 88.0
+      },
+      "cgr_rate": 88.0
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "West Creek High School",
+      "act_code": "430357",
+      "cgr_years": {
+        "2019": 50.3,
+        "2020": 47.4,
+        "2021": 43.2,
+        "2022": 42.3,
+        "2023": 54.7
+      },
+      "cgr_rate": 54.7
+    },
+    {
+      "county": "Moore",
+      "district": "Moore County",
+      "school": "Moore County Junior/Senior High School",
+      "act_code": "431245",
+      "cgr_years": {
+        "2019": 72.7,
+        "2020": 80.4,
+        "2021": 64.9,
+        "2022": 53.2,
+        "2023": 70.0
+      },
+      "cgr_rate": 70.0
+    },
+    {
+      "county": "Morgan",
+      "district": "Morgan County",
+      "school": "Central High School",
+      "act_code": "432370",
+      "cgr_years": {
+        "2019": 65.0,
+        "2020": 56.7,
+        "2021": 50.0,
+        "2022": 61.4,
+        "2023": 50.0
+      },
+      "cgr_rate": 50.0
+    },
+    {
+      "county": "Morgan",
+      "district": "Morgan County",
+      "school": "Coalfield High School",
+      "act_code": "430395",
+      "cgr_years": {
+        "2019": 48.7,
+        "2020": 68.6,
+        "2021": 55.6,
+        "2022": 52.9,
+        "2023": 50.0
+      },
+      "cgr_rate": 50.0
+    },
+    {
+      "county": "Morgan",
+      "district": "Morgan County",
+      "school": "Oakdale School",
+      "act_code": "431795",
+      "cgr_years": {
+        "2019": 73.0,
+        "2020": 52.4,
+        "2021": 47.8,
+        "2022": 45.7
+      },
+      "cgr_rate": 45.7
+    },
+    {
+      "county": "Morgan",
+      "district": "Morgan County",
+      "school": "Sunbright School",
+      "act_code": "432220",
+      "cgr_years": {
+        "2019": 76.9,
+        "2020": 53.3,
+        "2021": 59.0,
+        "2022": 58.1,
+        "2023": 46.4
+      },
+      "cgr_rate": 46.4
+    },
+    {
+      "county": "Obion",
+      "district": "Obion County",
+      "school": "Obion County Central High School",
+      "act_code": "432305",
+      "cgr_years": {
+        "2019": 59.4,
+        "2020": 51.2,
+        "2021": 54.8,
+        "2022": 47.4,
+        "2023": 44.8
+      },
+      "cgr_rate": 44.8
+    },
+    {
+      "county": "Obion",
+      "district": "Obion County",
+      "school": "South Fulton Middle/High School",
+      "act_code": "432152",
+      "cgr_years": {
+        "2019": 70.6,
+        "2020": 51.0,
+        "2021": 51.0,
+        "2023": 55.8
+      },
+      "cgr_rate": 55.8
+    },
+    {
+      "county": "Obion",
+      "district": "Union City",
+      "school": "Union City High School",
+      "act_code": "432342",
+      "cgr_years": {
+        "2019": 76.1,
+        "2020": 67.9,
+        "2021": 68.7,
+        "2022": 72.4,
+        "2023": 65.4
+      },
+      "cgr_rate": 65.4
+    },
+    {
+      "county": "Overton",
+      "district": "Overton County",
+      "school": "Livingston Academy High School",
+      "act_code": "431225",
+      "cgr_years": {
+        "2019": 64.9,
+        "2020": 58.3,
+        "2021": 51.7,
+        "2022": 56.4,
+        "2023": 58.8
+      },
+      "cgr_rate": 58.8
+    },
+    {
+      "county": "Perry",
+      "district": "Perry County",
+      "school": "Perry County High School",
+      "act_code": "431220",
+      "cgr_years": {
+        "2019": 85.5,
+        "2020": 69.1,
+        "2021": 79.6,
+        "2022": 66.7,
+        "2023": 71.9
+      },
+      "cgr_rate": 71.9
+    },
+    {
+      "county": "Pickett",
+      "district": "Pickett County",
+      "school": "Pickett County High School",
+      "act_code": "430215",
+      "cgr_years": {
+        "2019": 66.7,
+        "2020": 63.0,
+        "2021": 73.8,
+        "2022": 64.6,
+        "2023": 56.1
+      },
+      "cgr_rate": 56.1
+    },
+    {
+      "county": "Polk",
+      "district": "Polk County",
+      "school": "Copper Basin High School",
+      "act_code": "430450",
+      "cgr_years": {
+        "2019": 61.2,
+        "2020": 63.3,
+        "2021": 38.2,
+        "2022": 57.1,
+        "2023": 46.5
+      },
+      "cgr_rate": 46.5
+    },
+    {
+      "county": "Polk",
+      "district": "Polk County",
+      "school": "Polk County High School",
+      "act_code": "430115",
+      "cgr_years": {
+        "2019": 50.0,
+        "2020": 49.6,
+        "2021": 56.5,
+        "2022": 49.0,
+        "2023": 55.6
+      },
+      "cgr_rate": 55.6
+    },
+    {
+      "county": "Putnam",
+      "district": "Putnam County",
+      "school": "Cookeville High School",
+      "act_code": "430440",
+      "cgr_years": {
+        "2019": 65.3,
+        "2020": 54.4,
+        "2021": 52.6,
+        "2022": 52.3,
+        "2023": 55.1
+      },
+      "cgr_rate": 55.1
+    },
+    {
+      "county": "Putnam",
+      "district": "Putnam County",
+      "school": "Monterey High School",
+      "act_code": "431565",
+      "cgr_years": {
+        "2019": 46.4,
+        "2020": 50.5,
+        "2021": 33.8,
+        "2022": 26.6,
+        "2023": 40.0
+      },
+      "cgr_rate": 40.0
+    },
+    {
+      "county": "Putnam",
+      "district": "Putnam County",
+      "school": "Upperman High School",
+      "act_code": "430075",
+      "cgr_years": {
+        "2019": 52.0,
+        "2020": 50.6,
+        "2021": 53.8,
+        "2022": 47.5,
+        "2023": 56.1
+      },
+      "cgr_rate": 56.1
+    },
+    {
+      "county": "Rhea",
+      "district": "Rhea County",
+      "school": "Rhea County High School",
+      "act_code": "430537",
+      "cgr_years": {
+        "2019": 56.4,
+        "2020": 54.2,
+        "2021": 47.2,
+        "2022": 44.1,
+        "2023": 45.8
+      },
+      "cgr_rate": 45.8
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Harriman High School",
+      "act_code": "430855",
+      "cgr_years": {
+        "2019": 56.5,
+        "2020": 59.5,
+        "2021": 51.7,
+        "2022": 47.5,
+        "2023": 52.0
+      },
+      "cgr_rate": 52.0
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Midway High School",
+      "act_code": "431070",
+      "cgr_years": {
+        "2019": 59.4,
+        "2020": 72.7,
+        "2021": 52.9,
+        "2022": 52.0,
+        "2023": 57.5
+      },
+      "cgr_rate": 57.5
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Oliver Springs High School",
+      "act_code": "431820",
+      "cgr_years": {
+        "2019": 67.9,
+        "2020": 70.7,
+        "2021": 69.1,
+        "2022": 58.6,
+        "2023": 70.5
+      },
+      "cgr_rate": 70.5
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Roane County High School",
+      "act_code": "431075",
+      "cgr_years": {
+        "2019": 63.0,
+        "2020": 71.7,
+        "2021": 57.6,
+        "2022": 60.9,
+        "2023": 77.3
+      },
+      "cgr_rate": 77.3
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Rockwood High School",
+      "act_code": "432010",
+      "cgr_years": {
+        "2019": 52.0,
+        "2020": 58.0,
+        "2021": 50.7,
+        "2022": 50.0,
+        "2023": 61.8
+      },
+      "cgr_rate": 61.8
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "East Robertson Junior/Senior High School",
+      "act_code": "430495",
+      "cgr_years": {
+        "2019": 58.5,
+        "2020": 54.2,
+        "2021": 42.9,
+        "2022": 44.3,
+        "2023": 53.5
+      },
+      "cgr_rate": 53.5
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Greenbrier High School",
+      "act_code": "430795",
+      "cgr_years": {
+        "2019": 56.7,
+        "2020": 46.9,
+        "2021": 43.8,
+        "2022": 42.6,
+        "2023": 49.5
+      },
+      "cgr_rate": 49.5
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Jo Byrns Junior/Senior High School",
+      "act_code": "430240",
+      "cgr_years": {
+        "2019": 60.3,
+        "2020": 48.8,
+        "2021": 43.7,
+        "2022": 39.1,
+        "2023": 41.0
+      },
+      "cgr_rate": 41.0
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Springfield High School",
+      "act_code": "432195",
+      "cgr_years": {
+        "2019": 53.8,
+        "2020": 44.3,
+        "2021": 41.6,
+        "2022": 34.9,
+        "2023": 42.7
+      },
+      "cgr_rate": 42.7
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Tennessee Connections Academy 9-12",
+      "act_code": "430057",
+      "cgr_years": {
+        "2022": 28.4
+      },
+      "cgr_rate": 28.4
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Tennessee Connections Academy 9-12",
+      "act_code": "430071",
+      "cgr_years": {
+        "2020": 23.7,
+        "2021": 31.1
+      },
+      "cgr_rate": 31.1
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "White House-Heritage Junior/Senior High School",
+      "act_code": "432436",
+      "cgr_years": {
+        "2019": 69.8,
+        "2020": 72.9,
+        "2021": 55.6,
+        "2022": 57.7,
+        "2023": 64.0
+      },
+      "cgr_rate": 64.0
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Blackman High School",
+      "act_code": "431636",
+      "cgr_years": {
+        "2019": 69.9,
+        "2020": 69.3,
+        "2021": 63.6,
+        "2022": 66.0,
+        "2023": 57.6
+      },
+      "cgr_rate": 57.6
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Central Magnet School",
+      "act_code": "431609",
+      "cgr_years": {
+        "2019": 96.0,
+        "2020": 91.2,
+        "2021": 92.0,
+        "2022": 92.1,
+        "2023": 94.8
+      },
+      "cgr_rate": 94.8
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Eagleville School",
+      "act_code": "430615",
+      "cgr_years": {
+        "2019": 71.4,
+        "2020": 74.4,
+        "2021": 67.1,
+        "2022": 67.2,
+        "2023": 65.1
+      },
+      "cgr_rate": 65.1
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "La Vergne High School",
+      "act_code": "431162",
+      "cgr_years": {
+        "2019": 51.5,
+        "2020": 42.6,
+        "2021": 42.3,
+        "2022": 45.2,
+        "2023": 44.9
+      },
+      "cgr_rate": 44.9
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Oakland High School",
+      "act_code": "431619",
+      "cgr_years": {
+        "2019": 59.8,
+        "2020": 64.1,
+        "2021": 55.2,
+        "2022": 57.1,
+        "2023": 58.8
+      },
+      "cgr_rate": 58.8
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Riverdale High School",
+      "act_code": "431622",
+      "cgr_years": {
+        "2019": 59.2,
+        "2020": 56.2,
+        "2021": 44.6,
+        "2022": 45.7,
+        "2023": 48.3
+      },
+      "cgr_rate": 48.3
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Rockvale High School",
+      "act_code": "430021",
+      "cgr_years": {
+        "2020": 32.4,
+        "2021": 49.5,
+        "2022": 57.4,
+        "2023": 59.6
+      },
+      "cgr_rate": 59.6
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Rutherford County Virtual School",
+      "act_code": "430068",
+      "cgr_years": {
+        "2023": 47.3
+      },
+      "cgr_rate": 47.3
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Siegel High School",
+      "act_code": "431637",
+      "cgr_years": {
+        "2019": 65.3,
+        "2020": 63.9,
+        "2021": 63.6,
+        "2022": 55.2,
+        "2023": 59.2
+      },
+      "cgr_rate": 59.2
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Smyrna High School",
+      "act_code": "432130",
+      "cgr_years": {
+        "2019": 53.1,
+        "2020": 48.0,
+        "2021": 43.2,
+        "2022": 44.9,
+        "2023": 46.2
+      },
+      "cgr_rate": 46.2
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Stewarts Creek High School",
+      "act_code": "432132",
+      "cgr_years": {
+        "2019": 71.5,
+        "2020": 66.3,
+        "2021": 64.0,
+        "2022": 68.4,
+        "2023": 61.7
+      },
+      "cgr_rate": 61.7
+    },
+    {
+      "county": "Scott",
+      "district": "Oneida",
+      "school": "Oneida High School",
+      "act_code": "431825",
+      "cgr_years": {
+        "2019": 67.1,
+        "2020": 61.6,
+        "2021": 64.5,
+        "2022": 63.5,
+        "2023": 75.5
+      },
+      "cgr_rate": 75.5
+    },
+    {
+      "county": "Scott",
+      "district": "Scott County",
+      "school": "Scott High School",
+      "act_code": "430945",
+      "cgr_years": {
+        "2019": 55.4,
+        "2020": 45.5,
+        "2021": 53.4,
+        "2022": 38.0,
+        "2023": 50.6
+      },
+      "cgr_rate": 50.6
+    },
+    {
+      "county": "Sequatchie",
+      "district": "Sequatchie County",
+      "school": "Sequatchie County High School",
+      "act_code": "430595",
+      "cgr_years": {
+        "2019": 56.9,
+        "2020": 50.0,
+        "2021": 54.8,
+        "2022": 46.9,
+        "2023": 48.5
+      },
+      "cgr_rate": 48.5
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Gary Hardin Academy",
+      "act_code": "432095",
+      "cgr_years": {
+        "2021": 8.5
+      },
+      "cgr_rate": 8.5
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Gatlinburg Pittman High School",
+      "act_code": "430755",
+      "cgr_years": {
+        "2019": 71.9,
+        "2020": 58.3,
+        "2021": 48.0,
+        "2022": 63.2,
+        "2023": 61.1
+      },
+      "cgr_rate": 61.1
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Northview Academy",
+      "act_code": "431138",
+      "cgr_years": {
+        "2019": 57.2,
+        "2020": 51.0,
+        "2021": 51.3,
+        "2022": 55.2,
+        "2023": 53.5
+      },
+      "cgr_rate": 53.5
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Pigeon Forge High School",
+      "act_code": "432089",
+      "cgr_years": {
+        "2019": 59.7,
+        "2020": 48.9,
+        "2021": 46.7,
+        "2022": 40.9,
+        "2023": 54.0
+      },
+      "cgr_rate": 54.0
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Sevier County High School",
+      "act_code": "432090",
+      "cgr_years": {
+        "2019": 62.6,
+        "2020": 48.5,
+        "2021": 54.9,
+        "2022": 51.1,
+        "2023": 57.9
+      },
+      "cgr_rate": 57.9
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Seymour High School",
+      "act_code": "432107",
+      "cgr_years": {
+        "2019": 66.8,
+        "2020": 68.3,
+        "2021": 64.4,
+        "2022": 65.3,
+        "2023": 67.7
+      },
+      "cgr_rate": 67.7
+    },
+    {
+      "county": "Shelby",
+      "district": "Achievement School District",
+      "school": "Fairley High School",
+      "act_code": "431406",
+      "cgr_years": {
+        "2019": 24.2,
+        "2020": 25.8,
+        "2021": 20.3,
+        "2022": 27.3,
+        "2023": 19.4
+      },
+      "cgr_rate": 19.4
+    },
+    {
+      "county": "Shelby",
+      "district": "Achievement School District",
+      "school": "Hillcrest High School",
+      "act_code": "431420",
+      "cgr_years": {
+        "2019": 38.6,
+        "2020": 25.9,
+        "2021": 25.0,
+        "2022": 37.5,
+        "2023": 34.3
+      },
+      "cgr_rate": 34.3
+    },
+    {
+      "county": "Shelby",
+      "district": "Achievement School District",
+      "school": "Martin Luther King Preparatory High School",
+      "act_code": "431410",
+      "cgr_years": {
+        "2019": 29.9,
+        "2021": 12.9,
+        "2022": 22.8,
+        "2023": 13.5
+      },
+      "cgr_rate": 13.5
+    },
+    {
+      "county": "Shelby",
+      "district": "Arlington",
+      "school": "Arlington High School",
+      "act_code": "430042",
+      "cgr_years": {
+        "2019": 82.9,
+        "2020": 80.6,
+        "2021": 71.2,
+        "2022": 74.7,
+        "2023": 73.9
+      },
+      "cgr_rate": 73.9
+    },
+    {
+      "county": "Shelby",
+      "district": "Bartlett",
+      "school": "Bartlett High School",
+      "act_code": "430070",
+      "cgr_years": {
+        "2019": 74.7,
+        "2020": 70.2,
+        "2021": 60.7,
+        "2022": 67.2,
+        "2023": 68.2
+      },
+      "cgr_rate": 68.2
+    },
+    {
+      "county": "Shelby",
+      "district": "Collierville",
+      "school": "Collierville High School",
+      "act_code": "430410",
+      "cgr_years": {
+        "2019": 84.6,
+        "2020": 77.5,
+        "2021": 79.3,
+        "2022": 77.8,
+        "2023": 78.4
+      },
+      "cgr_rate": 78.4
+    },
+    {
+      "county": "Shelby",
+      "district": "Germantown",
+      "school": "Houston High School",
+      "act_code": "430758",
+      "cgr_years": {
+        "2019": 90.8,
+        "2020": 87.7,
+        "2021": 75.9,
+        "2022": 75.7,
+        "2023": 85.7
+      },
+      "cgr_rate": 85.7
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "B.T. Washington High School",
+      "act_code": "431380",
+      "cgr_years": {
+        "2019": 35.8,
+        "2020": 24.1,
+        "2021": 16.9,
+        "2022": 29.5,
+        "2023": 29.7
+      },
+      "cgr_rate": 29.7
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Bolton High School",
+      "act_code": "430040",
+      "cgr_years": {
+        "2019": 63.9,
+        "2020": 39.4,
+        "2021": 39.4,
+        "2022": 52.5,
+        "2023": 42.1
+      },
+      "cgr_rate": 42.1
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Central High School",
+      "act_code": "431390",
+      "cgr_years": {
+        "2019": 62.2,
+        "2020": 60.1,
+        "2021": 49.9,
+        "2022": 50.0,
+        "2023": 54.1
+      },
+      "cgr_rate": 54.1
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "City University School Of Independence",
+      "act_code": "430181",
+      "cgr_years": {
+        "2019": 81.2
+      },
+      "cgr_rate": 81.2
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "City University School Of Liberal Arts",
+      "act_code": "431503",
+      "cgr_years": {
+        "2019": 62.0,
+        "2020": 59.6,
+        "2021": 58.8,
+        "2022": 43.3,
+        "2023": 42.9
+      },
+      "cgr_rate": 42.9
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Compass Community School, Midtown Campus",
+      "act_code": "430346",
+      "cgr_years": {
+        "2020": 51.4,
+        "2021": 58.8,
+        "2022": 58.5,
+        "2023": 56.5
+      },
+      "cgr_rate": 56.5
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Cordova High School",
+      "act_code": "430452",
+      "cgr_years": {
+        "2019": 54.4,
+        "2020": 47.6,
+        "2021": 41.8,
+        "2022": 37.8,
+        "2023": 42.4
+      },
+      "cgr_rate": 42.4
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Craigmont High School",
+      "act_code": "431397",
+      "cgr_years": {
+        "2019": 48.3,
+        "2020": 23.3,
+        "2021": 37.9,
+        "2022": 36.9,
+        "2023": 27.7
+      },
+      "cgr_rate": 27.7
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Crosstown High School",
+      "act_code": "430078",
+      "cgr_years": {
+        "2022": 77.3,
+        "2023": 64.8
+      },
+      "cgr_rate": 64.8
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Douglass High School",
+      "act_code": "431400",
+      "cgr_years": {
+        "2019": 33.6,
+        "2020": 29.4,
+        "2021": 24.3,
+        "2022": 21.9,
+        "2023": 26.1
+      },
+      "cgr_rate": 26.1
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "East Middle/High School",
+      "act_code": "431405",
+      "cgr_years": {
+        "2019": 46.2,
+        "2020": 34.3,
+        "2021": 69.9,
+        "2022": 81.7,
+        "2023": 84.7
+      },
+      "cgr_rate": 84.7
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Freedom Preparatory Academy",
+      "act_code": "431427",
+      "cgr_years": {
+        "2019": 79.1,
+        "2020": 72.6,
+        "2021": 58.1,
+        "2022": 56.2,
+        "2023": 55.7
+      },
+      "cgr_rate": 55.7
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Germantown High School",
+      "act_code": "430760",
+      "cgr_years": {
+        "2019": 72.2,
+        "2020": 68.8,
+        "2021": 65.9,
+        "2022": 66.4,
+        "2023": 67.0
+      },
+      "cgr_rate": 67.0
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Hamilton High School",
+      "act_code": "431415",
+      "cgr_years": {
+        "2019": 30.2,
+        "2020": 25.7,
+        "2021": 12.1,
+        "2022": 14.5,
+        "2023": 28.1
+      },
+      "cgr_rate": 28.1
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Hollis F. Price Middle College High School",
+      "act_code": "431441",
+      "cgr_years": {
+        "2019": 92.6,
+        "2020": 71.4,
+        "2021": 59.3,
+        "2022": 73.7
+      },
+      "cgr_rate": 73.7
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Kingsbury High School",
+      "act_code": "431433",
+      "cgr_years": {
+        "2019": 33.0,
+        "2020": 26.4,
+        "2021": 19.7,
+        "2022": 22.9,
+        "2023": 29.4
+      },
+      "cgr_rate": 29.4
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Kipp Memphis Collegiate High School",
+      "act_code": "431524",
+      "cgr_years": {
+        "2019": 66.7,
+        "2020": 50.0,
+        "2021": 41.0,
+        "2022": 40.0,
+        "2023": 44.4
+      },
+      "cgr_rate": 44.4
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Kirby High School",
+      "act_code": "430762",
+      "cgr_years": {
+        "2019": 35.7,
+        "2020": 31.6,
+        "2021": 19.7,
+        "2022": 31.1,
+        "2023": 27.9
+      },
+      "cgr_rate": 27.9
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Manassas High School",
+      "act_code": "431440",
+      "cgr_years": {
+        "2019": 37.6,
+        "2020": 29.3,
+        "2021": 18.5,
+        "2022": 19.7,
+        "2023": 37.3
+      },
+      "cgr_rate": 37.3
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Melrose High School",
+      "act_code": "431445",
+      "cgr_years": {
+        "2019": 39.8,
+        "2020": 29.3,
+        "2021": 22.7,
+        "2022": 34.8,
+        "2023": 20.9
+      },
+      "cgr_rate": 20.9
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Academy Of Health Sciences High School",
+      "act_code": "431526",
+      "cgr_years": {
+        "2019": 70.1,
+        "2020": 46.3,
+        "2021": 36.3,
+        "2022": 29.6
+      },
+      "cgr_rate": 29.6
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Academy Of Science And Engineering",
+      "act_code": "431424",
+      "cgr_years": {
+        "2019": 63.8,
+        "2020": 52.3,
+        "2021": 46.5,
+        "2022": 42.5,
+        "2023": 51.2
+      },
+      "cgr_rate": 51.2
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Business Academy High School",
+      "act_code": "431523",
+      "cgr_years": {
+        "2019": 48.8,
+        "2020": 42.4,
+        "2021": 38.4,
+        "2022": 33.0,
+        "2023": 47.9
+      },
+      "cgr_rate": 47.9
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Rise Academy",
+      "act_code": "430047",
+      "cgr_years": {
+        "2021": 51.1,
+        "2022": 56.1,
+        "2023": 58.8
+      },
+      "cgr_rate": 58.8
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis School Of Excellence",
+      "act_code": "431517",
+      "cgr_years": {
+        "2019": 82.6,
+        "2020": 57.1,
+        "2021": 35.6,
+        "2022": 48.5,
+        "2023": 50.0
+      },
+      "cgr_rate": 50.0
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Virtual School",
+      "act_code": "431527",
+      "cgr_years": {
+        "2019": 36.1,
+        "2020": 32.3,
+        "2022": 35.6,
+        "2023": 29.0
+      },
+      "cgr_rate": 29.0
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Middle College High School",
+      "act_code": "431446",
+      "cgr_years": {
+        "2019": 89.9,
+        "2020": 82.4,
+        "2021": 79.4,
+        "2022": 81.6,
+        "2023": 77.1
+      },
+      "cgr_rate": 77.1
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Mitchell High School",
+      "act_code": "431456",
+      "cgr_years": {
+        "2019": 48.6,
+        "2020": 23.6,
+        "2021": 26.6,
+        "2022": 41.3,
+        "2023": 32.8
+      },
+      "cgr_rate": 32.8
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Oakhaven Middle/High School",
+      "act_code": "431457",
+      "cgr_years": {
+        "2019": 32.2,
+        "2020": 19.4,
+        "2021": 20.3,
+        "2022": 24.2,
+        "2023": 39.0
+      },
+      "cgr_rate": 39.0
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Overton High School",
+      "act_code": "431458",
+      "cgr_years": {
+        "2019": 59.6,
+        "2020": 44.0,
+        "2021": 42.2,
+        "2022": 43.4,
+        "2023": 38.6
+      },
+      "cgr_rate": 38.6
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Power Center Academy High School",
+      "act_code": "431468",
+      "cgr_years": {
+        "2019": 66.7,
+        "2020": 57.9,
+        "2021": 48.8,
+        "2022": 59.0,
+        "2023": 52.8
+      },
+      "cgr_rate": 52.8
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Raleigh-Egypt High School",
+      "act_code": "431463",
+      "cgr_years": {
+        "2019": 35.4,
+        "2020": 30.5,
+        "2021": 22.1,
+        "2022": 20.1,
+        "2023": 28.3
+      },
+      "cgr_rate": 28.3
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Ridgeway High School",
+      "act_code": "431461",
+      "cgr_years": {
+        "2019": 55.5,
+        "2020": 45.1,
+        "2021": 45.7,
+        "2022": 44.6,
+        "2023": 40.7
+      },
+      "cgr_rate": 40.7
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Sheffield High School",
+      "act_code": "431483",
+      "cgr_years": {
+        "2019": 18.3,
+        "2020": 21.7,
+        "2021": 21.8,
+        "2022": 24.7,
+        "2023": 16.0
+      },
+      "cgr_rate": 16.0
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Soulsville Charter School",
+      "act_code": "431522",
+      "cgr_years": {
+        "2019": 71.4,
+        "2020": 60.7,
+        "2021": 60.9,
+        "2022": 62.0,
+        "2023": 62.3
+      },
+      "cgr_rate": 62.3
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Southwind High School",
+      "act_code": "431494",
+      "cgr_years": {
+        "2019": 52.2,
+        "2020": 48.7,
+        "2021": 44.0,
+        "2022": 46.3,
+        "2023": 47.9
+      },
+      "cgr_rate": 47.9
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Trezevant High School",
+      "act_code": "431507",
+      "cgr_years": {
+        "2019": 29.4,
+        "2020": 26.3,
+        "2021": 12.4,
+        "2022": 30.0,
+        "2023": 14.1
+      },
+      "cgr_rate": 14.1
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Westwood High School",
+      "act_code": "431509",
+      "cgr_years": {
+        "2019": 32.6,
+        "2020": 13.9,
+        "2021": 24.6,
+        "2022": 27.4,
+        "2023": 28.6
+      },
+      "cgr_rate": 28.6
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "White Station High School",
+      "act_code": "431510",
+      "cgr_years": {
+        "2019": 74.2,
+        "2020": 69.0,
+        "2021": 70.1,
+        "2022": 64.9,
+        "2023": 73.2
+      },
+      "cgr_rate": 73.2
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Whitehaven High School",
+      "act_code": "432430",
+      "cgr_years": {
+        "2019": 61.7,
+        "2020": 51.4,
+        "2021": 46.1,
+        "2022": 52.0,
+        "2023": 51.5
+      },
+      "cgr_rate": 51.5
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Wooddale High School",
+      "act_code": "431512",
+      "cgr_years": {
+        "2019": 25.0,
+        "2020": 23.7,
+        "2021": 9.9,
+        "2022": 25.2,
+        "2023": 17.9
+      },
+      "cgr_rate": 17.9
+    },
+    {
+      "county": "Shelby",
+      "district": "Millington Municipal Schools",
+      "school": "Millington Central High School",
+      "act_code": "431550",
+      "cgr_years": {
+        "2019": 48.6,
+        "2020": 42.1,
+        "2021": 48.8,
+        "2022": 56.5,
+        "2023": 42.2
+      },
+      "cgr_rate": 42.2
+    },
+    {
+      "county": "Shelby",
+      "district": "Tennessee Public Charter School Commission",
+      "school": "Bluff City High School",
+      "act_code": "430053",
+      "cgr_years": {
+        "2021": 21.0,
+        "2022": 34.0,
+        "2023": 27.3
+      },
+      "cgr_rate": 27.3
+    },
+    {
+      "county": "Smith",
+      "district": "Smith County",
+      "school": "Gordonsville High School",
+      "act_code": "430780",
+      "cgr_years": {
+        "2019": 54.5,
+        "2020": 60.8,
+        "2021": 45.9,
+        "2022": 57.6,
+        "2023": 62.3
+      },
+      "cgr_rate": 62.3
+    },
+    {
+      "county": "Smith",
+      "district": "Smith County",
+      "school": "Smith County High School",
+      "act_code": "430230",
+      "cgr_years": {
+        "2019": 59.6,
+        "2020": 49.5,
+        "2021": 42.7,
+        "2022": 50.4,
+        "2023": 57.0
+      },
+      "cgr_rate": 57.0
+    },
+    {
+      "county": "Stewart",
+      "district": "Stewart County",
+      "school": "Stewart County High School",
+      "act_code": "430580",
+      "cgr_years": {
+        "2019": 54.9,
+        "2020": 43.6,
+        "2021": 39.3,
+        "2022": 42.9,
+        "2023": 49.3
+      },
+      "cgr_rate": 49.3
+    },
+    {
+      "county": "Sullivan",
+      "district": "Bristol",
+      "school": "Bristol Tennessee High School",
+      "act_code": "430180",
+      "cgr_years": {
+        "2019": 70.3,
+        "2020": 65.2,
+        "2021": 70.7,
+        "2022": 60.4,
+        "2023": 59.3
+      },
+      "cgr_rate": 59.3
+    },
+    {
+      "county": "Sullivan",
+      "district": "Bristol",
+      "school": "Tennessee Online Public School",
+      "act_code": "430175",
+      "cgr_years": {
+        "2019": 72.1,
+        "2020": 56.2,
+        "2021": 66.0,
+        "2022": 56.9,
+        "2023": 68.6
+      },
+      "cgr_rate": 68.6
+    },
+    {
+      "county": "Sullivan",
+      "district": "Kingsport",
+      "school": "Dobyns-Bennett High School",
+      "act_code": "431045",
+      "cgr_years": {
+        "2019": 72.3,
+        "2020": 63.7,
+        "2021": 62.7,
+        "2022": 64.8,
+        "2023": 64.1
+      },
+      "cgr_rate": 64.1
+    },
+    {
+      "county": "Sullivan",
+      "district": "Sullivan County",
+      "school": "Sullivan Central High School",
+      "act_code": "430140",
+      "cgr_years": {
+        "2019": 68.2,
+        "2020": 57.4,
+        "2021": 68.4
+      },
+      "cgr_rate": 68.4
+    },
+    {
+      "county": "Sullivan",
+      "district": "Sullivan County",
+      "school": "Sullivan East High School",
+      "act_code": "430151",
+      "cgr_years": {
+        "2019": 73.7,
+        "2020": 59.7,
+        "2021": 50.0,
+        "2022": 51.5,
+        "2023": 58.5
+      },
+      "cgr_rate": 58.5
+    },
+    {
+      "county": "Sullivan",
+      "district": "Sullivan County",
+      "school": "Sullivan North High School",
+      "act_code": "431062",
+      "cgr_years": {
+        "2019": 59.8,
+        "2020": 51.1,
+        "2021": 47.5
+      },
+      "cgr_rate": 47.5
+    },
+    {
+      "county": "Sullivan",
+      "district": "Sullivan County",
+      "school": "Sullivan South High School",
+      "act_code": "431063",
+      "cgr_years": {
+        "2019": 79.1,
+        "2020": 70.1,
+        "2021": 58.5
+      },
+      "cgr_rate": 58.5
+    },
+    {
+      "county": "Sullivan",
+      "district": "Sullivan County",
+      "school": "West Ridge High School",
+      "act_code": "430084",
+      "cgr_years": {
+        "2022": 54.4,
+        "2023": 57.3
+      },
+      "cgr_rate": 57.3
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Beech High School",
+      "act_code": "430888",
+      "cgr_years": {
+        "2019": 70.3,
+        "2020": 68.1,
+        "2021": 63.0,
+        "2022": 62.1,
+        "2023": 69.8
+      },
+      "cgr_rate": 69.8
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "E B Wilson High School",
+      "act_code": "430891",
+      "cgr_years": {
+        "2022": 18.5,
+        "2023": 48.8
+      },
+      "cgr_rate": 48.8
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Gallatin High School",
+      "act_code": "430745",
+      "cgr_years": {
+        "2019": 55.4,
+        "2020": 45.8,
+        "2021": 39.1,
+        "2022": 48.3,
+        "2023": 53.9
+      },
+      "cgr_rate": 53.9
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Hendersonville High School",
+      "act_code": "430890",
+      "cgr_years": {
+        "2019": 73.0,
+        "2020": 73.8,
+        "2021": 59.3,
+        "2022": 60.5,
+        "2023": 72.5
+      },
+      "cgr_rate": 72.5
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Liberty Creek High School",
+      "act_code": "430103",
+      "cgr_years": {
+        "2023": 75.0
+      },
+      "cgr_rate": 75.0
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Merrol Hyde Magnet School",
+      "act_code": "430893",
+      "cgr_years": {
+        "2019": 91.2,
+        "2020": 92.5,
+        "2021": 90.0,
+        "2022": 90.9,
+        "2023": 94.8
+      },
+      "cgr_rate": 94.8
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Portland High School",
+      "act_code": "431895",
+      "cgr_years": {
+        "2019": 46.0,
+        "2020": 34.4,
+        "2021": 33.2,
+        "2022": 29.7,
+        "2023": 49.2
+      },
+      "cgr_rate": 49.2
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Station Camp High School",
+      "act_code": "430746",
+      "cgr_years": {
+        "2019": 74.3,
+        "2020": 69.0,
+        "2021": 66.3,
+        "2022": 69.7,
+        "2023": 83.1
+      },
+      "cgr_rate": 83.1
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Sumner County Middle College High School",
+      "act_code": "430750",
+      "cgr_years": {
+        "2019": 89.5,
+        "2020": 73.6,
+        "2021": 61.7,
+        "2022": 63.6,
+        "2023": 94.6
+      },
+      "cgr_rate": 94.6
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Westmoreland High School",
+      "act_code": "432415",
+      "cgr_years": {
+        "2019": 52.3,
+        "2020": 41.8,
+        "2021": 34.1,
+        "2022": 38.5,
+        "2023": 60.2
+      },
+      "cgr_rate": 60.2
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "White House High School",
+      "act_code": "432435",
+      "cgr_years": {
+        "2019": 64.0,
+        "2020": 54.9,
+        "2021": 65.2,
+        "2022": 55.8,
+        "2023": 72.0
+      },
+      "cgr_rate": 72.0
+    },
+    {
+      "county": "Tipton",
+      "district": "Tipton County",
+      "school": "Brighton High School",
+      "act_code": "430165",
+      "cgr_years": {
+        "2019": 64.6,
+        "2020": 60.9,
+        "2021": 62.6,
+        "2022": 63.1,
+        "2023": 61.0
+      },
+      "cgr_rate": 61.0
+    },
+    {
+      "county": "Tipton",
+      "district": "Tipton County",
+      "school": "Covington High School",
+      "act_code": "430480",
+      "cgr_years": {
+        "2019": 54.8,
+        "2020": 58.0,
+        "2021": 46.8,
+        "2022": 48.1,
+        "2023": 48.5
+      },
+      "cgr_rate": 48.5
+    },
+    {
+      "county": "Tipton",
+      "district": "Tipton County",
+      "school": "Munford High School",
+      "act_code": "431615",
+      "cgr_years": {
+        "2019": 69.9,
+        "2020": 61.5,
+        "2021": 58.8,
+        "2022": 57.3,
+        "2023": 58.7
+      },
+      "cgr_rate": 58.7
+    },
+    {
+      "county": "Trousdale",
+      "district": "Trousdale County",
+      "school": "Trousdale County High School",
+      "act_code": "430870",
+      "cgr_years": {
+        "2019": 80.9,
+        "2020": 58.5,
+        "2021": 53.7,
+        "2022": 58.0,
+        "2023": 66.2
+      },
+      "cgr_rate": 66.2
+    },
+    {
+      "county": "Unicoi",
+      "district": "Unicoi County",
+      "school": "Unicoi County High School",
+      "act_code": "430650",
+      "cgr_years": {
+        "2019": 62.7,
+        "2020": 57.7,
+        "2021": 62.5,
+        "2022": 56.6,
+        "2023": 63.7
+      },
+      "cgr_rate": 63.7
+    },
+    {
+      "county": "Union",
+      "district": "Union County",
+      "school": "Union County High School",
+      "act_code": "431320",
+      "cgr_years": {
+        "2019": 43.9,
+        "2020": 44.9,
+        "2021": 34.6,
+        "2022": 50.3,
+        "2023": 49.7
+      },
+      "cgr_rate": 49.7
+    },
+    {
+      "county": "Van Buren",
+      "district": "Van Buren County",
+      "school": "Van Buren County Junior/Senior High School",
+      "act_code": "432175",
+      "cgr_years": {
+        "2019": 53.4,
+        "2020": 52.7,
+        "2021": 53.6,
+        "2022": 63.5,
+        "2023": 52.8
+      },
+      "cgr_rate": 52.8
+    },
+    {
+      "county": "Warren",
+      "district": "Warren County",
+      "school": "Warren County High School",
+      "act_code": "431367",
+      "cgr_years": {
+        "2019": 60.5,
+        "2020": 54.9,
+        "2021": 52.6,
+        "2022": 52.0,
+        "2023": 60.1
+      },
+      "cgr_rate": 60.1
+    },
+    {
+      "county": "Washington",
+      "district": "Johnson City",
+      "school": "Science Hill High School",
+      "act_code": "431010",
+      "cgr_years": {
+        "2019": 75.9,
+        "2020": 70.6,
+        "2021": 64.7,
+        "2022": 67.3,
+        "2023": 63.9
+      },
+      "cgr_rate": 63.9
+    },
+    {
+      "county": "Washington",
+      "district": "Washington County",
+      "school": "Daniel Boone High School",
+      "act_code": "431015",
+      "cgr_years": {
+        "2019": 65.3,
+        "2020": 53.4,
+        "2021": 44.4,
+        "2022": 53.6,
+        "2023": 60.5
+      },
+      "cgr_rate": 60.5
+    },
+    {
+      "county": "Washington",
+      "district": "Washington County",
+      "school": "David Crockett High School",
+      "act_code": "431020",
+      "cgr_years": {
+        "2019": 49.8,
+        "2020": 46.9,
+        "2021": 43.2,
+        "2022": 40.3,
+        "2023": 50.6
+      },
+      "cgr_rate": 50.6
+    },
+    {
+      "county": "Washington",
+      "district": "Washington County",
+      "school": "University School",
+      "act_code": "431000",
+      "cgr_years": {
+        "2019": 87.1,
+        "2020": 91.7,
+        "2021": 76.8,
+        "2022": 88.7,
+        "2023": 93.3
+      },
+      "cgr_rate": 93.3
+    },
+    {
+      "county": "Wayne",
+      "district": "Wayne County",
+      "school": "Collinwood High School",
+      "act_code": "430415",
+      "cgr_years": {
+        "2019": 66.2,
+        "2020": 55.6,
+        "2021": 53.0,
+        "2022": 45.2,
+        "2023": 53.8
+      },
+      "cgr_rate": 53.8
+    },
+    {
+      "county": "Wayne",
+      "district": "Wayne County",
+      "school": "Frank Hughes School",
+      "act_code": "430385",
+      "cgr_years": {
+        "2019": 47.8,
+        "2020": 75.0,
+        "2021": 54.2,
+        "2022": 70.6,
+        "2023": 71.4
+      },
+      "cgr_rate": 71.4
+    },
+    {
+      "county": "Wayne",
+      "district": "Wayne County",
+      "school": "Wayne County High School",
+      "act_code": "432410",
+      "cgr_years": {
+        "2019": 64.2,
+        "2020": 53.6,
+        "2021": 45.2,
+        "2022": 53.1,
+        "2023": 52.7
+      },
+      "cgr_rate": 52.7
+    },
+    {
+      "county": "Weakley",
+      "district": "Weakley County",
+      "school": "Dresden High School",
+      "act_code": "430585",
+      "cgr_years": {
+        "2019": 68.8,
+        "2020": 55.8,
+        "2021": 50.0,
+        "2022": 52.8,
+        "2023": 43.8
+      },
+      "cgr_rate": 43.8
+    },
+    {
+      "county": "Weakley",
+      "district": "Weakley County",
+      "school": "Gleason School",
+      "act_code": "430770",
+      "cgr_years": {
+        "2019": 70.0,
+        "2020": 69.2,
+        "2021": 75.0,
+        "2022": 66.7,
+        "2023": 60.0
+      },
+      "cgr_rate": 60.0
+    },
+    {
+      "county": "Weakley",
+      "district": "Weakley County",
+      "school": "Greenfield School",
+      "act_code": "430830",
+      "cgr_years": {
+        "2019": 68.1,
+        "2020": 60.6,
+        "2021": 62.8,
+        "2022": 45.2,
+        "2023": 56.8
+      },
+      "cgr_rate": 56.8
+    },
+    {
+      "county": "Weakley",
+      "district": "Weakley County",
+      "school": "Westview High School",
+      "act_code": "431280",
+      "cgr_years": {
+        "2019": 69.9,
+        "2020": 61.7,
+        "2021": 55.1,
+        "2022": 64.4,
+        "2023": 64.3
+      },
+      "cgr_rate": 64.3
+    },
+    {
+      "county": "White",
+      "district": "White County",
+      "school": "White County High School",
+      "act_code": "432165",
+      "cgr_years": {
+        "2019": 46.6,
+        "2020": 43.5,
+        "2021": 40.5,
+        "2022": 41.5,
+        "2023": 51.7
+      },
+      "cgr_rate": 51.7
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Brentwood High School",
+      "act_code": "430162",
+      "cgr_years": {
+        "2019": 89.7,
+        "2020": 88.0,
+        "2021": 83.5,
+        "2022": 87.4,
+        "2023": 90.5
+      },
+      "cgr_rate": 90.5
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Centennial High School",
+      "act_code": "430701",
+      "cgr_years": {
+        "2019": 74.0,
+        "2020": 71.1,
+        "2021": 74.6,
+        "2022": 74.3,
+        "2023": 75.7
+      },
+      "cgr_rate": 75.7
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Fairview High School",
+      "act_code": "430657",
+      "cgr_years": {
+        "2019": 72.0,
+        "2020": 75.2,
+        "2021": 68.8,
+        "2022": 55.2,
+        "2023": 64.0
+      },
+      "cgr_rate": 64.0
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Franklin High School",
+      "act_code": "430705",
+      "cgr_years": {
+        "2019": 89.3,
+        "2020": 88.3,
+        "2021": 83.9,
+        "2022": 85.2,
+        "2023": 82.2
+      },
+      "cgr_rate": 82.2
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Fred J Page High School",
+      "act_code": "430405",
+      "cgr_years": {
+        "2019": 90.8,
+        "2020": 84.3,
+        "2021": 87.8,
+        "2022": 89.4,
+        "2023": 85.9
+      },
+      "cgr_rate": 85.9
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Independence High School",
+      "act_code": "430706",
+      "cgr_years": {
+        "2019": 85.4,
+        "2020": 82.8,
+        "2021": 77.4,
+        "2022": 82.2,
+        "2023": 82.0
+      },
+      "cgr_rate": 82.0
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Nolensville High School",
+      "act_code": "430001",
+      "cgr_years": {
+        "2019": 81.8,
+        "2020": 55.3,
+        "2021": 87.0,
+        "2022": 86.6,
+        "2023": 82.3
+      },
+      "cgr_rate": 82.3
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Ravenwood High School",
+      "act_code": "430168",
+      "cgr_years": {
+        "2019": 90.9,
+        "2020": 90.9,
+        "2021": 85.4,
+        "2022": 87.9,
+        "2023": 87.3
+      },
+      "cgr_rate": 87.3
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Renaissance High School",
+      "act_code": "431760",
+      "cgr_years": {
+        "2019": 68.3,
+        "2020": 68.3,
+        "2021": 68.4,
+        "2022": 83.3,
+        "2023": 68.4
+      },
+      "cgr_rate": 68.4
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Summit High School",
+      "act_code": "433182",
+      "cgr_years": {
+        "2019": 85.7,
+        "2020": 76.9,
+        "2021": 79.8,
+        "2022": 77.6,
+        "2023": 80.3
+      },
+      "cgr_rate": 80.3
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Vanguard Virtual High School",
+      "act_code": "430090",
+      "cgr_years": {
+        "2022": 53.4,
+        "2023": 45.7
+      },
+      "cgr_rate": 45.7
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Barry Tatum Academy",
+      "act_code": "431171",
+      "cgr_years": {
+        "2022": 51.6,
+        "2023": 41.9
+      },
+      "cgr_rate": 41.9
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Green Hill High School",
+      "act_code": "430067",
+      "cgr_years": {
+        "2021": 52.9,
+        "2022": 71.1,
+        "2023": 71.0
+      },
+      "cgr_rate": 71.0
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Lebanon High School",
+      "act_code": "431175",
+      "cgr_years": {
+        "2019": 56.6,
+        "2020": 58.2,
+        "2021": 50.1,
+        "2022": 53.5,
+        "2023": 58.4
+      },
+      "cgr_rate": 58.4
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Mount Juliet High School",
+      "act_code": "431600",
+      "cgr_years": {
+        "2019": 76.1,
+        "2020": 72.3,
+        "2021": 72.4,
+        "2022": 66.0,
+        "2023": 69.0
+      },
+      "cgr_rate": 69.0
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Watertown High School",
+      "act_code": "432395",
+      "cgr_years": {
+        "2019": 59.1,
+        "2020": 58.9,
+        "2021": 62.7,
+        "2022": 55.6,
+        "2023": 56.0
+      },
+      "cgr_rate": 56.0
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Wilson Central High School",
+      "act_code": "431179",
+      "cgr_years": {
+        "2019": 69.4,
+        "2020": 66.4,
+        "2021": 66.7,
+        "2022": 64.1,
+        "2023": 68.0
+      },
+      "cgr_rate": 68.0
+    }
+  ]
+}
