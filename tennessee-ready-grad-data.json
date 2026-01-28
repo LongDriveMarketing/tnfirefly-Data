@@ -1,0 +1,4179 @@
+{
+  "state": {
+    "ready_grad_rate": 53.1,
+    "schools_count": 379,
+    "counties_count": 95,
+    "year": "Class of 2025"
+  },
+  "schools": [
+    {
+      "county": "Mcnairy",
+      "district": "McNairy County",
+      "school": "Adamsville High School",
+      "ready_grad_rate": 61.9,
+      "ready_grad_years": {
+        "2023": 46.5,
+        "2024": 53.9,
+        "2025": 61.9
+      }
+    },
+    {
+      "county": "Blount",
+      "district": "Alcoa",
+      "school": "Alcoa High School",
+      "ready_grad_rate": 91.9,
+      "ready_grad_years": {
+        "2023": 87.7,
+        "2024": 92.8,
+        "2025": 91.9
+      }
+    },
+    {
+      "county": "Anderson",
+      "district": "Anderson County",
+      "school": "Anderson County High School",
+      "ready_grad_rate": 72.3,
+      "ready_grad_years": {
+        "2023": 42.6,
+        "2024": 66.1,
+        "2025": 72.3
+      }
+    },
+    {
+      "county": "Anderson",
+      "district": "Anderson County",
+      "school": "Anderson County Innovation Academy",
+      "ready_grad_rate": 43.8,
+      "ready_grad_years": {
+        "2023": 36.4,
+        "2024": 46.2,
+        "2025": 43.8
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Antioch High School",
+      "ready_grad_rate": 12.0,
+      "ready_grad_years": {
+        "2023": 11.8,
+        "2024": 14.2,
+        "2025": 12.0
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Arlington",
+      "school": "Arlington High",
+      "ready_grad_rate": 80.1,
+      "ready_grad_years": {
+        "2023": 62.7,
+        "2024": 78.7,
+        "2025": 80.1
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Austin East High/Magnet",
+      "ready_grad_rate": 17.5,
+      "ready_grad_years": {
+        "2023": 16.6,
+        "2024": 16.7,
+        "2025": 17.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "B. T. Washington High",
+      "ready_grad_rate": 30.3,
+      "ready_grad_years": {
+        "2023": 36.0,
+        "2024": 39.8,
+        "2025": 30.3
+      }
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Barry Tatum Virtual Learning Academy",
+      "ready_grad_rate": 55.2,
+      "ready_grad_years": {
+        "2023": 35.5,
+        "2024": 40.5,
+        "2025": 55.2
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Bartlett",
+      "school": "Bartlett High School",
+      "ready_grad_rate": 60.1,
+      "ready_grad_years": {
+        "2023": 55.2,
+        "2024": 55.6,
+        "2025": 60.1
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Bearden High School",
+      "ready_grad_rate": 67.6,
+      "ready_grad_years": {
+        "2023": 55.0,
+        "2024": 60.0,
+        "2025": 67.6
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Beech Sr High School",
+      "ready_grad_rate": 52.5,
+      "ready_grad_years": {
+        "2023": 44.4,
+        "2024": 43.6,
+        "2025": 52.5
+      }
+    },
+    {
+      "county": "Benton",
+      "district": "Benton County",
+      "school": "Big Sandy School",
+      "ready_grad_rate": 47.4,
+      "ready_grad_years": {
+        "2023": 73.3,
+        "2024": 29.4,
+        "2025": 47.4
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Blackman High School",
+      "ready_grad_rate": 48.8,
+      "ready_grad_years": {
+        "2023": 49.2,
+        "2024": 42.3,
+        "2025": 48.8
+      }
+    },
+    {
+      "county": "Bledsoe",
+      "district": "Bledsoe County",
+      "school": "Bledsoe County High School",
+      "ready_grad_rate": 77.5,
+      "ready_grad_years": {
+        "2023": 80.9,
+        "2024": 83.2,
+        "2025": 77.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Tennessee Public Charter School Commission",
+      "school": "Bluff City High School",
+      "ready_grad_rate": 52.3,
+      "ready_grad_years": {
+        "2023": 16.7,
+        "2024": 20.8,
+        "2025": 52.3
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Bolton High",
+      "ready_grad_rate": 50.5,
+      "ready_grad_years": {
+        "2023": 26.3,
+        "2024": 38.6,
+        "2025": 50.5
+      }
+    },
+    {
+      "county": "Gibson",
+      "district": "Bradford",
+      "school": "Bradford High School",
+      "ready_grad_rate": 75.0,
+      "ready_grad_years": {
+        "2023": 57.1,
+        "2024": 58.3,
+        "2025": 75.0
+      }
+    },
+    {
+      "county": "Bradley",
+      "district": "Bradley County",
+      "school": "Bradley Central High School",
+      "ready_grad_rate": 52.4,
+      "ready_grad_years": {
+        "2023": 50.1,
+        "2024": 57.2,
+        "2025": 52.4
+      }
+    },
+    {
+      "county": "Bradley",
+      "district": "Bradley County",
+      "school": "Bradley County Virtual School",
+      "ready_grad_rate": 33.3,
+      "ready_grad_years": {
+        "2023": 9.8,
+        "2024": 28.1,
+        "2025": 33.3
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Brainerd High School",
+      "ready_grad_rate": 21.3,
+      "ready_grad_years": {
+        "2023": 27.3,
+        "2024": 31.6,
+        "2025": 21.3
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Brentwood High School",
+      "ready_grad_rate": 87.2,
+      "ready_grad_years": {
+        "2023": 83.7,
+        "2024": 89.2,
+        "2025": 87.2
+      }
+    },
+    {
+      "county": "Tipton",
+      "district": "Tipton County",
+      "school": "Brighton High School",
+      "ready_grad_rate": 59.3,
+      "ready_grad_years": {
+        "2023": 61.1,
+        "2024": 66.4,
+        "2025": 59.3
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "CMCSS K-12 Virtual School",
+      "ready_grad_rate": 20.7,
+      "ready_grad_years": {
+        "2023": 13.4,
+        "2024": 25.0,
+        "2025": 20.7
+      }
+    },
+    {
+      "county": "Benton",
+      "district": "Benton County",
+      "school": "Camden Central High School",
+      "ready_grad_rate": 66.7,
+      "ready_grad_years": {
+        "2023": 56.3,
+        "2024": 65.7,
+        "2025": 66.7
+      }
+    },
+    {
+      "county": "Campbell",
+      "district": "Campbell County",
+      "school": "Campbell County Comprehensive High School",
+      "ready_grad_rate": 37.7,
+      "ready_grad_years": {
+        "2023": 28.4,
+        "2024": 29.5,
+        "2025": 37.7
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Cane Ridge High School",
+      "ready_grad_rate": 18.6,
+      "ready_grad_years": {
+        "2023": 23.4,
+        "2024": 21.4,
+        "2025": 18.6
+      }
+    },
+    {
+      "county": "Cannon",
+      "district": "Cannon County",
+      "school": "Cannon County High School",
+      "ready_grad_rate": 59.1,
+      "ready_grad_years": {
+        "2023": 50.4,
+        "2024": 46.0,
+        "2025": 59.1
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Career Magnet Academy",
+      "ready_grad_rate": 87.3,
+      "ready_grad_years": {
+        "2023": 76.9,
+        "2024": 77.6,
+        "2025": 87.3
+      }
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Carter County Online Academy",
+      "ready_grad_rate": 18.2,
+      "ready_grad_years": {
+        "2023": 6.8,
+        "2024": null,
+        "2025": 18.2
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Carter High School",
+      "ready_grad_rate": 39.5,
+      "ready_grad_years": {
+        "2023": 28.0,
+        "2024": 35.5,
+        "2025": 39.5
+      }
+    },
+    {
+      "county": "Bedford",
+      "district": "Bedford County",
+      "school": "Cascade High School",
+      "ready_grad_rate": 59.0,
+      "ready_grad_years": {
+        "2023": 36.4,
+        "2024": 38.6,
+        "2025": 59.0
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Centennial High School",
+      "ready_grad_rate": 59.3,
+      "ready_grad_years": {
+        "2023": 60.0,
+        "2024": 66.1,
+        "2025": 59.3
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Central High",
+      "ready_grad_rate": 46.7,
+      "ready_grad_years": {
+        "2023": 20.4,
+        "2024": 44.3,
+        "2025": 46.7
+      }
+    },
+    {
+      "county": "Carroll",
+      "district": "Hollow Rock - Bruceton",
+      "school": "Central High School",
+      "ready_grad_rate": 74.5,
+      "ready_grad_years": {
+        "2023": 39.5,
+        "2024": 72.1,
+        "2025": 74.5
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Central High School",
+      "ready_grad_rate": 39.2,
+      "ready_grad_years": {
+        "2023": 23.3,
+        "2024": 34.7,
+        "2025": 39.2
+      }
+    },
+    {
+      "county": "Hardeman",
+      "district": "Hardeman County Schools",
+      "school": "Central High School",
+      "ready_grad_rate": 41.6,
+      "ready_grad_years": {
+        "2023": 17.0,
+        "2024": 31.5,
+        "2025": 41.6
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Central High School",
+      "ready_grad_rate": 34.5,
+      "ready_grad_years": {
+        "2023": 27.2,
+        "2024": 36.6,
+        "2025": 34.5
+      }
+    },
+    {
+      "county": "Mcminn",
+      "district": "McMinn County",
+      "school": "Central High School",
+      "ready_grad_rate": 67.6,
+      "ready_grad_years": {
+        "2023": 46.9,
+        "2024": 57.6,
+        "2025": 67.6
+      }
+    },
+    {
+      "county": "Morgan",
+      "district": "Morgan County",
+      "school": "Central High School",
+      "ready_grad_rate": 43.8,
+      "ready_grad_years": {
+        "2023": 33.3,
+        "2024": 43.8,
+        "2025": 43.8
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Chattanooga High School Center for Creative Arts",
+      "ready_grad_rate": 87.1,
+      "ready_grad_years": {
+        "2023": 73.0,
+        "2024": 80.2,
+        "2025": 87.1
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Chattanooga School for the Arts and Sciences Upper",
+      "ready_grad_rate": 71.2,
+      "ready_grad_years": {
+        "2023": 64.9,
+        "2024": 62.7,
+        "2025": 71.2
+      }
+    },
+    {
+      "county": "Cheatham",
+      "district": "Cheatham County",
+      "school": "Cheatham Co Central",
+      "ready_grad_rate": 26.9,
+      "ready_grad_years": {
+        "2023": 32.6,
+        "2024": 24.3,
+        "2025": 26.9
+      }
+    },
+    {
+      "county": "Cheatham",
+      "district": "Cheatham County",
+      "school": "Cheatham County Virtual School",
+      "ready_grad_rate": 11.1,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 11.1
+      }
+    },
+    {
+      "county": "Hawkins",
+      "district": "Hawkins County",
+      "school": "Cherokee High School",
+      "ready_grad_rate": 58.8,
+      "ready_grad_years": {
+        "2023": 48.4,
+        "2024": 55.5,
+        "2025": 58.8
+      }
+    },
+    {
+      "county": "Chester",
+      "district": "Chester County",
+      "school": "Chester County High School",
+      "ready_grad_rate": 82.2,
+      "ready_grad_years": {
+        "2023": 74.4,
+        "2024": 89.6,
+        "2025": 82.2
+      }
+    },
+    {
+      "county": "Greene",
+      "district": "Greene County",
+      "school": "Chuckey Doak High School",
+      "ready_grad_rate": 73.9,
+      "ready_grad_years": {
+        "2023": 62.6,
+        "2024": 70.7,
+        "2025": 73.9
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "City University School Of Liberal Arts",
+      "ready_grad_rate": 20.0,
+      "ready_grad_years": {
+        "2023": 6.3,
+        "2024": 7.7,
+        "2025": 20.0
+      }
+    },
+    {
+      "county": "Claiborne",
+      "district": "Claiborne County",
+      "school": "Claiborne High School",
+      "ready_grad_rate": 31.8,
+      "ready_grad_years": {
+        "2023": 29.7,
+        "2024": 44.1,
+        "2025": 31.8
+      }
+    },
+    {
+      "county": "Fentress",
+      "district": "Fentress County",
+      "school": "Clarkrange High School",
+      "ready_grad_rate": 78.5,
+      "ready_grad_years": {
+        "2023": 59.5,
+        "2024": 78.8,
+        "2025": 78.5
+      }
+    },
+    {
+      "county": "Carroll",
+      "district": "South Carroll",
+      "school": "Clarksburg School",
+      "ready_grad_rate": 61.5,
+      "ready_grad_years": {
+        "2023": 63.3,
+        "2024": 95.0,
+        "2025": 61.5
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Clarksville High",
+      "ready_grad_rate": 48.1,
+      "ready_grad_years": {
+        "2023": 49.0,
+        "2024": 50.1,
+        "2025": 48.1
+      }
+    },
+    {
+      "county": "Clay",
+      "district": "Clay County",
+      "school": "Clay County High School",
+      "ready_grad_rate": 88.2,
+      "ready_grad_years": {
+        "2023": 88.2,
+        "2024": 94.6,
+        "2025": 88.2
+      }
+    },
+    {
+      "county": "Bradley",
+      "district": "Cleveland",
+      "school": "Cleveland High",
+      "ready_grad_rate": 47.1,
+      "ready_grad_years": {
+        "2023": 41.0,
+        "2024": 41.1,
+        "2025": 47.1
+      }
+    },
+    {
+      "county": "Hawkins",
+      "district": "Hawkins County",
+      "school": "Clinch School",
+      "ready_grad_rate": 81.8,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 8.3,
+        "2025": 81.8
+      }
+    },
+    {
+      "county": "Anderson",
+      "district": "Anderson County",
+      "school": "Clinton High School",
+      "ready_grad_rate": 64.1,
+      "ready_grad_years": {
+        "2023": 43.6,
+        "2024": 58.1,
+        "2025": 64.1
+      }
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Cloudland High School",
+      "ready_grad_rate": 83.3,
+      "ready_grad_years": {
+        "2023": 75.0,
+        "2024": 68.2,
+        "2025": 83.3
+      }
+    },
+    {
+      "county": "Morgan",
+      "district": "Morgan County",
+      "school": "Coalfield School",
+      "ready_grad_rate": 68.8,
+      "ready_grad_years": {
+        "2023": 41.2,
+        "2024": 48.6,
+        "2025": 68.8
+      }
+    },
+    {
+      "county": "Cocke",
+      "district": "Cocke County",
+      "school": "Cocke Co High School",
+      "ready_grad_rate": 34.3,
+      "ready_grad_years": {
+        "2023": 27.0,
+        "2024": 36.7,
+        "2025": 34.3
+      }
+    },
+    {
+      "county": "Coffee",
+      "district": "Coffee County",
+      "school": "Coffee County Central High School",
+      "ready_grad_rate": 42.1,
+      "ready_grad_years": {
+        "2023": 38.1,
+        "2024": 43.7,
+        "2025": 42.1
+      }
+    },
+    {
+      "county": "Coffee",
+      "district": "Coffee County",
+      "school": "Coffee County Virtual Academy",
+      "ready_grad_rate": 5.3,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 33.3,
+        "2025": 5.3
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Collierville",
+      "school": "Collierville High School",
+      "ready_grad_rate": 86.5,
+      "ready_grad_years": {
+        "2023": 75.1,
+        "2024": 87.7,
+        "2025": 86.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Collierville",
+      "school": "Collierville Virtual Academy",
+      "ready_grad_rate": 57.1,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 38.5,
+        "2025": 57.1
+      }
+    },
+    {
+      "county": "Wayne",
+      "district": "Wayne County",
+      "school": "Collinwood High School",
+      "ready_grad_rate": 63.9,
+      "ready_grad_years": {
+        "2023": 25.0,
+        "2024": 50.8,
+        "2025": 63.9
+      }
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Columbia Central High School",
+      "ready_grad_rate": 47.3,
+      "ready_grad_years": {
+        "2023": 27.4,
+        "2024": 30.9,
+        "2025": 47.3
+      }
+    },
+    {
+      "county": "Bedford",
+      "district": "Bedford County",
+      "school": "Community High School",
+      "ready_grad_rate": 38.3,
+      "ready_grad_years": {
+        "2023": 35.9,
+        "2024": 30.9,
+        "2025": 38.3
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Compass Community School, Midtown Campus",
+      "ready_grad_rate": 14.0,
+      "ready_grad_years": {
+        "2023": 13.7,
+        "2024": null,
+        "2025": 14.0
+      }
+    },
+    {
+      "county": "Putnam",
+      "district": "Putnam County",
+      "school": "Cookeville High School",
+      "ready_grad_rate": 75.6,
+      "ready_grad_years": {
+        "2023": 46.5,
+        "2024": 59.1,
+        "2025": 75.6
+      }
+    },
+    {
+      "county": "Polk",
+      "district": "Polk County",
+      "school": "Copper Basin High School",
+      "ready_grad_rate": 40.0,
+      "ready_grad_years": {
+        "2023": 27.3,
+        "2024": 42.2,
+        "2025": 40.0
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Cordova High School",
+      "ready_grad_rate": 56.9,
+      "ready_grad_years": {
+        "2023": 25.8,
+        "2024": 34.4,
+        "2025": 56.9
+      }
+    },
+    {
+      "county": "Marshall",
+      "district": "Marshall County",
+      "school": "Cornersville School",
+      "ready_grad_rate": 53.8,
+      "ready_grad_years": {
+        "2023": 44.2,
+        "2024": 48.6,
+        "2025": 53.8
+      }
+    },
+    {
+      "county": "Cocke",
+      "district": "Cocke County",
+      "school": "Cosby High School",
+      "ready_grad_rate": 40.4,
+      "ready_grad_years": {
+        "2023": 27.8,
+        "2024": 32.5,
+        "2025": 40.4
+      }
+    },
+    {
+      "county": "Tipton",
+      "district": "Tipton County",
+      "school": "Covington High School",
+      "ready_grad_rate": 64.6,
+      "ready_grad_years": {
+        "2023": 51.0,
+        "2024": 59.8,
+        "2025": 64.6
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Craigmont High",
+      "ready_grad_rate": 61.3,
+      "ready_grad_years": {
+        "2023": 16.4,
+        "2024": 32.9,
+        "2025": 61.3
+      }
+    },
+    {
+      "county": "Dickson",
+      "district": "Dickson County",
+      "school": "Creek Wood High School",
+      "ready_grad_rate": 55.1,
+      "ready_grad_years": {
+        "2023": 49.8,
+        "2024": 50.5,
+        "2025": 55.1
+      }
+    },
+    {
+      "county": "Crockett",
+      "district": "Crockett County",
+      "school": "Crockett County High School",
+      "ready_grad_rate": 44.0,
+      "ready_grad_years": {
+        "2023": 42.0,
+        "2024": 64.2,
+        "2025": 44.0
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Crosstown High School",
+      "ready_grad_rate": 35.7,
+      "ready_grad_years": {
+        "2023": 48.8,
+        "2024": 45.6,
+        "2025": 35.7
+      }
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Culleoka Unit School",
+      "ready_grad_rate": 75.7,
+      "ready_grad_years": {
+        "2023": 44.8,
+        "2024": 61.6,
+        "2025": 75.7
+      }
+    },
+    {
+      "county": "Cumberland",
+      "district": "Cumberland County",
+      "school": "Cumberland County High School",
+      "ready_grad_rate": 54.1,
+      "ready_grad_years": {
+        "2023": 38.0,
+        "2024": 54.6,
+        "2025": 54.1
+      }
+    },
+    {
+      "county": "Claiborne",
+      "district": "Claiborne County",
+      "school": "Cumberland Gap High School",
+      "ready_grad_rate": 46.8,
+      "ready_grad_years": {
+        "2023": 30.8,
+        "2024": 48.3,
+        "2025": 46.8
+      }
+    },
+    {
+      "county": "Washington",
+      "district": "Washington County",
+      "school": "Daniel Boone High School",
+      "ready_grad_rate": 52.1,
+      "ready_grad_years": {
+        "2023": 42.9,
+        "2024": 42.7,
+        "2025": 52.1
+      }
+    },
+    {
+      "county": "Washington",
+      "district": "Washington County",
+      "school": "David Crockett High School",
+      "ready_grad_rate": 44.1,
+      "ready_grad_years": {
+        "2023": 36.0,
+        "2024": 39.5,
+        "2025": 44.1
+      }
+    },
+    {
+      "county": "Dekalb",
+      "district": "DeKalb County",
+      "school": "De Kalb County High School",
+      "ready_grad_rate": 62.6,
+      "ready_grad_years": {
+        "2023": 43.2,
+        "2024": 58.7,
+        "2025": 62.6
+      }
+    },
+    {
+      "county": "Dickson",
+      "district": "Dickson County",
+      "school": "Dickson County High School",
+      "ready_grad_rate": 46.4,
+      "ready_grad_years": {
+        "2023": 36.9,
+        "2024": 43.6,
+        "2025": 46.4
+      }
+    },
+    {
+      "county": "Sullivan",
+      "district": "Kingsport",
+      "school": "Dobyns - Bennett High School",
+      "ready_grad_rate": 62.3,
+      "ready_grad_years": {
+        "2023": 56.8,
+        "2024": 59.0,
+        "2025": 62.3
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Douglass High",
+      "ready_grad_rate": 39.5,
+      "ready_grad_years": {
+        "2023": 13.9,
+        "2024": 22.5,
+        "2025": 39.5
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Dr. Paul L. Kelley Volunteer Academy",
+      "ready_grad_rate": 10.9,
+      "ready_grad_years": {
+        "2023": 5.5,
+        "2024": null,
+        "2025": 10.9
+      }
+    },
+    {
+      "county": "Weakley",
+      "district": "Weakley County",
+      "school": "Dresden High School",
+      "ready_grad_rate": 75.3,
+      "ready_grad_years": {
+        "2023": 35.8,
+        "2024": 50.8,
+        "2025": 75.3
+      }
+    },
+    {
+      "county": "Dyer",
+      "district": "Dyer County",
+      "school": "Dyer County High School",
+      "ready_grad_rate": 75.1,
+      "ready_grad_years": {
+        "2023": 69.8,
+        "2024": 66.5,
+        "2025": 75.1
+      }
+    },
+    {
+      "county": "Dyer",
+      "district": "Dyersburg",
+      "school": "Dyersburg High School",
+      "ready_grad_rate": 78.0,
+      "ready_grad_years": {
+        "2023": 72.9,
+        "2024": 65.2,
+        "2025": 78.0
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "E B Wilson",
+      "ready_grad_rate": 29.6,
+      "ready_grad_years": {
+        "2023": 28.8,
+        "2024": 35.8,
+        "2025": 29.6
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Eagleville School",
+      "ready_grad_rate": 61.4,
+      "ready_grad_years": {
+        "2023": 57.4,
+        "2024": 58.8,
+        "2025": 61.4
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "East Hamilton High School",
+      "ready_grad_rate": 67.4,
+      "ready_grad_years": {
+        "2023": 57.4,
+        "2024": 58.2,
+        "2025": 67.4
+      }
+    },
+    {
+      "county": "Hickman",
+      "district": "Hickman County",
+      "school": "East Hickman High School",
+      "ready_grad_rate": 52.5,
+      "ready_grad_years": {
+        "2023": 34.4,
+        "2024": 49.1,
+        "2025": 52.5
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "East Nashville Magnet High School",
+      "ready_grad_rate": 15.0,
+      "ready_grad_years": {
+        "2023": 8.7,
+        "2024": 19.2,
+        "2025": 15.0
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "East Ridge High School",
+      "ready_grad_rate": 50.4,
+      "ready_grad_years": {
+        "2023": 25.6,
+        "2024": 36.0,
+        "2025": 50.4
+      }
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "East Robertson High School",
+      "ready_grad_rate": 37.0,
+      "ready_grad_years": {
+        "2023": 32.3,
+        "2024": 40.7,
+        "2025": 37.0
+      }
+    },
+    {
+      "county": "Carter",
+      "district": "Elizabethton",
+      "school": "Elizabethton High School",
+      "ready_grad_rate": 53.5,
+      "ready_grad_years": {
+        "2023": 45.7,
+        "2024": 46.9,
+        "2025": 53.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Achievement School District",
+      "school": "Fairley High School",
+      "ready_grad_rate": 12.6,
+      "ready_grad_years": {
+        "2023": 5.9,
+        "2024": 12.2,
+        "2025": 12.6
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Fairview High School",
+      "ready_grad_rate": 64.1,
+      "ready_grad_years": {
+        "2023": 60.3,
+        "2024": 56.1,
+        "2025": 64.1
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Farragut High School",
+      "ready_grad_rate": 75.2,
+      "ready_grad_years": {
+        "2023": 71.7,
+        "2024": 70.3,
+        "2025": 75.2
+      }
+    },
+    {
+      "county": "Fayette",
+      "district": "Fayette County Public Schools",
+      "school": "Fayette Ware Comprehensive High School",
+      "ready_grad_rate": 50.0,
+      "ready_grad_years": {
+        "2023": 30.1,
+        "2024": 34.7,
+        "2025": 50.0
+      }
+    },
+    {
+      "county": "Lincoln",
+      "district": "Fayetteville",
+      "school": "Fayetteville High School",
+      "ready_grad_rate": 62.2,
+      "ready_grad_years": {
+        "2023": 37.9,
+        "2024": 46.2,
+        "2025": 62.2
+      }
+    },
+    {
+      "county": "Marshall",
+      "district": "Marshall County",
+      "school": "Forrest School",
+      "ready_grad_rate": 44.5,
+      "ready_grad_years": {
+        "2023": 34.6,
+        "2024": 46.0,
+        "2025": 44.5
+      }
+    },
+    {
+      "county": "Wayne",
+      "district": "Wayne County",
+      "school": "Frank Hughes School",
+      "ready_grad_rate": 81.5,
+      "ready_grad_years": {
+        "2023": 35.3,
+        "2024": 66.7,
+        "2025": 81.5
+      }
+    },
+    {
+      "county": "Franklin",
+      "district": "Franklin County",
+      "school": "Franklin Co High School",
+      "ready_grad_rate": 43.2,
+      "ready_grad_years": {
+        "2023": 31.7,
+        "2024": 36.4,
+        "2025": 43.2
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Franklin High School",
+      "ready_grad_rate": 83.5,
+      "ready_grad_years": {
+        "2023": 81.0,
+        "2024": 82.9,
+        "2025": 83.5
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Fred J Page High School",
+      "ready_grad_rate": 84.1,
+      "ready_grad_years": {
+        "2023": 82.0,
+        "2024": 73.7,
+        "2025": 84.1
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Freedom Preparatory Academy Flagship",
+      "ready_grad_rate": 20.8,
+      "ready_grad_years": {
+        "2023": 11.3,
+        "2024": 8.5,
+        "2025": 20.8
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Fulton High School",
+      "ready_grad_rate": 32.2,
+      "ready_grad_years": {
+        "2023": 21.0,
+        "2024": 28.0,
+        "2025": 32.2
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Gallatin Senior High School",
+      "ready_grad_rate": 32.9,
+      "ready_grad_years": {
+        "2023": 30.5,
+        "2024": 26.8,
+        "2025": 32.9
+      }
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Gary Hardin Academy",
+      "ready_grad_rate": 15.5,
+      "ready_grad_years": {
+        "2023": 6.8,
+        "2024": 7.7,
+        "2025": 15.5
+      }
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Gatlinburg Pittman High",
+      "ready_grad_rate": 80.2,
+      "ready_grad_years": {
+        "2023": 55.2,
+        "2024": 79.1,
+        "2025": 80.2
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Germantown High",
+      "ready_grad_rate": 72.4,
+      "ready_grad_years": {
+        "2023": 43.3,
+        "2024": 52.4,
+        "2025": 72.4
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Germantown",
+      "school": "Germantown Online Academy of Learning",
+      "ready_grad_rate": 66.7,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 66.7
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Gibbs High School",
+      "ready_grad_rate": 39.8,
+      "ready_grad_years": {
+        "2023": 43.6,
+        "2024": 40.6,
+        "2025": 39.8
+      }
+    },
+    {
+      "county": "Gibson",
+      "district": "Gibson Co Sp Dist",
+      "school": "Gibson County High School",
+      "ready_grad_rate": 67.9,
+      "ready_grad_years": {
+        "2023": 79.4,
+        "2024": 71.3,
+        "2025": 67.9
+      }
+    },
+    {
+      "county": "Giles",
+      "district": "Giles County",
+      "school": "Giles Co High School",
+      "ready_grad_rate": 32.2,
+      "ready_grad_years": {
+        "2023": 20.2,
+        "2024": 37.4,
+        "2025": 32.2
+      }
+    },
+    {
+      "county": "Weakley",
+      "district": "Weakley County",
+      "school": "Gleason School",
+      "ready_grad_rate": 57.9,
+      "ready_grad_years": {
+        "2023": 48.1,
+        "2024": 55.6,
+        "2025": 57.9
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Glencliff High School",
+      "ready_grad_rate": 13.6,
+      "ready_grad_years": {
+        "2023": 9.4,
+        "2024": 13.6,
+        "2025": 13.6
+      }
+    },
+    {
+      "county": "Smith",
+      "district": "Smith County",
+      "school": "Gordonsville High School",
+      "ready_grad_rate": 71.4,
+      "ready_grad_years": {
+        "2023": 49.3,
+        "2024": 64.1,
+        "2025": 71.4
+      }
+    },
+    {
+      "county": "Grainger",
+      "district": "Grainger County",
+      "school": "Grainger High School",
+      "ready_grad_rate": 44.3,
+      "ready_grad_years": {
+        "2023": 27.5,
+        "2024": 32.5,
+        "2025": 44.3
+      }
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Green Hill High School",
+      "ready_grad_rate": 75.9,
+      "ready_grad_years": {
+        "2023": 64.5,
+        "2024": 65.8,
+        "2025": 75.9
+      }
+    },
+    {
+      "county": "Loudon",
+      "district": "Loudon County",
+      "school": "Greenback School",
+      "ready_grad_rate": 50.0,
+      "ready_grad_years": {
+        "2023": 39.3,
+        "2024": 22.2,
+        "2025": 50.0
+      }
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Greenbrier High School",
+      "ready_grad_rate": 42.2,
+      "ready_grad_years": {
+        "2023": 25.9,
+        "2024": 27.3,
+        "2025": 42.2
+      }
+    },
+    {
+      "county": "Greene",
+      "district": "Greeneville",
+      "school": "Greeneville High School",
+      "ready_grad_rate": 56.2,
+      "ready_grad_years": {
+        "2023": 49.7,
+        "2024": 56.9,
+        "2025": 56.2
+      }
+    },
+    {
+      "county": "Weakley",
+      "district": "Weakley County",
+      "school": "Greenfield School",
+      "ready_grad_rate": 42.9,
+      "ready_grad_years": {
+        "2023": 52.4,
+        "2024": 62.2,
+        "2025": 42.9
+      }
+    },
+    {
+      "county": "Grundy",
+      "district": "Grundy County",
+      "school": "Grundy County High School",
+      "ready_grad_rate": 35.7,
+      "ready_grad_years": {
+        "2023": 22.5,
+        "2024": 28.6,
+        "2025": 35.7
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Halls High School",
+      "ready_grad_rate": 44.2,
+      "ready_grad_years": {
+        "2023": 41.5,
+        "2024": 44.4,
+        "2025": 44.2
+      }
+    },
+    {
+      "county": "Lauderdale",
+      "district": "Lauderdale County",
+      "school": "Halls High School",
+      "ready_grad_rate": 79.5,
+      "ready_grad_years": {
+        "2023": 49.4,
+        "2024": 45.9,
+        "2025": 79.5
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Hamilton County Virtual School",
+      "ready_grad_rate": 32.6,
+      "ready_grad_years": {
+        "2023": 12.0,
+        "2024": 21.1,
+        "2025": 32.6
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Hamilton High",
+      "ready_grad_rate": 17.0,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 31.7,
+        "2025": 17.0
+      }
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Hampton High School",
+      "ready_grad_rate": 68.2,
+      "ready_grad_years": {
+        "2023": 53.8,
+        "2024": 65.2,
+        "2025": 68.2
+      }
+    },
+    {
+      "county": "Hancock",
+      "district": "Hancock County",
+      "school": "Hancock High School",
+      "ready_grad_rate": 27.8,
+      "ready_grad_years": {
+        "2023": 28.8,
+        "2024": 29.7,
+        "2025": 27.8
+      }
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Happy Valley High School",
+      "ready_grad_rate": 61.1,
+      "ready_grad_years": {
+        "2023": 59.3,
+        "2024": 55.6,
+        "2025": 61.1
+      }
+    },
+    {
+      "county": "Hardin",
+      "district": "Hardin County",
+      "school": "Hardin County High School",
+      "ready_grad_rate": 43.0,
+      "ready_grad_years": {
+        "2023": 40.2,
+        "2024": 56.1,
+        "2025": 43.0
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Hardin Valley Academy",
+      "ready_grad_rate": 70.0,
+      "ready_grad_years": {
+        "2023": 57.7,
+        "2024": 62.1,
+        "2025": 70.0
+      }
+    },
+    {
+      "county": "Cheatham",
+      "district": "Cheatham County",
+      "school": "Harpeth High School",
+      "ready_grad_rate": 39.1,
+      "ready_grad_years": {
+        "2023": 46.4,
+        "2024": 46.8,
+        "2025": 39.1
+      }
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Harriman High School",
+      "ready_grad_rate": 83.9,
+      "ready_grad_years": {
+        "2023": 44.3,
+        "2024": 56.6,
+        "2025": 83.9
+      }
+    },
+    {
+      "county": "Hawkins",
+      "district": "Hawkins County",
+      "school": "Hawkins County Virtual Academy",
+      "ready_grad_rate": 28.6,
+      "ready_grad_years": {
+        "2023": 18.2,
+        "2024": 13.3,
+        "2025": 28.6
+      }
+    },
+    {
+      "county": "Haywood",
+      "district": "Haywood County",
+      "school": "Haywood High School",
+      "ready_grad_rate": 56.4,
+      "ready_grad_years": {
+        "2023": 64.2,
+        "2024": 74.6,
+        "2025": 56.4
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Hendersonville High School",
+      "ready_grad_rate": 57.9,
+      "ready_grad_years": {
+        "2023": 49.9,
+        "2024": 48.6,
+        "2025": 57.9
+      }
+    },
+    {
+      "county": "Henry",
+      "district": "Henry County",
+      "school": "Henry Co High School",
+      "ready_grad_rate": 55.0,
+      "ready_grad_years": {
+        "2023": 62.8,
+        "2024": 61.6,
+        "2025": 55.0
+      }
+    },
+    {
+      "county": "Henry",
+      "district": "Henry County",
+      "school": "Henry County Virtual Academy",
+      "ready_grad_rate": 23.1,
+      "ready_grad_years": {
+        "2023": 11.5,
+        "2024": 12.0,
+        "2025": 23.1
+      }
+    },
+    {
+      "county": "Blount",
+      "district": "Blount County",
+      "school": "Heritage High School",
+      "ready_grad_rate": 84.4,
+      "ready_grad_years": {
+        "2023": 58.5,
+        "2024": 77.7,
+        "2025": 84.4
+      }
+    },
+    {
+      "county": "Hickman",
+      "district": "Hickman County",
+      "school": "Hickman Co Sr High School",
+      "ready_grad_rate": 55.9,
+      "ready_grad_years": {
+        "2023": 44.4,
+        "2024": 38.5,
+        "2025": 55.9
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Achievement School District",
+      "school": "Hillcrest High School",
+      "ready_grad_rate": 21.1,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 8.9,
+        "2025": 21.1
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Hillsboro High",
+      "ready_grad_rate": 48.0,
+      "ready_grad_years": {
+        "2023": 34.2,
+        "2024": 46.9,
+        "2025": 48.0
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Hillwood High",
+      "ready_grad_rate": 11.1,
+      "ready_grad_years": {
+        "2023": 34.8,
+        "2024": 42.5,
+        "2025": 11.1
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Hixson High School",
+      "ready_grad_rate": 59.5,
+      "ready_grad_years": {
+        "2023": 44.3,
+        "2024": 64.5,
+        "2025": 59.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Hollis F. Price Middle College",
+      "ready_grad_rate": 87.5,
+      "ready_grad_years": {
+        "2023": 90.0,
+        "2024": null,
+        "2025": 87.5
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Holloway High School",
+      "ready_grad_rate": 22.2,
+      "ready_grad_years": {
+        "2023": 21.7,
+        "2024": 30.4,
+        "2025": 22.2
+      }
+    },
+    {
+      "county": "Houston",
+      "district": "Houston County",
+      "school": "Houston Co High School",
+      "ready_grad_rate": 41.8,
+      "ready_grad_years": {
+        "2023": 35.4,
+        "2024": 44.9,
+        "2025": 41.8
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Germantown",
+      "school": "Houston High School",
+      "ready_grad_rate": 71.8,
+      "ready_grad_years": {
+        "2023": 70.5,
+        "2024": 66.5,
+        "2025": 71.8
+      }
+    },
+    {
+      "county": "Gibson",
+      "district": "Humboldt City Schools",
+      "school": "Humboldt Junior/Senior High School",
+      "ready_grad_rate": 37.1,
+      "ready_grad_years": {
+        "2023": 7.8,
+        "2024": 26.4,
+        "2025": 37.1
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Hunters Lane High",
+      "ready_grad_rate": 17.3,
+      "ready_grad_years": {
+        "2023": 13.1,
+        "2024": 13.5,
+        "2025": 17.3
+      }
+    },
+    {
+      "county": "Carroll",
+      "district": "Huntingdon Special School District",
+      "school": "Huntingdon High School",
+      "ready_grad_rate": 74.5,
+      "ready_grad_years": {
+        "2023": 58.6,
+        "2024": 73.8,
+        "2025": 74.5
+      }
+    },
+    {
+      "county": "Franklin",
+      "district": "Franklin County",
+      "school": "Huntland School",
+      "ready_grad_rate": 61.1,
+      "ready_grad_years": {
+        "2023": 30.7,
+        "2024": 50.0,
+        "2025": 61.1
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Independence High School",
+      "ready_grad_rate": 73.7,
+      "ready_grad_years": {
+        "2023": 71.5,
+        "2024": 68.5,
+        "2025": 73.7
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Intrepid College Preparatory Charter School",
+      "ready_grad_rate": 32.9,
+      "ready_grad_years": {
+        "2023": 18.5,
+        "2024": 37.0,
+        "2025": 32.9
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Invictus Academy at Airways",
+      "ready_grad_rate": 9.7,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 8.4,
+        "2025": 9.7
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Ivy Academy, Inc.",
+      "ready_grad_rate": 62.3,
+      "ready_grad_years": {
+        "2023": 49.0,
+        "2024": 52.8,
+        "2025": 62.3
+      }
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "Jackson Academic STEAM Academy",
+      "ready_grad_rate": 45.2,
+      "ready_grad_years": {
+        "2023": 20.0,
+        "2024": 25.8,
+        "2025": 45.2
+      }
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "Jackson Central Merry High School",
+      "ready_grad_rate": 61.5,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 30.4,
+        "2025": 61.5
+      }
+    },
+    {
+      "county": "Jackson",
+      "district": "Jackson County",
+      "school": "Jackson County High School",
+      "ready_grad_rate": 82.2,
+      "ready_grad_years": {
+        "2023": 66.7,
+        "2024": 79.6,
+        "2025": 82.2
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "James Lawson High School",
+      "ready_grad_rate": 48.2,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 48.2
+      }
+    },
+    {
+      "county": "Jefferson",
+      "district": "Jefferson County",
+      "school": "Jefferson Co High School",
+      "ready_grad_rate": 72.0,
+      "ready_grad_years": {
+        "2023": 52.5,
+        "2024": 56.6,
+        "2025": 72.0
+      }
+    },
+    {
+      "county": "Campbell",
+      "district": "Campbell County",
+      "school": "Jellico High School",
+      "ready_grad_rate": 23.0,
+      "ready_grad_years": {
+        "2023": 21.8,
+        "2024": 18.2,
+        "2025": 23.0
+      }
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Jo Byrns High School",
+      "ready_grad_rate": 32.5,
+      "ready_grad_years": {
+        "2023": 35.1,
+        "2024": 33.8,
+        "2025": 32.5
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "John Overton High",
+      "ready_grad_rate": 35.1,
+      "ready_grad_years": {
+        "2023": 42.2,
+        "2024": 36.6,
+        "2025": 35.1
+      }
+    },
+    {
+      "county": "Johnson",
+      "district": "Johnson County",
+      "school": "Johnson Co High School",
+      "ready_grad_rate": 67.1,
+      "ready_grad_years": {
+        "2023": 36.5,
+        "2024": 41.1,
+        "2025": 67.1
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "KA @ The Crossings",
+      "ready_grad_rate": 8.2,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 17.6,
+        "2025": 8.2
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "KIPP Memphis Collegiate High School",
+      "ready_grad_rate": 26.4,
+      "ready_grad_years": {
+        "2023": 12.7,
+        "2024": 14.8,
+        "2025": 26.4
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "KIPP Nashville Collegiate High School",
+      "ready_grad_rate": 57.4,
+      "ready_grad_years": {
+        "2023": 69.4,
+        "2024": 59.3,
+        "2025": 57.4
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Karns High School",
+      "ready_grad_rate": 40.3,
+      "ready_grad_years": {
+        "2023": 35.5,
+        "2024": 35.0,
+        "2025": 40.3
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Kenwood High",
+      "ready_grad_rate": 26.2,
+      "ready_grad_years": {
+        "2023": 17.1,
+        "2024": 21.9,
+        "2025": 26.2
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Kingsbury High",
+      "ready_grad_rate": 42.5,
+      "ready_grad_years": {
+        "2023": 15.2,
+        "2024": 17.6,
+        "2025": 42.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Kirby High",
+      "ready_grad_rate": 53.5,
+      "ready_grad_years": {
+        "2023": 31.9,
+        "2024": 43.3,
+        "2025": 53.5
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Kirkwood High",
+      "ready_grad_rate": 25.8,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 25.8
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Knox County Virtual School",
+      "ready_grad_rate": 25.9,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 25.9
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "L N STEM Academy",
+      "ready_grad_rate": 87.9,
+      "ready_grad_years": {
+        "2023": 80.6,
+        "2024": 82.6,
+        "2025": 87.9
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "LEAD Southeast",
+      "ready_grad_rate": 48.7,
+      "ready_grad_years": {
+        "2023": 29.3,
+        "2024": 24.4,
+        "2025": 48.7
+      }
+    },
+    {
+      "county": "Lake",
+      "district": "Lake County",
+      "school": "Lake Co High School",
+      "ready_grad_rate": 60.4,
+      "ready_grad_years": {
+        "2023": 32.0,
+        "2024": 42.2,
+        "2025": 60.4
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Lavergne High School",
+      "ready_grad_rate": 29.9,
+      "ready_grad_years": {
+        "2023": 30.5,
+        "2024": 28.7,
+        "2025": 29.9
+      }
+    },
+    {
+      "county": "Lawrence",
+      "district": "Lawrence County",
+      "school": "Lawrence Co High School",
+      "ready_grad_rate": 78.0,
+      "ready_grad_years": {
+        "2023": 66.9,
+        "2024": 68.5,
+        "2025": 78.0
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Lead Academy",
+      "ready_grad_rate": 21.7,
+      "ready_grad_years": {
+        "2023": 20.8,
+        "2024": 25.8,
+        "2025": 21.7
+      }
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Lebanon High School",
+      "ready_grad_rate": 44.1,
+      "ready_grad_years": {
+        "2023": 41.4,
+        "2024": 44.1,
+        "2025": 44.1
+      }
+    },
+    {
+      "county": "Loudon",
+      "district": "Lenoir City",
+      "school": "Lenoir City High School",
+      "ready_grad_rate": 62.6,
+      "ready_grad_years": {
+        "2023": 40.8,
+        "2024": 56.3,
+        "2025": 62.6
+      }
+    },
+    {
+      "county": "Lewis",
+      "district": "Lewis County",
+      "school": "Lewis Co High School",
+      "ready_grad_rate": 85.9,
+      "ready_grad_years": {
+        "2023": 75.7,
+        "2024": 77.7,
+        "2025": 85.9
+      }
+    },
+    {
+      "county": "Henderson",
+      "district": "Henderson County",
+      "school": "Lexington High School",
+      "ready_grad_rate": 90.0,
+      "ready_grad_years": {
+        "2023": 63.7,
+        "2024": 87.4,
+        "2025": 90.0
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Liberty Creek High School",
+      "ready_grad_rate": 55.1,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 38.3,
+        "2025": 55.1
+      }
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "Liberty Technology Magnet High School",
+      "ready_grad_rate": 31.6,
+      "ready_grad_years": {
+        "2023": 19.8,
+        "2024": 31.3,
+        "2025": 31.6
+      }
+    },
+    {
+      "county": "Lincoln",
+      "district": "Lincoln County",
+      "school": "Lincoln County High School",
+      "ready_grad_rate": 56.6,
+      "ready_grad_years": {
+        "2023": 47.1,
+        "2024": 50.5,
+        "2025": 56.6
+      }
+    },
+    {
+      "county": "Overton",
+      "district": "Overton County",
+      "school": "Livingston Academy",
+      "ready_grad_rate": 80.0,
+      "ready_grad_years": {
+        "2023": 65.8,
+        "2024": 80.3,
+        "2025": 80.0
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Lookout Valley Middle / High School",
+      "ready_grad_rate": 57.4,
+      "ready_grad_years": {
+        "2023": 44.2,
+        "2024": 44.4,
+        "2025": 57.4
+      }
+    },
+    {
+      "county": "Lawrence",
+      "district": "Lawrence County",
+      "school": "Loretto High School",
+      "ready_grad_rate": 91.1,
+      "ready_grad_years": {
+        "2023": 70.8,
+        "2024": 78.1,
+        "2025": 91.1
+      }
+    },
+    {
+      "county": "Loudon",
+      "district": "Loudon County",
+      "school": "Loudon High School",
+      "ready_grad_rate": 43.8,
+      "ready_grad_years": {
+        "2023": 48.1,
+        "2024": 36.6,
+        "2025": 43.8
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "MNPS Virtual School",
+      "ready_grad_rate": 48.6,
+      "ready_grad_years": {
+        "2023": 29.8,
+        "2024": 39.5,
+        "2025": 48.6
+      }
+    },
+    {
+      "county": "Macon",
+      "district": "Macon County",
+      "school": "Macon County High School",
+      "ready_grad_rate": 88.8,
+      "ready_grad_years": {
+        "2023": 82.6,
+        "2024": 80.1,
+        "2025": 88.8
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Manassas High",
+      "ready_grad_rate": 31.3,
+      "ready_grad_years": {
+        "2023": 23.0,
+        "2024": 30.1,
+        "2025": 31.3
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Maplewood High",
+      "ready_grad_rate": 8.5,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 8.1,
+        "2025": 8.5
+      }
+    },
+    {
+      "county": "Marion",
+      "district": "Marion County",
+      "school": "Marion Co High School",
+      "ready_grad_rate": 57.3,
+      "ready_grad_years": {
+        "2023": 54.1,
+        "2024": 64.7,
+        "2025": 57.3
+      }
+    },
+    {
+      "county": "Marion",
+      "district": "Marion County",
+      "school": "Marion Virtual High School",
+      "ready_grad_rate": 30.0,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 30.0
+      }
+    },
+    {
+      "county": "Marshall",
+      "district": "Marshall County",
+      "school": "Marshall Co High School",
+      "ready_grad_rate": 45.4,
+      "ready_grad_years": {
+        "2023": 52.2,
+        "2024": 39.3,
+        "2025": 45.4
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Achievement School District",
+      "school": "Martin Luther King Preparatory High School",
+      "ready_grad_rate": 6.3,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 6.3
+      }
+    },
+    {
+      "county": "Blount",
+      "district": "Maryville",
+      "school": "Maryville High School",
+      "ready_grad_rate": 79.8,
+      "ready_grad_years": {
+        "2023": 72.2,
+        "2024": 76.7,
+        "2025": 79.8
+      }
+    },
+    {
+      "county": "Blount",
+      "district": "Maryville",
+      "school": "Maryville Virtual School",
+      "ready_grad_rate": 50.0,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 50.0
+      }
+    },
+    {
+      "county": "Humphreys",
+      "district": "Humphreys County",
+      "school": "Mc Ewen High School",
+      "ready_grad_rate": 71.4,
+      "ready_grad_years": {
+        "2023": 43.1,
+        "2024": 47.7,
+        "2025": 71.4
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "McGavock High",
+      "ready_grad_rate": 21.2,
+      "ready_grad_years": {
+        "2023": 34.3,
+        "2024": 24.4,
+        "2025": 21.2
+      }
+    },
+    {
+      "county": "Carroll",
+      "district": "McKenzie",
+      "school": "McKenzie High School",
+      "ready_grad_rate": 87.2,
+      "ready_grad_years": {
+        "2023": 65.8,
+        "2024": 82.8,
+        "2025": 87.2
+      }
+    },
+    {
+      "county": "Mcminn",
+      "district": "McMinn County",
+      "school": "McMinn High School",
+      "ready_grad_rate": 67.9,
+      "ready_grad_years": {
+        "2023": 53.3,
+        "2024": 52.4,
+        "2025": 67.9
+      }
+    },
+    {
+      "county": "Mcnairy",
+      "district": "McNairy County",
+      "school": "McNairy Central High School",
+      "ready_grad_rate": 57.3,
+      "ready_grad_years": {
+        "2023": 70.4,
+        "2024": 75.3,
+        "2025": 57.3
+      }
+    },
+    {
+      "county": "Mcnairy",
+      "district": "McNairy County",
+      "school": "McNairy County Virtual School K-12",
+      "ready_grad_rate": 7.7,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 7.7
+      }
+    },
+    {
+      "county": "Meigs",
+      "district": "Meigs County",
+      "school": "Meigs County High School",
+      "ready_grad_rate": 72.2,
+      "ready_grad_years": {
+        "2023": 65.8,
+        "2024": 83.8,
+        "2025": 72.2
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Melrose High",
+      "ready_grad_rate": 30.5,
+      "ready_grad_years": {
+        "2023": 9.0,
+        "2024": 11.7,
+        "2025": 30.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Academy Of Science Engineering Middle/High",
+      "ready_grad_rate": 18.8,
+      "ready_grad_years": {
+        "2023": 13.3,
+        "2024": 12.4,
+        "2025": 18.8
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Business Academy High School",
+      "ready_grad_rate": 18.4,
+      "ready_grad_years": {
+        "2023": 6.4,
+        "2024": 7.4,
+        "2025": 18.4
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Rise Academy",
+      "ready_grad_rate": 29.8,
+      "ready_grad_years": {
+        "2023": 21.1,
+        "2024": 28.7,
+        "2025": 29.8
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis School of Excellence",
+      "ready_grad_rate": 32.9,
+      "ready_grad_years": {
+        "2023": 15.2,
+        "2024": 43.1,
+        "2025": 32.9
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Memphis Virtual School",
+      "ready_grad_rate": 29.3,
+      "ready_grad_years": {
+        "2023": 11.2,
+        "2024": 12.6,
+        "2025": 29.3
+      }
+    },
+    {
+      "county": "Hardeman",
+      "district": "Hardeman County Schools",
+      "school": "Middleton High School",
+      "ready_grad_rate": 76.2,
+      "ready_grad_years": {
+        "2023": 27.4,
+        "2024": 61.5,
+        "2025": 76.2
+      }
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Midtown Educational Center",
+      "ready_grad_rate": 8.6,
+      "ready_grad_years": {
+        "2023": 8.8,
+        "2024": null,
+        "2025": 8.6
+      }
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Midway High School",
+      "ready_grad_rate": 74.5,
+      "ready_grad_years": {
+        "2023": 62.3,
+        "2024": 67.4,
+        "2025": 74.5
+      }
+    },
+    {
+      "county": "Gibson",
+      "district": "Milan",
+      "school": "Milan High School",
+      "ready_grad_rate": 94.1,
+      "ready_grad_years": {
+        "2023": 93.2,
+        "2024": 93.5,
+        "2025": 94.1
+      }
+    },
+    {
+      "county": "Gibson",
+      "district": "Milan",
+      "school": "Milan High School Academy",
+      "ready_grad_rate": 69.2,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 85.7,
+        "2025": 69.2
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Millington Municipal Schools",
+      "school": "Millington Central Middle High School",
+      "ready_grad_rate": 74.8,
+      "ready_grad_years": {
+        "2023": 45.5,
+        "2024": 54.8,
+        "2025": 74.8
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Mitchell High",
+      "ready_grad_rate": 63.8,
+      "ready_grad_years": {
+        "2023": 42.2,
+        "2024": 62.4,
+        "2025": 63.8
+      }
+    },
+    {
+      "county": "Monroe",
+      "district": "Monroe County",
+      "school": "Monroe County Virtual School",
+      "ready_grad_rate": 33.3,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 9.8,
+        "2025": 33.3
+      }
+    },
+    {
+      "county": "Putnam",
+      "district": "Putnam County",
+      "school": "Monterey High School",
+      "ready_grad_rate": 77.6,
+      "ready_grad_years": {
+        "2023": 32.7,
+        "2024": 60.2,
+        "2025": 77.6
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Montgomery Central High",
+      "ready_grad_rate": 49.0,
+      "ready_grad_years": {
+        "2023": 40.5,
+        "2024": 44.2,
+        "2025": 49.0
+      }
+    },
+    {
+      "county": "Moore",
+      "district": "Moore County",
+      "school": "Moore County High School",
+      "ready_grad_rate": 51.7,
+      "ready_grad_years": {
+        "2023": 40.2,
+        "2024": 61.3,
+        "2025": 51.7
+      }
+    },
+    {
+      "county": "Hamblen",
+      "district": "Hamblen County",
+      "school": "Morristown East High",
+      "ready_grad_rate": 38.3,
+      "ready_grad_years": {
+        "2023": 33.7,
+        "2024": 45.1,
+        "2025": 38.3
+      }
+    },
+    {
+      "county": "Hamblen",
+      "district": "Hamblen County",
+      "school": "Morristown West High",
+      "ready_grad_rate": 45.3,
+      "ready_grad_years": {
+        "2023": 43.3,
+        "2024": 41.8,
+        "2025": 45.3
+      }
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Mt Pleasant High School",
+      "ready_grad_rate": 68.6,
+      "ready_grad_years": {
+        "2023": 38.5,
+        "2024": 56.8,
+        "2025": 68.6
+      }
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Mt. Juliet High School",
+      "ready_grad_rate": 76.2,
+      "ready_grad_years": {
+        "2023": 59.8,
+        "2024": 58.0,
+        "2025": 76.2
+      }
+    },
+    {
+      "county": "Tipton",
+      "district": "Tipton County",
+      "school": "Munford High School",
+      "ready_grad_rate": 51.5,
+      "ready_grad_years": {
+        "2023": 41.2,
+        "2024": 48.9,
+        "2025": 51.5
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Nashville Big Picture High School",
+      "ready_grad_rate": 31.4,
+      "ready_grad_years": {
+        "2023": 22.2,
+        "2024": 24.1,
+        "2025": 31.4
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Nashville School Of The Arts",
+      "ready_grad_rate": 51.0,
+      "ready_grad_years": {
+        "2023": 47.2,
+        "2024": 41.1,
+        "2025": 51.0
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Nolensville High School",
+      "ready_grad_rate": 77.2,
+      "ready_grad_years": {
+        "2023": 74.5,
+        "2024": 71.8,
+        "2025": 77.2
+      }
+    },
+    {
+      "county": "Bradley",
+      "district": "Bradley County",
+      "school": "North Cleveland GOAL Academy",
+      "ready_grad_rate": 6.3,
+      "ready_grad_years": {
+        "2023": 8.7,
+        "2024": 8.3,
+        "2025": 6.3
+      }
+    },
+    {
+      "county": "Greene",
+      "district": "Greene County",
+      "school": "North Greene High School",
+      "ready_grad_rate": 78.7,
+      "ready_grad_years": {
+        "2023": 77.7,
+        "2024": 74.7,
+        "2025": 78.7
+      }
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "North Side High School",
+      "ready_grad_rate": 35.2,
+      "ready_grad_years": {
+        "2023": 39.2,
+        "2024": 51.6,
+        "2025": 35.2
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Northeast High",
+      "ready_grad_rate": 29.5,
+      "ready_grad_years": {
+        "2023": 26.5,
+        "2024": 30.6,
+        "2025": 29.5
+      }
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Northview Senior Academy",
+      "ready_grad_rate": 81.0,
+      "ready_grad_years": {
+        "2023": 52.0,
+        "2024": 71.3,
+        "2025": 81.0
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Northwest High",
+      "ready_grad_rate": 33.8,
+      "ready_grad_years": {
+        "2023": 34.3,
+        "2024": 30.2,
+        "2025": 33.8
+      }
+    },
+    {
+      "county": "Anderson",
+      "district": "Oak Ridge",
+      "school": "Oak Ridge High School",
+      "ready_grad_rate": 60.7,
+      "ready_grad_years": {
+        "2023": 54.1,
+        "2024": 60.3,
+        "2025": 60.7
+      }
+    },
+    {
+      "county": "Morgan",
+      "district": "Morgan County",
+      "school": "Oakdale School",
+      "ready_grad_rate": 36.7,
+      "ready_grad_years": {
+        "2023": 43.2,
+        "2024": 44.4,
+        "2025": 36.7
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Oakhaven High",
+      "ready_grad_rate": 55.8,
+      "ready_grad_years": {
+        "2023": 40.0,
+        "2024": 54.0,
+        "2025": 55.8
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Oakland High School",
+      "ready_grad_rate": 50.1,
+      "ready_grad_years": {
+        "2023": 51.4,
+        "2024": 50.0,
+        "2025": 50.1
+      }
+    },
+    {
+      "county": "Obion",
+      "district": "Obion County",
+      "school": "Obion County Central High School",
+      "ready_grad_rate": 72.9,
+      "ready_grad_years": {
+        "2023": 38.2,
+        "2024": 79.2,
+        "2025": 72.9
+      }
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Oliver Springs High School",
+      "ready_grad_rate": 93.0,
+      "ready_grad_years": {
+        "2023": 71.0,
+        "2024": 88.9,
+        "2025": 93.0
+      }
+    },
+    {
+      "county": "Scott",
+      "district": "Oneida",
+      "school": "Oneida High School",
+      "ready_grad_rate": 84.1,
+      "ready_grad_years": {
+        "2023": 58.4,
+        "2024": 72.3,
+        "2025": 84.1
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Ooltewah High School",
+      "ready_grad_rate": 59.3,
+      "ready_grad_years": {
+        "2023": 47.1,
+        "2024": 65.3,
+        "2025": 59.3
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Overton High",
+      "ready_grad_rate": 39.5,
+      "ready_grad_years": {
+        "2023": 14.2,
+        "2024": 25.9,
+        "2025": 39.5
+      }
+    },
+    {
+      "county": "Gibson",
+      "district": "Trenton",
+      "school": "Peabody High School",
+      "ready_grad_rate": 54.3,
+      "ready_grad_years": {
+        "2023": 43.2,
+        "2024": 50.5,
+        "2025": 54.3
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Pearl-Cohn High",
+      "ready_grad_rate": 22.3,
+      "ready_grad_years": {
+        "2023": 11.6,
+        "2024": 12.8,
+        "2025": 22.3
+      }
+    },
+    {
+      "county": "Perry",
+      "district": "Perry County",
+      "school": "Perry County High School",
+      "ready_grad_rate": 80.8,
+      "ready_grad_years": {
+        "2023": 76.0,
+        "2024": 73.4,
+        "2025": 80.8
+      }
+    },
+    {
+      "county": "Perry",
+      "district": "Perry County",
+      "school": "Perry County Virtual School",
+      "ready_grad_rate": 73.7,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 54.5,
+        "2025": 73.7
+      }
+    },
+    {
+      "county": "Pickett",
+      "district": "Pickett County",
+      "school": "Pickett Co High School",
+      "ready_grad_rate": 59.5,
+      "ready_grad_years": {
+        "2023": 38.5,
+        "2024": 41.3,
+        "2025": 59.5
+      }
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Pigeon Forge High School",
+      "ready_grad_rate": 56.8,
+      "ready_grad_years": {
+        "2023": 37.4,
+        "2024": 47.2,
+        "2025": 56.8
+      }
+    },
+    {
+      "county": "Polk",
+      "district": "Polk County",
+      "school": "Polk County High School",
+      "ready_grad_rate": 43.8,
+      "ready_grad_years": {
+        "2023": 27.8,
+        "2024": 41.1,
+        "2025": 43.8
+      }
+    },
+    {
+      "county": "Polk",
+      "district": "Polk County",
+      "school": "Polk Innovative Learning Academy",
+      "ready_grad_rate": 21.1,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 15.0,
+        "2025": 21.1
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Portland High School",
+      "ready_grad_rate": 35.7,
+      "ready_grad_years": {
+        "2023": 21.2,
+        "2024": 32.2,
+        "2025": 35.7
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "Powell High School",
+      "ready_grad_rate": 30.4,
+      "ready_grad_years": {
+        "2023": 34.6,
+        "2024": 33.9,
+        "2025": 30.4
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Power Center Academy High School",
+      "ready_grad_rate": 47.6,
+      "ready_grad_years": {
+        "2023": 25.7,
+        "2024": 64.2,
+        "2025": 47.6
+      }
+    },
+    {
+      "county": "Putnam",
+      "district": "Putnam County",
+      "school": "Putnam County VITAL",
+      "ready_grad_rate": 57.1,
+      "ready_grad_years": {
+        "2023": 10.0,
+        "2024": 26.9,
+        "2025": 57.1
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Raleigh-Egypt High",
+      "ready_grad_rate": 53.1,
+      "ready_grad_years": {
+        "2023": 26.7,
+        "2024": 24.2,
+        "2025": 53.1
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Ravenwood High School",
+      "ready_grad_rate": 86.3,
+      "ready_grad_years": {
+        "2023": 84.7,
+        "2024": 86.3,
+        "2025": 86.3
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "RePublic High School",
+      "ready_grad_rate": 36.2,
+      "ready_grad_years": {
+        "2023": 17.9,
+        "2024": 18.4,
+        "2025": 36.2
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Red Bank High School",
+      "ready_grad_rate": 62.7,
+      "ready_grad_years": {
+        "2023": 38.2,
+        "2024": 55.5,
+        "2025": 62.7
+      }
+    },
+    {
+      "county": "Macon",
+      "district": "Macon County",
+      "school": "Red Boiling Springs School",
+      "ready_grad_rate": 73.0,
+      "ready_grad_years": {
+        "2023": 58.5,
+        "2024": 65.5,
+        "2025": 73.0
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Renaissance High School",
+      "ready_grad_rate": 92.3,
+      "ready_grad_years": {
+        "2023": 88.1,
+        "2024": 77.8,
+        "2025": 92.3
+      }
+    },
+    {
+      "county": "Rhea",
+      "district": "Rhea County",
+      "school": "Rhea County High School",
+      "ready_grad_rate": 45.6,
+      "ready_grad_years": {
+        "2023": 42.1,
+        "2024": 60.7,
+        "2025": 45.6
+      }
+    },
+    {
+      "county": "Giles",
+      "district": "Giles County",
+      "school": "Richland School",
+      "ready_grad_rate": 58.9,
+      "ready_grad_years": {
+        "2023": 41.0,
+        "2024": 50.7,
+        "2025": 58.9
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Ridgeway High",
+      "ready_grad_rate": 46.8,
+      "ready_grad_years": {
+        "2023": 16.7,
+        "2024": 40.0,
+        "2025": 46.8
+      }
+    },
+    {
+      "county": "Lauderdale",
+      "district": "Lauderdale County",
+      "school": "Ripley High School",
+      "ready_grad_rate": 46.7,
+      "ready_grad_years": {
+        "2023": 30.9,
+        "2024": 36.4,
+        "2025": 46.7
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Riverdale High School",
+      "ready_grad_rate": 36.7,
+      "ready_grad_years": {
+        "2023": 39.1,
+        "2024": 40.4,
+        "2025": 36.7
+      }
+    },
+    {
+      "county": "Decatur",
+      "district": "Decatur County",
+      "school": "Riverside High School",
+      "ready_grad_rate": 62.6,
+      "ready_grad_years": {
+        "2023": 67.3,
+        "2024": 75.3,
+        "2025": 62.6
+      }
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Roane County High School",
+      "ready_grad_rate": 90.1,
+      "ready_grad_years": {
+        "2023": 63.0,
+        "2024": 80.1,
+        "2025": 90.1
+      }
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Roane County Virtual Academy",
+      "ready_grad_rate": 47.1,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 47.1
+      }
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Robertson Co. Virtual School",
+      "ready_grad_rate": 16.7,
+      "ready_grad_years": {
+        "2023": 31.3,
+        "2024": 14.8,
+        "2025": 16.7
+      }
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Robertson County Phoenix Academy",
+      "ready_grad_rate": 8.3,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 5.9,
+        "2025": 8.3
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Rockvale High School",
+      "ready_grad_rate": 49.4,
+      "ready_grad_years": {
+        "2023": 34.0,
+        "2024": 42.5,
+        "2025": 49.4
+      }
+    },
+    {
+      "county": "Roane",
+      "district": "Roane County",
+      "school": "Rockwood High School",
+      "ready_grad_rate": 63.8,
+      "ready_grad_years": {
+        "2023": 51.6,
+        "2024": 58.3,
+        "2025": 63.8
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "Rossview High",
+      "ready_grad_rate": 60.0,
+      "ready_grad_years": {
+        "2023": 47.5,
+        "2024": 53.6,
+        "2025": 60.0
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Rutherford County Virtual School",
+      "ready_grad_rate": 43.1,
+      "ready_grad_years": {
+        "2023": 40.6,
+        "2024": 33.6,
+        "2025": 43.1
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "STEM Prep High School",
+      "ready_grad_rate": 39.8,
+      "ready_grad_years": {
+        "2023": 31.7,
+        "2024": 52.8,
+        "2025": 39.8
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Sale Creek Middle / High School",
+      "ready_grad_rate": 69.3,
+      "ready_grad_years": {
+        "2023": 43.1,
+        "2024": 49.4,
+        "2025": 69.3
+      }
+    },
+    {
+      "county": "Blount",
+      "district": "Blount County",
+      "school": "Samuel Everett School of Innovation",
+      "ready_grad_rate": 51.4,
+      "ready_grad_years": {
+        "2023": 45.2,
+        "2024": 66.7,
+        "2025": 51.4
+      }
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Santa Fe Unit School",
+      "ready_grad_rate": 83.9,
+      "ready_grad_years": {
+        "2023": 85.4,
+        "2024": 80.0,
+        "2025": 83.9
+      }
+    },
+    {
+      "county": "Washington",
+      "district": "Johnson City",
+      "school": "Science Hill High School",
+      "ready_grad_rate": 51.9,
+      "ready_grad_years": {
+        "2023": 56.0,
+        "2024": 58.2,
+        "2025": 51.9
+      }
+    },
+    {
+      "county": "Scott",
+      "district": "Scott County",
+      "school": "Scott High School",
+      "ready_grad_rate": 35.7,
+      "ready_grad_years": {
+        "2023": 33.3,
+        "2024": 44.6,
+        "2025": 35.7
+      }
+    },
+    {
+      "county": "Henderson",
+      "district": "Henderson County",
+      "school": "Scotts Hill High School",
+      "ready_grad_rate": 93.0,
+      "ready_grad_years": {
+        "2023": 90.7,
+        "2024": 94.9,
+        "2025": 93.0
+      }
+    },
+    {
+      "county": "Sequatchie",
+      "district": "Sequatchie County",
+      "school": "Sequatchie Co High School",
+      "ready_grad_rate": 50.0,
+      "ready_grad_years": {
+        "2023": 26.2,
+        "2024": 37.7,
+        "2025": 50.0
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Sequoyah High School",
+      "ready_grad_rate": 85.2,
+      "ready_grad_years": {
+        "2023": 56.3,
+        "2024": 81.0,
+        "2025": 85.2
+      }
+    },
+    {
+      "county": "Monroe",
+      "district": "Monroe County",
+      "school": "Sequoyah High School",
+      "ready_grad_rate": 72.1,
+      "ready_grad_years": {
+        "2023": 39.0,
+        "2024": 51.8,
+        "2025": 72.1
+      }
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Sevier County High School",
+      "ready_grad_rate": 68.2,
+      "ready_grad_years": {
+        "2023": 53.0,
+        "2024": 58.8,
+        "2025": 68.2
+      }
+    },
+    {
+      "county": "Sevier",
+      "district": "Sevier County",
+      "school": "Seymour High School",
+      "ready_grad_rate": 68.9,
+      "ready_grad_years": {
+        "2023": 56.1,
+        "2024": 66.8,
+        "2025": 68.9
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Sheffield High",
+      "ready_grad_rate": 48.6,
+      "ready_grad_years": {
+        "2023": 26.5,
+        "2024": 36.0,
+        "2025": 48.6
+      }
+    },
+    {
+      "county": "Bedford",
+      "district": "Bedford County",
+      "school": "Shelbyville Central High School",
+      "ready_grad_rate": 22.6,
+      "ready_grad_years": {
+        "2023": 20.9,
+        "2024": 20.1,
+        "2025": 22.6
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Siegel High School",
+      "ready_grad_rate": 48.2,
+      "ready_grad_years": {
+        "2023": 42.3,
+        "2024": 47.0,
+        "2025": 48.2
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Signal Mountain Middle/High School",
+      "ready_grad_rate": 70.1,
+      "ready_grad_years": {
+        "2023": 79.0,
+        "2024": 73.3,
+        "2025": 70.1
+      }
+    },
+    {
+      "county": "Smith",
+      "district": "Smith County",
+      "school": "Smith County High School",
+      "ready_grad_rate": 82.8,
+      "ready_grad_years": {
+        "2023": 51.6,
+        "2024": 67.8,
+        "2025": 82.8
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Smyrna High School",
+      "ready_grad_rate": 40.2,
+      "ready_grad_years": {
+        "2023": 33.8,
+        "2024": 35.8,
+        "2025": 40.2
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Soddy Daisy High School",
+      "ready_grad_rate": 61.3,
+      "ready_grad_years": {
+        "2023": 53.1,
+        "2024": 59.0,
+        "2025": 61.3
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Soulsville Charter School",
+      "ready_grad_rate": 24.4,
+      "ready_grad_years": {
+        "2023": 30.0,
+        "2024": 21.2,
+        "2025": 24.4
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "South Doyle High School",
+      "ready_grad_rate": 36.3,
+      "ready_grad_years": {
+        "2023": 30.3,
+        "2024": 29.0,
+        "2025": 36.3
+      }
+    },
+    {
+      "county": "Obion",
+      "district": "Obion County",
+      "school": "South Fulton Middle / High School",
+      "ready_grad_rate": 89.2,
+      "ready_grad_years": {
+        "2023": 29.5,
+        "2024": 51.1,
+        "2025": 89.2
+      }
+    },
+    {
+      "county": "Gibson",
+      "district": "Gibson Co Sp Dist",
+      "school": "South Gibson County High School",
+      "ready_grad_rate": 74.6,
+      "ready_grad_years": {
+        "2023": 81.6,
+        "2024": 78.7,
+        "2025": 74.6
+      }
+    },
+    {
+      "county": "Greene",
+      "district": "Greene County",
+      "school": "South Greene High School",
+      "ready_grad_rate": 62.2,
+      "ready_grad_years": {
+        "2023": 63.4,
+        "2024": 67.4,
+        "2025": 62.2
+      }
+    },
+    {
+      "county": "Marion",
+      "district": "Marion County",
+      "school": "South Pittsburg High School",
+      "ready_grad_rate": 45.9,
+      "ready_grad_years": {
+        "2023": 50.7,
+        "2024": 50.7,
+        "2025": 45.9
+      }
+    },
+    {
+      "county": "Madison",
+      "district": "Madison County",
+      "school": "South Side High School",
+      "ready_grad_rate": 67.0,
+      "ready_grad_years": {
+        "2023": 47.3,
+        "2024": 69.4,
+        "2025": 67.0
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Southwind High",
+      "ready_grad_rate": 64.8,
+      "ready_grad_years": {
+        "2023": 39.5,
+        "2024": 51.9,
+        "2025": 64.8
+      }
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Spring Hill High School",
+      "ready_grad_rate": 31.8,
+      "ready_grad_years": {
+        "2023": 31.4,
+        "2024": 34.5,
+        "2025": 31.8
+      }
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "Springfield High School",
+      "ready_grad_rate": 33.0,
+      "ready_grad_years": {
+        "2023": 23.8,
+        "2024": 24.5,
+        "2025": 33.0
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Station Camp High School",
+      "ready_grad_rate": 58.1,
+      "ready_grad_years": {
+        "2023": 51.9,
+        "2024": 60.1,
+        "2025": 58.1
+      }
+    },
+    {
+      "county": "Stewart",
+      "district": "Stewart County",
+      "school": "Stewart Co High School",
+      "ready_grad_rate": 45.8,
+      "ready_grad_years": {
+        "2023": 38.6,
+        "2024": 35.3,
+        "2025": 45.8
+      }
+    },
+    {
+      "county": "Rutherford",
+      "district": "Rutherford County",
+      "school": "Stewarts Creek High School",
+      "ready_grad_rate": 46.5,
+      "ready_grad_years": {
+        "2023": 47.8,
+        "2024": 44.4,
+        "2025": 46.5
+      }
+    },
+    {
+      "county": "Cumberland",
+      "district": "Cumberland County",
+      "school": "Stone Memorial High School",
+      "ready_grad_rate": 57.3,
+      "ready_grad_years": {
+        "2023": 47.6,
+        "2024": 58.9,
+        "2025": 57.3
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Stratford STEM Magnet School",
+      "ready_grad_rate": 28.1,
+      "ready_grad_years": {
+        "2023": 13.8,
+        "2024": 23.9,
+        "2025": 28.1
+      }
+    },
+    {
+      "county": "Sullivan",
+      "district": "Sullivan County",
+      "school": "Sullivan East High School",
+      "ready_grad_rate": 35.7,
+      "ready_grad_years": {
+        "2023": 30.0,
+        "2024": 37.8,
+        "2025": 35.7
+      }
+    },
+    {
+      "county": "Lawrence",
+      "district": "Lawrence County",
+      "school": "Summertown High School",
+      "ready_grad_rate": 82.2,
+      "ready_grad_years": {
+        "2023": 58.0,
+        "2024": 64.0,
+        "2025": 82.2
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Summit High School",
+      "ready_grad_rate": 72.8,
+      "ready_grad_years": {
+        "2023": 63.5,
+        "2024": 66.3,
+        "2025": 72.8
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Sumner County Middle Technical College High School at Portland",
+      "ready_grad_rate": 40.0,
+      "ready_grad_years": {
+        "2023": 8.3,
+        "2024": 26.7,
+        "2025": 40.0
+      }
+    },
+    {
+      "county": "Morgan",
+      "district": "Morgan County",
+      "school": "Sunbright School",
+      "ready_grad_rate": 56.3,
+      "ready_grad_years": {
+        "2023": 16.1,
+        "2024": 53.6,
+        "2025": 56.3
+      }
+    },
+    {
+      "county": "Monroe",
+      "district": "Monroe County",
+      "school": "Sweetwater High School",
+      "ready_grad_rate": 53.9,
+      "ready_grad_years": {
+        "2023": 26.9,
+        "2024": 35.7,
+        "2025": 53.9
+      }
+    },
+    {
+      "county": "Cheatham",
+      "district": "Cheatham County",
+      "school": "Sycamore High School",
+      "ready_grad_rate": 40.0,
+      "ready_grad_years": {
+        "2023": 41.3,
+        "2024": 34.8,
+        "2025": 40.0
+      }
+    },
+    {
+      "county": "Monroe",
+      "district": "Monroe County",
+      "school": "Tellico Plains High School",
+      "ready_grad_rate": 86.0,
+      "ready_grad_years": {
+        "2023": 65.9,
+        "2024": 70.3,
+        "2025": 86.0
+      }
+    },
+    {
+      "county": "Johnson",
+      "district": "Johnson County",
+      "school": "Tennessee Connections Academy Johnson County 9-12",
+      "ready_grad_rate": 17.5,
+      "ready_grad_years": {
+        "2023": 21.7,
+        "2024": 19.8,
+        "2025": 17.5
+      }
+    },
+    {
+      "county": "Sullivan",
+      "district": "Bristol",
+      "school": "Tennessee High School",
+      "ready_grad_rate": 73.2,
+      "ready_grad_years": {
+        "2023": 44.7,
+        "2024": 54.8,
+        "2025": 73.2
+      }
+    },
+    {
+      "county": "Sullivan",
+      "district": "Bristol",
+      "school": "Tennessee Online Public School",
+      "ready_grad_rate": 47.5,
+      "ready_grad_years": {
+        "2023": 49.2,
+        "2024": 44.2,
+        "2025": 47.5
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Tennessee Schools for the Deaf",
+      "school": "Tennessee School for the Deaf Upper School",
+      "ready_grad_rate": 7.7,
+      "ready_grad_years": {
+        "2023": 6.7,
+        "2024": null,
+        "2025": 7.7
+      }
+    },
+    {
+      "county": "Washington",
+      "district": "Washington County",
+      "school": "Tennessee Virtual Learning Academy",
+      "ready_grad_rate": 11.1,
+      "ready_grad_years": {
+        "2023": 25.0,
+        "2024": 33.3,
+        "2025": 11.1
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "The Academy at Old Cockrill",
+      "ready_grad_rate": 9.3,
+      "ready_grad_years": {
+        "2023": 6.5,
+        "2024": 5.0,
+        "2025": 9.3
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "The Academy at Opry Mills",
+      "ready_grad_rate": 10.6,
+      "ready_grad_years": {
+        "2023": 18.6,
+        "2024": 19.1,
+        "2025": 10.6
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "The Howard School",
+      "ready_grad_rate": 21.5,
+      "ready_grad_years": {
+        "2023": 11.5,
+        "2024": 24.1,
+        "2025": 21.5
+      }
+    },
+    {
+      "county": "Cumberland",
+      "district": "Cumberland County",
+      "school": "The Phoenix School",
+      "ready_grad_rate": 20.8,
+      "ready_grad_years": {
+        "2023": 6.6,
+        "2024": 11.1,
+        "2025": 20.8
+      }
+    },
+    {
+      "county": "Loudon",
+      "district": "Lenoir City",
+      "school": "The iLearn Institute at Lenoir City Schools",
+      "ready_grad_rate": 50.0,
+      "ready_grad_years": {
+        "2023": 22.2,
+        "2024": 47.8,
+        "2025": 50.0
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Trezevant High",
+      "ready_grad_rate": 48.7,
+      "ready_grad_years": {
+        "2023": 29.5,
+        "2024": 19.7,
+        "2025": 48.7
+      }
+    },
+    {
+      "county": "Trousdale",
+      "district": "Trousdale County",
+      "school": "Trousdale Co High School",
+      "ready_grad_rate": 69.7,
+      "ready_grad_years": {
+        "2023": 83.1,
+        "2024": 78.5,
+        "2025": 69.7
+      }
+    },
+    {
+      "county": "Coffee",
+      "district": "Tullahoma",
+      "school": "Tullahoma High School",
+      "ready_grad_rate": 55.0,
+      "ready_grad_years": {
+        "2023": 41.5,
+        "2024": 34.5,
+        "2025": 55.0
+      }
+    },
+    {
+      "county": "Coffee",
+      "district": "Tullahoma",
+      "school": "Tullahoma Virtual Academy",
+      "ready_grad_rate": 25.0,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 25.0
+      }
+    },
+    {
+      "county": "Hamilton",
+      "district": "Hamilton County",
+      "school": "Tyner Academy",
+      "ready_grad_rate": 54.3,
+      "ready_grad_years": {
+        "2023": 32.0,
+        "2024": 36.4,
+        "2025": 54.3
+      }
+    },
+    {
+      "county": "Carter",
+      "district": "Carter County",
+      "school": "Unaka High School",
+      "ready_grad_rate": 53.7,
+      "ready_grad_years": {
+        "2023": 58.3,
+        "2024": 38.1,
+        "2025": 53.7
+      }
+    },
+    {
+      "county": "Unicoi",
+      "district": "Unicoi County",
+      "school": "Unicoi Co High School",
+      "ready_grad_rate": 64.9,
+      "ready_grad_years": {
+        "2023": 35.8,
+        "2024": 69.4,
+        "2025": 64.9
+      }
+    },
+    {
+      "county": "Obion",
+      "district": "Union City",
+      "school": "Union City High School",
+      "ready_grad_rate": 77.6,
+      "ready_grad_years": {
+        "2023": 50.0,
+        "2024": 44.7,
+        "2025": 77.6
+      }
+    },
+    {
+      "county": "Union",
+      "district": "Union County",
+      "school": "Union County High School",
+      "ready_grad_rate": 40.1,
+      "ready_grad_years": {
+        "2023": 31.4,
+        "2024": 36.0,
+        "2025": 40.1
+      }
+    },
+    {
+      "county": "Putnam",
+      "district": "Putnam County",
+      "school": "Upperman High School",
+      "ready_grad_rate": 68.0,
+      "ready_grad_years": {
+        "2023": 45.5,
+        "2024": 52.4,
+        "2025": 68.0
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Valor Flagship Academy",
+      "ready_grad_rate": 65.8,
+      "ready_grad_years": {
+        "2023": 61.4,
+        "2024": 73.3,
+        "2025": 65.8
+      }
+    },
+    {
+      "county": "Van Buren",
+      "district": "Van Buren County",
+      "school": "Van Buren Co High School",
+      "ready_grad_rate": 78.0,
+      "ready_grad_years": {
+        "2023": 51.9,
+        "2024": 64.4,
+        "2025": 78.0
+      }
+    },
+    {
+      "county": "Williamson",
+      "district": "Williamson County",
+      "school": "Vanguard Virtual High School",
+      "ready_grad_rate": 62.2,
+      "ready_grad_years": {
+        "2023": 48.0,
+        "2024": 52.8,
+        "2025": 62.2
+      }
+    },
+    {
+      "county": "Maury",
+      "district": "Maury County",
+      "school": "Virtual Academy of Maury County",
+      "ready_grad_rate": 11.5,
+      "ready_grad_years": {
+        "2023": 23.1,
+        "2024": 15.4,
+        "2025": 11.5
+      }
+    },
+    {
+      "county": "Hawkins",
+      "district": "Hawkins County",
+      "school": "Volunteer High School",
+      "ready_grad_rate": 63.5,
+      "ready_grad_years": {
+        "2023": 46.1,
+        "2024": 49.2,
+        "2025": 63.5
+      }
+    },
+    {
+      "county": "Lewis",
+      "district": "Lewis County",
+      "school": "Volunteer State Virtual Academy High School",
+      "ready_grad_rate": 11.7,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": null,
+        "2025": 11.7
+      }
+    },
+    {
+      "county": "Bradley",
+      "district": "Bradley County",
+      "school": "Walker Valley High School",
+      "ready_grad_rate": 62.2,
+      "ready_grad_years": {
+        "2023": 60.1,
+        "2024": 67.1,
+        "2025": 62.2
+      }
+    },
+    {
+      "county": "Warren",
+      "district": "Warren County",
+      "school": "Warren Connect",
+      "ready_grad_rate": 42.9,
+      "ready_grad_years": {
+        "2023": null,
+        "2024": 53.3,
+        "2025": 42.9
+      }
+    },
+    {
+      "county": "Warren",
+      "district": "Warren County",
+      "school": "Warren County High School",
+      "ready_grad_rate": 40.5,
+      "ready_grad_years": {
+        "2023": 31.6,
+        "2024": 45.6,
+        "2025": 40.5
+      }
+    },
+    {
+      "county": "Grainger",
+      "district": "Grainger County",
+      "school": "Washburn School",
+      "ready_grad_rate": 37.2,
+      "ready_grad_years": {
+        "2023": 21.9,
+        "2024": 14.3,
+        "2025": 37.2
+      }
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Watertown High School",
+      "ready_grad_rate": 62.0,
+      "ready_grad_years": {
+        "2023": 65.8,
+        "2024": 83.0,
+        "2025": 62.0
+      }
+    },
+    {
+      "county": "Humphreys",
+      "district": "Humphreys County",
+      "school": "Waverly Central High School",
+      "ready_grad_rate": 70.4,
+      "ready_grad_years": {
+        "2023": 43.5,
+        "2024": 44.3,
+        "2025": 70.4
+      }
+    },
+    {
+      "county": "Wayne",
+      "district": "Wayne County",
+      "school": "Wayne County High School",
+      "ready_grad_rate": 72.0,
+      "ready_grad_years": {
+        "2023": 46.4,
+        "2024": 60.2,
+        "2025": 72.0
+      }
+    },
+    {
+      "county": "Carroll",
+      "district": "West Carroll Sp Dist",
+      "school": "West Carroll Junior/Senior High School",
+      "ready_grad_rate": 45.3,
+      "ready_grad_years": {
+        "2023": 23.9,
+        "2024": 71.4,
+        "2025": 45.3
+      }
+    },
+    {
+      "county": "Montgomery",
+      "district": "Montgomery County",
+      "school": "West Creek High",
+      "ready_grad_rate": 44.9,
+      "ready_grad_years": {
+        "2023": 27.0,
+        "2024": 39.9,
+        "2025": 44.9
+      }
+    },
+    {
+      "county": "Greene",
+      "district": "Greene County",
+      "school": "West Greene High School",
+      "ready_grad_rate": 66.1,
+      "ready_grad_years": {
+        "2023": 55.3,
+        "2024": 62.9,
+        "2025": 66.1
+      }
+    },
+    {
+      "county": "Knox",
+      "district": "Knox County",
+      "school": "West High School",
+      "ready_grad_rate": 63.1,
+      "ready_grad_years": {
+        "2023": 53.0,
+        "2024": 52.1,
+        "2025": 63.1
+      }
+    },
+    {
+      "county": "Sullivan",
+      "district": "Sullivan County",
+      "school": "West Ridge High School",
+      "ready_grad_rate": 43.4,
+      "ready_grad_years": {
+        "2023": 34.4,
+        "2024": 36.2,
+        "2025": 43.4
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "Westmoreland High School",
+      "ready_grad_rate": 46.2,
+      "ready_grad_years": {
+        "2023": 38.7,
+        "2024": 38.3,
+        "2025": 46.2
+      }
+    },
+    {
+      "county": "Weakley",
+      "district": "Weakley County",
+      "school": "Westview High School",
+      "ready_grad_rate": 48.6,
+      "ready_grad_years": {
+        "2023": 49.1,
+        "2024": 55.2,
+        "2025": 48.6
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Westwood High",
+      "ready_grad_rate": 63.2,
+      "ready_grad_years": {
+        "2023": 37.1,
+        "2024": 28.9,
+        "2025": 63.2
+      }
+    },
+    {
+      "county": "White",
+      "district": "White County",
+      "school": "White County High School",
+      "ready_grad_rate": 59.7,
+      "ready_grad_years": {
+        "2023": 51.7,
+        "2024": 49.1,
+        "2025": 59.7
+      }
+    },
+    {
+      "county": "Robertson",
+      "district": "Robertson County",
+      "school": "White House Heritage High School",
+      "ready_grad_rate": 49.0,
+      "ready_grad_years": {
+        "2023": 54.6,
+        "2024": 48.6,
+        "2025": 49.0
+      }
+    },
+    {
+      "county": "Sumner",
+      "district": "Sumner County",
+      "school": "White House High School",
+      "ready_grad_rate": 48.5,
+      "ready_grad_years": {
+        "2023": 36.6,
+        "2024": 37.6,
+        "2025": 48.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "White Station High",
+      "ready_grad_rate": 67.5,
+      "ready_grad_years": {
+        "2023": 53.7,
+        "2024": 63.3,
+        "2025": 67.5
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Whitehaven High",
+      "ready_grad_rate": 60.4,
+      "ready_grad_years": {
+        "2023": 27.2,
+        "2024": 50.2,
+        "2025": 60.4
+      }
+    },
+    {
+      "county": "Davidson",
+      "district": "Davidson County",
+      "school": "Whites Creek High",
+      "ready_grad_rate": 19.9,
+      "ready_grad_years": {
+        "2023": 25.8,
+        "2024": 26.8,
+        "2025": 19.9
+      }
+    },
+    {
+      "county": "Marion",
+      "district": "Marion County",
+      "school": "Whitwell High School",
+      "ready_grad_rate": 61.2,
+      "ready_grad_years": {
+        "2023": 53.3,
+        "2024": 57.3,
+        "2025": 61.2
+      }
+    },
+    {
+      "county": "Blount",
+      "district": "Blount County",
+      "school": "William Blount High School",
+      "ready_grad_rate": 63.3,
+      "ready_grad_years": {
+        "2023": 57.4,
+        "2024": 71.3,
+        "2025": 63.3
+      }
+    },
+    {
+      "county": "Wilson",
+      "district": "Wilson County",
+      "school": "Wilson Central High School",
+      "ready_grad_rate": 60.7,
+      "ready_grad_years": {
+        "2023": 62.4,
+        "2024": 56.3,
+        "2025": 60.7
+      }
+    },
+    {
+      "county": "Shelby",
+      "district": "Memphis-Shelby County Schools",
+      "school": "Wooddale High",
+      "ready_grad_rate": 30.1,
+      "ready_grad_years": {
+        "2023": 14.8,
+        "2024": 21.8,
+        "2025": 30.1
+      }
+    }
+  ]
+}
